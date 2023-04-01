@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>bump x feed</title>
-    <link>https://bumpxfeed.com/</link>
-    <description>Recent content on bump x feed</description>
+    <title>Florida on bump x feed</title>
+    <link>https://bumpxfeed.com/tags/florida/</link>
+    <description>Recent content in Florida on bump x feed</description>
     <image>
       <title>bump x feed</title>
       <url>https://bumpxfeed.com/images/bf-black.png</url>
@@ -11,16 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Apr 2023 16:32:30 +1100</lastBuildDate><atom:link href="https://bumpxfeed.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://bumpxfeed.com/about/</link>
-      <pubDate>Sat, 01 Apr 2023 21:57:51 +1100</pubDate>
-      
-      <guid>https://bumpxfeed.com/about/</guid>
-      <description>About the author of bump x feed, Jalen Wu</description>
-    </item>
-    
+    <lastBuildDate>Sat, 01 Apr 2023 16:32:30 +1100</lastBuildDate><atom:link href="https://bumpxfeed.com/tags/florida/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Ultimate Guide to Trying Out for WWE&#39;s Performance Center/ Tips &amp; Tricks to Become a Pro Wrestler</title>
       <link>https://bumpxfeed.com/posts/the-ultimate-guide-to-trying-out-for-wwes-performance-center/</link>

@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on bump x feed</title>
+    <link>https://bumpxfeed.com/tags/</link>
+    <description>Recent content in Tags on bump x feed</description>
+    <image>
+      <title>bump x feed</title>
+      <url>https://bumpxfeed.com/images/bf-black.png</url>
+      <link>https://bumpxfeed.com/images/bf-black.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2023 16:32:30 +1100</lastBuildDate><atom:link href="https://bumpxfeed.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Florida</title>
+      <link>https://bumpxfeed.com/tags/florida/</link>
+      <pubDate>Sat, 01 Apr 2023 16:32:30 +1100</pubDate>
+      
+      <guid>https://bumpxfeed.com/tags/florida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pro Wrestling School</title>
+      <link>https://bumpxfeed.com/tags/pro-wrestling-school/</link>
+      <pubDate>Sat, 01 Apr 2023 16:32:30 +1100</pubDate>
+      
+      <guid>https://bumpxfeed.com/tags/pro-wrestling-school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Performance Center</title>
+      <link>https://bumpxfeed.com/tags/the-performance-center/</link>
+      <pubDate>Sat, 01 Apr 2023 16:32:30 +1100</pubDate>
+      
+      <guid>https://bumpxfeed.com/tags/the-performance-center/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WWE</title>
+      <link>https://bumpxfeed.com/tags/wwe/</link>
+      <pubDate>Sat, 01 Apr 2023 16:32:30 +1100</pubDate>
+      
+      <guid>https://bumpxfeed.com/tags/wwe/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
