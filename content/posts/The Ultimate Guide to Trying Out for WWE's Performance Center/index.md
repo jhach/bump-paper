@@ -13,7 +13,7 @@ draft: false
 hidemeta: false
 comments: false
 description: ""
-canonicalURL: "https://bumpxfeed.com"
+canonicalURL: "https://bumpxfeed.com/the-ultimate-guide-to-trying-out-for-wwes-performance-center"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
