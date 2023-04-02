@@ -4,6 +4,24 @@ title: bump x feed
 paginate: 5
 theme: PaperMod
 
+enableGitInfo: true
+
+frontmatter:
+  date:
+  - date
+  - publishDate
+  - lastmod
+  expiryDate:
+  - expiryDate
+  lastmod:
+  - :git
+  - lastmod
+  - date
+  - publishDate
+  publishDate:
+  - publishDate
+  - date
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
