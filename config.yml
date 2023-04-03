@@ -77,12 +77,12 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: bump x feed
-    subtitle: "This is subtitle"
+    subtitle: "Welcome to Bump x Feed, your destination to help achieve your dream of becoming a professional wrestler / sports entertainer."
     imageUrl: "images/bf-black.png"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 240
+    imageHeight: 240
     imageTitle: bump x feed
     buttons:
       - name: Posts
@@ -100,16 +100,18 @@ params:
       url: "https://twitter.com/bumpxfeed"
     - name: tiktok
       url: "https://tiktok.com/@bumpxfeed"
+    - name: facebook
+      url: "https://facebook.com/@bumpxfeed"
     - name: github
-      url: "https://github.com/jhach"
+      url: "https://github.com/jhach/bump-paper"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+  # analytics:
+    #google:
+      # SiteVerificationTag: "XYZabc"
+    # bing:
+      # SiteVerificationTag: "XYZabc"
+    # yandex:
+      # SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: false # hide everywhere but not in structured data
