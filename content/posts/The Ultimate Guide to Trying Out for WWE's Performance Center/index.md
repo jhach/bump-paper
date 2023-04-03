@@ -31,13 +31,11 @@ cover:
     caption: "Try out for the WWE at The Performance Center" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+# editPost:
+    # URL: "https://github.com/jhach/bump-paper/content"
+    # Text: "Suggest Changes" # edit text
+    # appendFilePath: true # to append file path to Edit link
 ---
-
-<!--more-->
 
 So you want to be a pro wrestler / sports entertainer for the biggest wrestling company in the world? They actually made it easy for you to join and train at the world famous "PC", aka the WWE Performance Center, located in Orlando, Florida. WWE (World Wrestling Entertainment) is constantly looking for fresh talent and even created a website to make the process easier. Scroll down to learn more!
 
