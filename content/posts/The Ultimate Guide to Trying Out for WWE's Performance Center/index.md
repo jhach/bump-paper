@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Guide to Trying Out for WWE's Performance Center/ Tips & Tricks to Become a Pro Wrestler"
+title: "The Ultimate Guide to Trying Out for WWE's Performance Center / Tips to Become a WWE Sports Entertainer"
 date: 2023-04-01T16:32:30+11:00
 lastmod: 2023-04-01T16:32:30+11:00
 # weight: 1
@@ -63,7 +63,10 @@ After submitting your application, WWE may contact you within 4-6 weeks notice t
 
 ## Step 3
 ### Attend a tryout
-WWE is known to hold tryouts when there are RAW and Smackdown tv tapings and at major PLEs (Premium Live Events) throughout the year. Set an alert for emails/phone calls from them.
+WWE is known to hold tryouts when there are RAW and Smackdown tv tapings and at major PLEs (Premium Live Events) throughout the year. Set an alert for tv tapings and PLE events happening near you. 
+
+{{< tweet user="WWERecruit" id="1641470135742627845" >}}
+The above tweet shows a tryout during Wrestlmania weekend in Los Angeles, California.
 
 ## Step 4
 ### Wait for feedback from the WWE Performance Center
