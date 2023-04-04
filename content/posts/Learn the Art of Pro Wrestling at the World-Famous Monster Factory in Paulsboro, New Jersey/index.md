@@ -37,7 +37,7 @@ cover:
     # appendFilePath: true # to append file path to Edit link
 ---
 
-![The World Famous Monster Factory in Paulsboro, New Jersey](./monster-factory.png)
+![The World Famous Monster Factory in Paulsboro, New Jersey](../../monster-factory.png)
 The Monster Factory has been developing talent since its founding in 1983 when "Pretty Boy" Larry Sharpe and "Nature Boy" Buddy Rogers founded the training center. It was bought and rebranded the World Famous Monster Factory in 2011, by Danny Cage, who coaches, owns, and operates the school.
 
 
