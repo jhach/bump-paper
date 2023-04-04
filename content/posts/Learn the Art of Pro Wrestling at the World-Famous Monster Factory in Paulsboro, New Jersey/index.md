@@ -51,9 +51,17 @@ Paulsboro, New Jersey 08066
 
 ![The World Famous Monster Factory located at 541 Mantua Ave, Paulsboro, New Jersey](./monster-factory-location.png)
 
-### Close Cities
-* Philadelphia, PA
-* Wilmington, DE
+### Which major cities are near the World Famous Monster Factory located in Paulsboro, New Jersey?
+
+1. Philadelphia, Pennsylvania - Located just across the Delaware River, Philadelphia is easily accessible by public transportation from Paulsboro. The PATCO high-speed line connects Paulsboro to Philadelphia, with a travel time of approximately 30 minutes.
+
+2. New York City, New York - While not as close as Philadelphia, New York City is still accessible by public transportation from Paulsboro. The Amtrak Northeast Corridor line connects Paulsboro to New York City's Penn Station, with a travel time of approximately 2 hours.
+
+3. Baltimore, Maryland - Located to the south of Paulsboro, Baltimore can be reached via Amtrak from Philadelphia's 30th Street Station. The travel time is approximately 1 hour and 15 minutes.
+
+4. Washington D.C. - Similarly to Baltimore, Washington D.C. can be reached via Amtrak from Philadelphia's 30th Street Station. The travel time is approximately 1 hour and 45 minutes.
+
+5. Atlantic City, New Jersey - Located to the east of Paulsboro, Atlantic City can be reached via the Atlantic City Rail Line, which connects to the PATCO line in Lindenwold. The travel time is approximately 1 hour and 15 minutes.
 
 ### Does the World Famous Monster Factory offer housing or dorms for their trainees and students?
  No
@@ -141,7 +149,7 @@ Total of 1.5 hours a week
 
 ---
 
-## How much does it cost to train at the World Famous Monster Factory?
+## How much will it cost to train at the World Famous Monster Factory?
 They offer 2 options to pay for the Beginner, Advanced and Junior programs.
 
 ### One Year Membership Paid in Full (Juniors)
