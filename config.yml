@@ -68,7 +68,7 @@ params:
     favicon16x16: "https://bumpxfeed.com/images/bfblack16.png"
     favicon32x32: "https://bumpxfeed.com/images/bfblack32.png"
     apple_touch_icon: "https://bumpxfeed.com/images/bfblack180.png"
-    safari_pinned_tab: "<link / abs url>"
+    safari_pinned_tab: "https://bumpxfeed.com/images/bfblack32.png"
 
   label:
     text: "bump x feed"
@@ -140,7 +140,7 @@ menu:
       # url: /categories/
       # weight: 10
     - identifier: posts
-      name: archive
+      name: posts
       url: /posts
       weight: 15
     - identifier: tags
