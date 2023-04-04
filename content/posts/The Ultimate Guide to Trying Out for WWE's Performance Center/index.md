@@ -74,7 +74,7 @@ Contracts can be given on the spot during WWE tryouts or through additional eval
 
 ---
 
-Visit the WWE Recruiting website here 👉 https://recruit.wwe.com/#!/tryout
+Visit the WWE Recruiting website here 👉 [WWE Recruit](https://recruit.wwe.com/#!/tryout)
 
 Good luck!
 
