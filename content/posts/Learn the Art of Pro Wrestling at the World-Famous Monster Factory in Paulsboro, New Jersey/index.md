@@ -4,7 +4,8 @@ date: 2023-04-02
 lastmod:
 # weight: 1
 # aliases: ["/first"]
-tags: ["Monster Factory","New Jersey", "Pro Wrestling School"]
+tags: ["Monster Factory","New Jersey"]
+categories: ["Pro Wrestling School"]
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
 showToc: true

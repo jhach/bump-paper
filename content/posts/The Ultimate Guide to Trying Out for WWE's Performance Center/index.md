@@ -4,7 +4,8 @@ date: 2023-04-01T16:32:30+11:00
 lastmod: 2023-04-01T16:32:30+11:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["WWE","The Performance Center","Florida", "Pro Wrestling School"]
+tags: ["WWE","The Performance Center","Florida"]
+categories: ["Pro Wrestling School"]
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
 showToc: true

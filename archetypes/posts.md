@@ -5,6 +5,7 @@ lastmod: {{ .Lastmod }}
 # weight: 1
 # aliases: ["/first"]
 tags: ["","",""]
+categories: ["",""]
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -13,12 +14,12 @@ draft: true
 hidemeta: false
 comments: false
 description: ""
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://bumpxfeed.com/.."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -26,7 +27,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
+    image: "https://bumpxfeed.com/.." # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true

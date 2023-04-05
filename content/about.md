@@ -13,10 +13,10 @@ draft: false
 hidemeta: false
 comments: false
 description: "About the author of bump x feed, Jalen Wu"
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https:bumpxfeed.com/about"
 disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
+disableShare: true
+disableHLJS: true
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
@@ -24,20 +24,20 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+UseHugoToc: false
+# cover:
+    # image: "https://bumpxfeed.com/about.jpg" # image path/url
+    # alt: ""Jumpin" Jalen Wu dropkick" # alt text
+    # caption: ""Jumpin" Jalen Wu dropkicking an opponent" # display caption under cover
+    # relative: false # when using page bundles set this to true
+    # hidden: true # only hide on current single page
+# editPost:
+    # URL: "https://github.com/<path_to_repo>/content"
+    # Text: "Suggest Changes" # edit text
+    # appendFilePath: true # to append file path to Edit link
 ---
 
-![Dropkick by Jalen Wu](/images/about.jpg)
+![Dropkick by Jalen Wu](../../about.jpg)
 
 Hola!
 
