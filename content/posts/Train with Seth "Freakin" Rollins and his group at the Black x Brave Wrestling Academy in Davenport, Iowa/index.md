@@ -100,7 +100,7 @@ The dates listed on their website starts with 2024 but we encourage you to conta
 
 ## How much does it cost to train at the Black x Brave Wrestling Academy?
 _From the Black x Brave website:_
->>Please be aware that tuition cost is rising in 2025 to a total of $4,000. As a result, your down payment will be $2,000.
+>Please be aware that tuition cost is rising in 2025 to a total of $4,000. As a result, your down payment will be $2,000.
 
 ### 12 Week Training (No Lodging)
 * $3,500 USD Total
