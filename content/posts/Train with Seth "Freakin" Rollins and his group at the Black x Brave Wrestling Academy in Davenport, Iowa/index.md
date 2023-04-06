@@ -128,7 +128,7 @@ Price includes the use of the gym equipment at the facility, unlimited access to
 
 ---
 
-## What epuipment and/or other services are available at the Black x Brave Wrestling Academy?
+## What equipment and/or other services are available at the Black x Brave Wrestling Academy?
 * WWE ring
 * Gym equipment
 * Crossfit training
