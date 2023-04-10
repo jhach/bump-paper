@@ -1,6 +1,6 @@
 ---
 title: "Pro Wrestling Training to Main Roster: Austin Theory from the WWE"
-date:
+date: 2023-04-10
 lastmod:
 # weight: 1
 # aliases: ["/first"]
