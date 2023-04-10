@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>WWE on bump x feed</title>
-    <link>https://bumpxfeed.com/tags/wwe/</link>
-    <description>Recent content in WWE on bump x feed</description>
+    <title>Superstar Spotlight on bump x feed</title>
+    <link>https://bumpxfeed.com/categories/superstar-spotlight/</link>
+    <description>Recent content in Superstar Spotlight on bump x feed</description>
     <image>
       <title>bump x feed</title>
       <url>https://bumpxfeed.com/images/bf-black.png</url>
       <link>https://bumpxfeed.com/images/bf-black.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 01 Apr 2023 16:32:30 +1100</lastBuildDate><atom:link href="https://bumpxfeed.com/tags/wwe/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Ultimate Guide to Trying Out for WWE&#39;s Performance Center / Tips to Become a WWE Sports Entertainer</title>
-      <link>https://bumpxfeed.com/posts/the-ultimate-guide-to-trying-out-for-wwes-performance-center/</link>
-      <pubDate>Sat, 01 Apr 2023 16:32:30 +1100</pubDate>
-      
-      <guid>https://bumpxfeed.com/posts/the-ultimate-guide-to-trying-out-for-wwes-performance-center/</guid>
-      <description>So you want to be a pro wrestler / sports entertainer for the biggest wrestling company in the world? They actually made it easy for you to join and train at the world famous &amp;ldquo;PC&amp;rdquo;, aka the WWE Performance Center, located in Orlando, Florida. WWE (World Wrestling Entertainment) is constantly looking for fresh talent and even created a website to make the process easier. Scroll down to learn more!
-Step 1 Apply and submit your application to be a WWE Sports Entertainer/Pro Wrestler As of Friday, December 30, 2022, WWE&amp;rsquo;s Recruit website is live and accepting applications.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://bumpxfeed.com/categories/superstar-spotlight/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pro Wrestling Training to Main Roster: Austin Theory from the WWE</title>
       <link>https://bumpxfeed.com/posts/pro-wrestling-training-to-main-roster-austin-theory-from-the-wwe/</link>
