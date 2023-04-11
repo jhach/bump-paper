@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-lastmod: {{ .Lastmod }}
+lastmod:
 # weight: 1
 # aliases: ["/first"]
 tags: ["","",""]
