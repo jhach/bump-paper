@@ -28,10 +28,6 @@ buildFuture: false
 buildExpired: false
 
 googleAnalytics: G-JVJ5ZYFD7R
-gtm_id: "GTM-WPGJ28D"
-gtm_datalayer: "basic"
-
-
 
 minify:
   disableXML: true
@@ -48,6 +44,8 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  gtm_id: GTM-WPGJ28D
+  gtm_datalayer: basic
 
   ShowReadingTime: true
   ShowShareButtons: true
