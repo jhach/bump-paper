@@ -29,6 +29,9 @@ buildExpired: false
 
 googleAnalytics: G-JVJ5ZYFD7R
 gtm_id: GTM-WPGJ28D
+gtm_datalayer: basic
+
+
 
 minify:
   disableXML: true
