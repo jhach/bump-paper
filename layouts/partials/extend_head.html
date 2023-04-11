@@ -1,7 +1,5 @@
 {{- /* Head custom content area start */ -}}
 {{- /*     Insert any custom code (web-analytics, resources, etc.) - it will appear in the <head></head> section of every page. */ -}}
-{{- /* Cookie consent */ -}}
-{{- template "partials/cookie-consent.html" . }}
 {{- /* Google Tag Manager code in the head */ -}}
 {{ if .Site.Params.gtm_id}}{{- partial "gtm.html" . }}{{ end }}
 {{- /* Google Adsense code in the head */ -}}
