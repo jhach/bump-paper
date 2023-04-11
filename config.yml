@@ -28,6 +28,7 @@ buildFuture: false
 buildExpired: false
 
 googleAnalytics: G-JVJ5ZYFD7R
+gtm_id: GTM-WPGJ28D
 
 minify:
   disableXML: true
