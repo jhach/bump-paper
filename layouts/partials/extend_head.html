@@ -1,8 +1,10 @@
 {{- /* Head custom content area start */ -}}
 {{- /*     Insert any custom code (web-analytics, resources, etc.) - it will appear in the <head></head> section of every page. */ -}}
-{{- /* Google Tag Manager code in the head */}}
+{{- /* Cookie consent */ -}}
+{{- template "partials/cookie-consent.html" . }}
+{{- /* Google Tag Manager code in the head */ -}}
 {{ if .Site.Params.gtm_id}}{{- partial "gtm.html" . }}{{ end }}
-{{- /* Google Adsense code in the head */}}
+{{- /* Google Adsense code in the head */ -}}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4070951393243815"
      crossorigin="anonymous"></script>
 {{- /*     Can be overwritten by partial with the same name in the global layouts. */ -}}
