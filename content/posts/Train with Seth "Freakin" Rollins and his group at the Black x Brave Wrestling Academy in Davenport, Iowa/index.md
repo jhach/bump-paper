@@ -13,7 +13,7 @@ TocOpen: true
 draft: false
 hidemeta: false
 comments: false
-description: "Information about Seth Rollins' pro wrestling school, Black x Brave Wrestling Academy, located in Davenport, Iowa. Learn more about their programs and the cost to attend."
+description: "The Black x Brave Wrestling Academy has been developing talent since 2014. The facility, located in Davenport, Iowa, is equipped with a WWE ring and wide range of gym equipment. Read more about how to train at Seth Rollins' pro wrestling school including the programs they offer and the cost to attend."
 canonicalURL: "https://bumpxfeed.com/train-with-seth-freakin-rollins-and-his-group-at-the-black-x-brave-wrestling-academy-in-davenport-iowa"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -37,8 +37,6 @@ cover:
     # Text: "Suggest Changes" # edit text
     # appendFilePath: true # to append file path to Edit link
 ---
-
-The Black x Brave Wrestling Academy has been developing talent since 2014. The facility, located in Davenport, Iowa, is equipped with a WWE ring and wide range of gym equipment.
 
 ## Where is Seth Rollins' Black x Brave Wrestling Academy located?
 It is located in Davenport, Iowa. 

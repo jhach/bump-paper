@@ -13,7 +13,7 @@ TocOpen: true
 draft: false
 hidemeta: false
 comments: false
-description: ""
+description: "So you want to be a pro wrestler / sports entertainer for the biggest wrestling company in the world? They actually made it easy for you to join and train at the world famous "PC", aka the WWE Performance Center, located in Orlando, Florida. WWE (World Wrestling Entertainment) is constantly looking for fresh talent and even created a website to make the process easier. Scroll down to learn more!"
 canonicalURL: "https://bumpxfeed.com/the-ultimate-guide-to-trying-out-for-wwes-performance-center"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -37,9 +37,6 @@ cover:
     # Text: "Suggest Changes" # edit text
     # appendFilePath: true # to append file path to Edit link
 ---
-
-So you want to be a pro wrestler / sports entertainer for the biggest wrestling company in the world? They actually made it easy for you to join and train at the world famous "PC", aka the WWE Performance Center, located in Orlando, Florida. WWE (World Wrestling Entertainment) is constantly looking for fresh talent and even created a website to make the process easier. Scroll down to learn more!
-
 
 ![Four Steps to make it with WWE's Performance Center](4-steps-to-make-it-to-wwe.png)
 
