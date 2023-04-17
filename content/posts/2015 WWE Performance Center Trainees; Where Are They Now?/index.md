@@ -10,11 +10,11 @@ author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "A bumpxfeed exclusive: We'll take a look at the 2015 WWE Performance Center trainees' professional wrestling careers from training to where they are now."
-canonicalURL: "https://bumpxfeed.com/.."
+canonicalURL: "https://bumpxfeed.com/2015-wwe-performance-center-trainees-where-are-they-now"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -27,9 +27,9 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://bumpxfeed.com/.." # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "https://bumpxfeed.com/wwe-pc-2015.jpg" # image path/url
+    alt: "<2015 WWE Performance Center trainees including Montez Ford, Apollo Crews, and Aliyah currently in WWE>" # alt text
+    caption: "2015 WWE Performance Center trainees including Montez Ford, Apollo Crews, and Aliyah currently in WWE" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 # editPost:
@@ -37,6 +37,7 @@ cover:
     # Text: "Suggest Changes" # edit text
     # appendFilePath: true # to append file path to Edit link
 ---
+![2015 WWE Performance Center trainees including Montez Ford, Apollo Crews, and Aliyah currently in WWE](../../wwe-pc-2015.jpg)
 
 The WWE was actively recruiting, globally, for the April 2015 Performance Center class. Some made it to the main WWE roster and are still active, some achieved main roster superstardom and succeeded outside of WWE, while others didn't make it beyond NXT. Let's break down the WWE Performance Center class of 2015 and see what they are up to today (2023).
 
@@ -51,16 +52,18 @@ She got her spot in the 2015 WWE Performance Center class after a WWE tryout was
 
 She was released from the WWE in 2021, along with her IIconics tag team partner, Jessica McKay. They both appeared on Impact! Wrestling later that year. She performed under the name Cassie Lee as one half of the IInspiration.
 
-She is currently taking time away to care for her newborn with AEW superstar, Shawn Spears.
+She is currently taking time away to care for her newborn with AEW superstar, Shawn Spears.  
+
 Status: Inactive
 
 ### Jessica McKay aka Billie Kay (Sydney, Australia)
-Since 2008, has trained with the Pro Wrestling Alliance in Sydney, as well as Ring of Honor.
-Jessica McKay also trained with Pro Wrestling Alliance and started her journey in 2007. In 2008, she made the excursion to the United States for independent promotions: CZW, ROH, Chikara, Shimmer, and Shine.
 
-She received a spot in the 2015 WWE Performance Center class after a WWE tryout was held in Australia in 2014. Jessica, going under the name Billie Kay in the WWE, would compete in NXT from 2015 to 2018 before being called up to the main roster. Jessica, along with Cassie, were both released from their WWE contracts in 2021. She made a brief appearance with her IIconics partner at Impact! wrestling in late 2021.
+Jessica McKay also trained with Pro Wrestling Australia and started her journey in 2007. In 2008, she made the excursion to the United States for perform for independent promotions: CZW, ROH, Chikara, Shimmer, and Shine.
 
-She is currently modeling and acting, per her Instagram.
+She received a spot in the 2015 WWE Performance Center class after attending a WWE tryout in Australia in 2014. Jessica, going under the name Billie Kay in the WWE, would compete in NXT from 2015 to 2018 before being called up to the main roster. Jessica, along with Cassie, were both released from their WWE contracts in 2021. She made a brief appearance with her IIconics partner at Impact! wrestling in late 2021.
+
+She is currently modeling and acting, per her Instagram.  
+
 Status: Inactive
 
 ## 🇨🇦 Canada 
@@ -69,21 +72,22 @@ Status: Inactive
 
 Nhooph Al-Areebi started her pro wrestling training with Squared Circle in 2011. Her background is in acrobatics where she learned her skills at the Toronto Circus School from 2008-2012.
 
-She received a spot in the 2015 WWE Performance Center class and would perform under her real name until January 2016. She made her WWE main roster debut in 2021 for the Smackdown brand.
+She received a spot on the 2015 WWE Performance Center class and would perform under her real name until January 2016 when she was renamed Aliyah. She made her WWE main roster debut in 2021 for the Smackdown brand.
 
-She is currently on the WWE Smackdown roster but hasn't been used for quite a while.
+She is currently on the WWE Smackdown roster but hasn't been used for quite a while.  
+
 Status: Active (WWE)
 
 ## 🇩🇪 Germany
 ![Axel Tischer aka Alexander Wolfe at the WWE Performance Center in 2015](axel.jpg)
 ### Axel Tischer Aka Alexander Wolfe (Dresden, Germany) 
-Trained with GWF Wrestling in Berlin, Germany, since 2006. Served in the German Army from 2005-2007, achieving the rank of Private First Class.
 
 Axel Tischer was trained in 2004 at the GWF (German Wrestling Federation) school and has wrestled all over Germany and Europe before joining the PC. From 2005-2007, he served in the German Army and achieved rank of Private First Class.
 
-Axel was given a spot in the 2015 WWE Performance Center class. He made his debut in the same year for NXT. He would go under the name Alexander Wolfe in 2016 and joined the stable, SAnitY. Having success with the group, he was called up to the main roster for Smackdown in 2018 and wrestled for them until 2019 when he was reassigned to NXT UK. He was released from his WWE contract in May of 2021.
+Axel was given a spot on the 2015 WWE Performance Center class and made his debut in the same year for NXT. He would go under the name Alexander Wolfe in 2016 and joined the stable, SAnitY. Having success with the group, he was called up to the main roster for Smackdown in 2018 and wrestled for them until 2019 when he was reassigned to NXT UK. He was released from his WWE contract in May of 2021.
 
-Axel Tischer can be seen on the independent scene in Germany, Europe, and the United States.
+Axel Tischer can be seen on the independent scene in Germany, Europe, and the United States.  
+
 Status: Active (Independents)
 
 ## 🇲🇽 Mexico
@@ -95,7 +99,8 @@ Oscar accepted his 2015 WWE Performance Center spot in April and [cagematch.net]
 
 It's assumed he was released in 2016 based on his match history. He has been performing for Lucha Libre Elite and various independent promotions in the United States in Mexico.
 
-Oscar aka Magno's status in the industry is unknown.
+Oscar aka Magno's status in the industry is unknown.  
+
 Status: Unknown (last match documented was from May 5, 2022 for Lucha VaVoom)
 
 ## 🇷🇸 Serbia
@@ -116,14 +121,13 @@ Peter Howard was a former collegiate Rugby player in the UK. After an injury sho
 
 His first tryout was in the U.K. in 2014 which an MMA friend also attended and got him the opportunity.
 
-As of February 2016, he was released from the WWE Performance Center and no other information is available regarding what he's up to today.
+As of February 2016, he was released from the WWE Performance Center and no other information is available regarding what he's up to today.  
 
 Status: Inactive 
 
 ## 🇺🇸 United States of America
 ![Kenneth Crawford aka Montez Ford at the WWE Performance Center in 2015](kenneth.jpg)
 ### Kenneth Crawford Aka Montez Ford (Chicago, Illinois/Anson County, North Carolina) 
-Served in the U.S. Marine Corps for four years and accumulated a perfect 300 score in the United States Marine Corps Physical Fitness Test. Holds the North Carolina South Piedmont and Anson High School records in the 200-meter, 400-meter and 4x4 relay. Anson High School Athlete of the Year in 2007.
 
 Kenneth Crawford aka Montez Ford was a high school athlete holding records in the 200-meter, 400-meter, and 4x4 relay at North Carolina South Piedmont and Anson High School while also named Anson High School Athlete of the Year in 2007. He served in the U.S. Marine Corps from September 2008 - September 2012 and achieved a perfect 300 score in the United States Marine Corps Physical Fitness Test.
 
@@ -131,47 +135,48 @@ Kenneth's tryout came after his wife submitted pictures on the [WWE Recruit webs
 
 From 2016-2019, Kenneth Crawford, now going by Montez Ford, gained success tag teaming with Angelo Dawkins. Their tag team would be called the Street Profits.
 
-In late 2019, the Street Profits would be called up to the main roster where they remain today, splitting time with Raw and Smackdown.
+In late 2019, the Street Profits would be called up to the main roster where they remain today, splitting time with Raw and Smackdown.  
 
 Status: Active (WWE)
 
 ![Thomas Kingdon at the WWE Performance Center in 2015](thomas.jpg)
 ### Thomas Kingdon (Traverse City, Michigan)
+
 Thomas Kingdon was an amateur bodybuilder who won the super-heavyweight class at the 2013 NPC Central States Competition before his WWE tryout, which he applied for on the [WWE Recruit website](https://recruit.wwe.com/#!/tryout).
 
-He was released in 2016 and no other information is available regarding his status in the industry, today.
+He was released in 2016 and no other information is available regarding his status in the industry, today.  
 
 Status: Inactive
 
 ![Sesugh Uhaa aka Apollo Crews at the WWE Performance Center in 2015](sesugh.jpg)
 ### Sesugh Uhaa Aka Apollo Crews (Atlanta, Georgia)
-High school soccer, football and track-and-field star. Began training in 2009 and competed for Dragon Gate USA. Nigerian descent.
 
 Sesugh Uhaa aka Apollo Crews was a high school standout in soccer, football, and track and field in the state of Georgia. He began his training at the WWA4 wrestling school in 2009 and got his big break with Dragon Gate in 2011. From 2011-2015, he was on their roster and eventually landed a spot with the 2015 WWE Performance Center class.
 
-Apollo Crews was called up to the main roster in 2016 and remained until the summer of 2022, where he now wrestles on the NXT brand.
+Apollo Crews was called up to the main roster in 2016 and remained until the summer of 2022, where he now wrestles on the NXT brand.  
 
 Status: Active (WWE)
 
 ![Levis Valenzuela Jr. at the WWE Performance Center in 2015](levis.jpg)
 ### Levis Valenzuela Jr. (Durham, North Carolina) 
+
 Levis trained with CWF Mid-Atlantic in 2013 and wrestled mostly for them until 2015 when he earned a spot on the 2015 WWE Performance Center class. 
 
-He debuted as No Way Jose on NXT in 2016 and got called up to the main roster in 2018. He was released from the WWE in 2020.
+He debuted as No Way Jose on NXT in 2016 and got called up to the main roster in 2018. He was eventually released from the WWE in 2020.
 
-He made a brief apperance with Impact! Wrestling and has been seen on a few independent shows.
+He made a brief apperance with Impact! Wrestling and has been seen on a few independent shows.  
 
 Status: Active (Independents)
 
 ## How did the 2015 WWE Performance Center trainees do?
-### Out of 11 performers
+### Out of 11 performers...
 * 3 are active in the WWE
-** 27% of that class are currently active in the WWE
+  * 27% of that class are currently active in the WWE
 * 6 are inactive or status is unknown
-** 55% of that class are currently not active in the pro wrestling industry
+  * 55% of that class are currently not active in the pro wrestling industry
 * 2 are active on the independents
-** 18% of that class are currently active outside of WWE
+  * 18% of that class are currently active outside of WWE
 
 
 ## Additional reading:
-[Article published on 13.04.2015](https://www.wwe.com/shows/wwenxt/wwe-performance-center-welcomes-new-class-of-recruits)
+[WWE article published on 13.04.2015](https://www.wwe.com/shows/wwenxt/wwe-performance-center-welcomes-new-class-of-recruits)
