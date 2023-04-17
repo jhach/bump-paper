@@ -100,7 +100,9 @@ Status: Unknown (last match documented was from May 5, 2022 for Lucha VaVoom)
 
 ## 🇷🇸 Serbia
 ![Radomir Petkovic aka King Constantine at the WWE Performance Center in 2015](radomir.webp)
-Radomir Petkovic Aka King Constantine from Belgrade, Serbia was a two-time Greco-Roman and Freestyle bronze medalist at the 2009 Mediterranean Games and also a 2010 European Wrestling Champion. 
+### Radomir Petkovic Aka King Constantine from Belgrade, Serbia 
+
+Radomir was a two-time Greco-Roman and Freestyle bronze medalist at the 2009 Mediterranean Games and also a 2010 European Wrestling Champion. 
 
 He trained with the WWE Performance Center in 2015 and was released a year later.
 
@@ -109,23 +111,67 @@ Status: Inactive
 ## 🇬🇧 United Kingdom
 ![Peter Howard at the WWE Performance Center in 2015](peterhoward.png)
 ### Peter Howard (Exeter, England)
-Played collegiate Rugby in the U.K. and was a regional discus champion.
+
+Peter Howard was a former collegiate Rugby player in the UK. After an injury shortened his career, he pivoted to discus and became a regional champion.
+
+His first tryout was in the U.K. in 2014 which an MMA friend also attended and got him the opportunity.
+
+As of February 2016, he was released from the WWE Performance Center and no other information is available regarding what he's up to today.
+
+Status: Inactive 
 
 ## 🇺🇸 United States of America
 ![Kenneth Crawford aka Montez Ford at the WWE Performance Center in 2015](kenneth.jpg)
 ### Kenneth Crawford Aka Montez Ford (Chicago, Illinois/Anson County, North Carolina) 
 Served in the U.S. Marine Corps for four years and accumulated a perfect 300 score in the United States Marine Corps Physical Fitness Test. Holds the North Carolina South Piedmont and Anson High School records in the 200-meter, 400-meter and 4x4 relay. Anson High School Athlete of the Year in 2007.
 
+Kenneth Crawford aka Montez Ford was a high school athlete holding records in the 200-meter, 400-meter, and 4x4 relay at North Carolina South Piedmont and Anson High School while also named Anson High School Athlete of the Year in 2007. He served in the U.S. Marine Corps from September 2008 - September 2012 and achieved a perfect 300 score in the United States Marine Corps Physical Fitness Test.
+
+Kenneth's tryout came after his wife submitted pictures on the [WWE Recruit website](https://recruit.wwe.com/#!/tryout) in 2013. He earned a spot in the 2015 WWE Performance Center class shortly thereafter.
+
+From 2016-2019, Kenneth Crawford, now going by Montez Ford, gained success tag teaming with Angelo Dawkins. Their tag team would be called the Street Profits.
+
+In late 2019, the Street Profits would be called up to the main roster where they remain today, splitting time with Raw and Smackdown.
+
+Status: Active (WWE)
+
 ![Thomas Kingdon at the WWE Performance Center in 2015](thomas.jpg)
 ### Thomas Kingdon (Traverse City, Michigan)
-Competed in amateur bodybuilding and won the super-heavyweight class at the 2013 NPC Central States Competition.
+Thomas Kingdon was an amateur bodybuilder who won the super-heavyweight class at the 2013 NPC Central States Competition before his WWE tryout, which he applied for on the [WWE Recruit website](https://recruit.wwe.com/#!/tryout).
+
+He was released in 2016 and no other information is available regarding his status in the industry, today.
+
+Status: Inactive
 
 ![Sesugh Uhaa aka Apollo Crews at the WWE Performance Center in 2015](sesugh.jpg)
 ### Sesugh Uhaa Aka Apollo Crews (Atlanta, Georgia)
 High school soccer, football and track-and-field star. Began training in 2009 and competed for Dragon Gate USA. Nigerian descent.
 
+Sesugh Uhaa aka Apollo Crews was a high school standout in soccer, football, and track and field in the state of Georgia. He began his training at the WWA4 wrestling school in 2009 and got his big break with Dragon Gate in 2011. From 2011-2015, he was on their roster and eventually landed a spot with the 2015 WWE Performance Center class.
+
+Apollo Crews was called up to the main roster in 2016 and remained until the summer of 2022, where he now wrestles on the NXT brand.
+
+Status: Active (WWE)
+
 ![Levis Valenzuela Jr. at the WWE Performance Center in 2015](levis.jpg)
 ### Levis Valenzuela Jr. (Durham, North Carolina) 
-Trained with CWF Mid-Atlantic in 2013. Proficient in dance and won various awards for collegiate ballroom dancing. Holds a Bachelor of Arts in Criminal Justice from UNC Charlotte. Grew up in the United States, lived in South Korea from 2011-2013, and speaks Spanish.
+Levis trained with CWF Mid-Atlantic in 2013 and wrestled mostly for them until 2015 when he earned a spot on the 2015 WWE Performance Center class. 
 
+He debuted as No Way Jose on NXT in 2016 and got called up to the main roster in 2018. He was released from the WWE in 2020.
+
+He made a brief apperance with Impact! Wrestling and has been seen on a few independent shows.
+
+Status: Active (Independents)
+
+## How did the 2015 WWE Performance Center trainees do?
+### Out of 11 performers
+* 3 are active in the WWE
+** 27% of that class are currently active in the WWE
+* 6 are inactive or status is unknown
+** 55% of that class are currently not active in the pro wrestling industry
+* 2 are active on the independents
+** 18% of that class are currently active outside of WWE
+
+
+## Additional reading:
 [Article published on 13.04.2015](https://www.wwe.com/shows/wwenxt/wwe-performance-center-welcomes-new-class-of-recruits)
