@@ -4,7 +4,7 @@ date: 2023-04-10
 lastmod:
 # weight: 1
 # aliases: ["/first"]
-tags: ["Austin Theory","WWE","WWA4", "Bodybuilding"]
+tags: ["Austin Theory","WWE","WWE Performance Center","WWA4","Bodybuilding"]
 categories: ["Superstar Spotlight"]
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
