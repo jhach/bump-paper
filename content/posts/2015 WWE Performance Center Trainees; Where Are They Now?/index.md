@@ -4,7 +4,7 @@ date: 2023-04-14T14:24:28+10:00
 lastmod:
 # weight: 1
 # aliases: ["/first"]
-tags: ["WWE","WWE Performance Center","Florida"]
+tags: ["WWE","WWE Performance Center","Florida", "Montez Ford", "Apollo Crews", "Aliyah", "Alexander Wolfe", "Peyton Royce", "Billie Kay", "Magno", "Radomir Petkovic", "Peter Howard", "Thomas Kingdon", "No Way Jose"]
 categories: ["Pro Wrestling School"]
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
