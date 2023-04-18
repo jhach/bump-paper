@@ -65,7 +65,10 @@ Yes! Students can rent bunks for $300 a month.
 * Matt Mayday
 
 ## Which pro wrestlers have trained at the Black x Brave Wrestling Academy?
-* Nathan Frazer 
+* Nathan Frazer  
+![Seth Rollins' quote about Ben Carter aka Nathan Frazer](ben-carter.png)
+_source:_ _[wrestletalk](https://wrestletalk.com/news/seth-rollins-is-proud-of-nxt-uk-star/)_  
+
 * Zicky Dice
 * Frontman Jah
 
@@ -129,6 +132,9 @@ Price includes the use of the gym equipment at the facility, unlimited access to
 
 ## What equipment and/or other services are available at the Black x Brave Wrestling Academy?
 * WWE ring
+![WWE ring gifted by Vince McMahon to the Black x Brave Wrestling Academy](WWE-RING-ROLLINS.jpg)
+_source:_ _[pwmania](https://www.pwmania.com/vince-mcmahon-gives-new-ring-to-seth-rollins-black-brave-academy)_  
+
 * Gym equipment
 * Crossfit training
 * Personal training outside of normal class hours
