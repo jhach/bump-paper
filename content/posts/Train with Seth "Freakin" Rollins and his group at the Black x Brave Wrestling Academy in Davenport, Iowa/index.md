@@ -27,7 +27,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://bumpxfeed.com/bxb_school.png" # image path/url
+    image: "https://bumpxfeed.com/seth-speaking.jpeg" # image path/url
     alt: "Seth Rollins' Black x Brave Wrestling Academy in Davenport Iowa" # alt text
     caption: "Seth Rollins' Black x Brave Wrestling Academy in Davenport Iowa" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -38,6 +38,7 @@ cover:
     # appendFilePath: true # to append file path to Edit link
 ---
 
+![Seth Rollins speaking to his students at the Back x Brave Academy in Davenport, Iowa](../../seth-speaking.jpeg)
 ## Where is Seth Rollins' Black x Brave Wrestling Academy located?
 It is located in Davenport, Iowa. 
 
@@ -135,6 +136,8 @@ Price includes the use of the gym equipment at the facility, unlimited access to
 ---
 
 ## How do I contact the Black x Brave Wrestling Academy?
+
+![A class held at the Black x Brave Wrestling Academy in Davenport, Iowa](bxb_school.png)
 
 [Sign up for Black x Brave Wrestling Academy on their website](https://www.blackandbravewrestling.com/new-page)
 
