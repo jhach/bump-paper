@@ -38,50 +38,46 @@ cover:
     # appendFilePath: true # to append file path to Edit link
 ---
 
-## Athletic Background
-Austin Theory was involved with bodybuilding before he started training as a Professional Wrestler.
+Attention wrestling fans! If you're a fan of professional wrestling, then you've probably heard of Austin Theory. He's one of the newest and most promising faces in the industry. In this blog post, we'll take a look at his athletic background, his journey to becoming a WWE superstar, and his rise to becoming the United States Champion.
 
----
+## Austin Theory's Athletic Background
+Before Austin Theory became a professional wrestler, he was involved in bodybuilding. He trained hard and built an impressive physique before he decided to pursue his passion for wrestling. This athletic background helped him to become a formidable wrestler in the ring, with a strength and agility that few others possess.
 
-## 2016 
-### Austin Theory makes his Pro Wrestling Debut
+--- 
+
+## Austin Theory's Journey to the WWE
+Austin Theory began his wrestling career at a young age and trained at the World Wrestling Alliance 4 (WWA4) wrestling school in Atlanta, Georgia. In 2016, he made his debut in the wrestling promotion Evolve, where he quickly gained attention for his impressive athleticism and charisma. He competed in other prominent wrestling promotions such as Full Impact Pro (FIP), World Wrestling Network, and Pro Wrestling Guerrilla (PWG).
+
 ![Austin Theory wrestling for FIP](austin_theory_fip.png)
-He began his wrestling career at a young age and trained at the World Wrestling Alliance 4 (WWA4) wrestling school in Atlanta, Georgia. In 2016, Theory made his debut in the wrestling promotion Evolve, where he gained attention for his impressive athleticism and charisma. He quickly rose through the ranks and became one of the top prospects in the independent wrestling scene. Theory also competed in other prominent wrestling promotions such as Full Impact Pro (FIP), World Wrestling Network, and Pro Wrestling Guerrilla (PWG).
 
----
+After three years of hard work and dedication, Austin Theory caught the eye of the WWE and signed with them in 2019. He joined the NXT brand (WWE's developmental territory) and quickly gained recognition for his in-ring skills and confident persona. Theory had notable matches against established NXT stars and was praised for his potential as a future star in WWE.
 
-## 2019
-### Austin Theory signs with the WWE three years after his debut
 ![Austin Theory appears at NXT Takeover after signing with the WWE](austin_theory_nxt_takeover.png)
-It took three years to get noticed and in 2019, Theory signed with the WWE and joined the NXT brand (WWE's developmental territory). He made his NXT debut in September of 2019, wrestling at NXT house shows, and gained recognition for his in-ring skills and confident persona. Theory had notable matches against established NXT stars and was praised for his potential as a future star in WWE.
 
 ---
 
-## 2020
-### Austin Theory makes WWE main roster debut then sent back to NXT for additional training
+## Austin Theory's Main Roster Debut
+In 2020, Theory was promoted to the main roster for WWE's RAW in March where he tagged with Angel Garza & Seth Rollins, but lost to Kevin Owens & The Street Profits. He would remain on RAW until June 2020 when WWE sent him back to NXT for additional training.
+
+---
+
+## Austin Theory's Rise to the Top
+In 2021, Austin Theory became a member of the wrestling stable "The Way" on WWE's weekly television show, NXT. He was also appearing on Smackdown dark matches to gain more experience in front of an audience. 
+
 ![Austin Theory with The Way on NXT television](austin_theory_the_way.png)
-In 2020, Theory was promoted to the main roster for WWE's RAW in March where he tagged with Angel Garza & Seth Rollins losing to Kevin Owens & The Street Profits. He would remain on RAW until June 2020 when WWE sent him back to NXT for additional training.
 
----
+He started wrestling full time with RAW in October 2021 and occasionally Smackdown. In 2022, Austin Theory captured the United States Championship by defeating Bobby Lashley and Seth Rollins at Survivor Series, and as of this writing, he is still the reigning WWE US Champion.
 
-## 2021 
-### Austin Theory resurfaces on the main roster for both RAW and Smackdown
-![Austin Theory takes a selfie with Vince McMahon](austin_theory_selfie.png)
-He became a member of the wrestling stable "The Way" on WWE's weekly television show, NXT. Starting July 2021 to September 2021, Austin Theory was appearing on Smackdown dark matches to gain more experience in front of an audience. He would wrestle full time with RAW starting Oct 2021 and occasionally Smackdown.
-
----
-
-## 2022
-### Austin Theory becomes the WWE United States Champion
 ![Austin Theory captures the WWE United States Championship at Survivor Series 2022](../../austin_theory_us_title.png)
-Austin Theory captures the United States champion on Nov 26, 2022 at Survivor Series by defeating Bobby Lashley and Seth Rollins. As of this writing, he is still the reigning WWE US Champion.
 
 ---
 
-## 2023
-### Austin Theory pins his childhood hero, John Cena
+## Austin Theory's Wrestlemania Moment
+In 2023, Austin Theory faced his childhood hero, John Cena, at Wrestlemania 39 at Sofi Stadium in Los Angeles, California. He pinned John Cena in the opening match of Night 1 and retained his United States title, cementing his status as a top-tier wrestler in the WWE.
+
 ![Austin Theory battles John Cena at Wrestlemania 39](austin_theory_cena.png)
-Austin Theory battles his childhood hero, John Cena, at Wrestlemania 39 at Sofi Stadium in Los Angeles, California. He pinned John Cena in the opening match of Night 1 and retained his United States title.
+
+In conclusion, Austin Theory's journey from bodybuilder to professional wrestler has been an inspiring one. His hard work and dedication have paid off, and he is now a top-tier wrestler in the WWE. As he continues to hone his craft, we can't wait to see what he has in store for us in the future.
 
 ---
 
