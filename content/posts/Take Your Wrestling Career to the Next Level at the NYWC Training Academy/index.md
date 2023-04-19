@@ -60,7 +60,7 @@ The academy also holds seminars and tryouts regularly. For instance, Gabe Sapols
 
 ![Gabe Sapolsky was at the NYC Sportatorium on April 7, 2023 to hold a seminar for aspiring pro wrestlers](seminar.png)
 
-If you're interested in joining the NYWC Training Academy or have any questions, you can contact them by phone at (631) 667-6992 or via email at NYWCSALES@AOL.COM. You can also visit their website for more information.
+If you're interested in joining the NYWC Training Academy or have any questions, you can contact them by phone at (631) 667-6992 or via email at NYWCSALES@AOL.COM. You can also visit [their website](https://www.nywcwrestling.com/training-academy) for more information.
 
 ---
 
