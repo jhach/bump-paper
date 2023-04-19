@@ -1,6 +1,6 @@
 ---
 title: "2015 WWE Performance Center Trainees; Where Are They Now?"
-date: 2023-04-14T14:24:28+10:00
+date: 2023-04-14
 lastmod:
 # weight: 1
 # aliases: ["/first"]
@@ -41,6 +41,8 @@ cover:
 
 The WWE was actively recruiting, globally, for the April 2015 Performance Center class. Some made it to the main WWE roster and are still active, some achieved main roster superstardom and succeeded outside of WWE, while others didn't make it beyond NXT. Let's break down the WWE Performance Center class of 2015 and see what they are up to today (2023).
 
+--- 
+
 ## 🇦🇺 Australia
 
 ![Jessica McKay aka Billie Kay training with IIconics tag team partner, Cassie McIntosh aka Peyton Royce at the WWE Performance Center in 2015](pc-peyton-billie.jpg)
@@ -66,6 +68,8 @@ She is currently modeling and acting, per her Instagram.
 
 Status: Inactive
 
+--- 
+
 ## 🇨🇦 Canada 
 ![Nhooph Al-Areebi aka Aliyah at the WWE Performance Center in 2015](nhooph.jpg)
 ### Nhooph Al-Areebi Aka Aliyah (Toronto, Ontario, Canada)
@@ -78,6 +82,8 @@ She is currently on the WWE Smackdown roster but hasn't been used for quite a wh
 
 Status: Active (WWE)
 
+---
+
 ## 🇩🇪 Germany
 ![Axel Tischer aka Alexander Wolfe at the WWE Performance Center in 2015](axel.jpg)
 ### Axel Tischer Aka Alexander Wolfe (Dresden, Germany) 
@@ -89,6 +95,8 @@ Axel was given a spot on the 2015 WWE Performance Center class and made his debu
 Axel Tischer can be seen on the independent scene in Germany, Europe, and the United States.  
 
 Status: Active (Independents)
+
+---
 
 ## 🇲🇽 Mexico
 ![Oscar Vasquez aka Magno at the WWE Performance Center in 2015](oscar.jpg)
@@ -103,6 +111,8 @@ Oscar aka Magno's status in the industry is unknown.
 
 Status: Unknown (last match documented was from May 5, 2022 for Lucha VaVoom)
 
+---
+
 ## 🇷🇸 Serbia
 ![Radomir Petkovic aka King Constantine at the WWE Performance Center in 2015](radomir.webp)
 ### Radomir Petkovic Aka King Constantine from Belgrade, Serbia 
@@ -112,6 +122,8 @@ Radomir was a two-time Greco-Roman and Freestyle bronze medalist at the 2009 Med
 He trained with the WWE Performance Center in 2015 and was released a year later.
 
 Status: Inactive
+
+---
 
 ## 🇬🇧 United Kingdom
 ![Peter Howard at the WWE Performance Center in 2015](peterhoward.png)
@@ -124,6 +136,8 @@ His first tryout was in the U.K. in 2014 which an MMA friend also attended and g
 As of February 2016, he was released from the WWE Performance Center and no other information is available regarding what he's up to today.  
 
 Status: Inactive 
+
+---
 
 ## 🇺🇸 United States of America
 ![Kenneth Crawford aka Montez Ford at the WWE Performance Center in 2015](kenneth.jpg)
@@ -139,6 +153,8 @@ In late 2019, the Street Profits would be called up to the main roster where the
 
 Status: Active (WWE)
 
+---
+
 ![Thomas Kingdon at the WWE Performance Center in 2015](thomas.jpg)
 ### Thomas Kingdon (Traverse City, Michigan)
 
@@ -148,6 +164,8 @@ He was released in 2016 and no other information is available regarding his stat
 
 Status: Inactive
 
+---
+
 ![Sesugh Uhaa aka Apollo Crews at the WWE Performance Center in 2015](sesugh.jpg)
 ### Sesugh Uhaa Aka Apollo Crews (Atlanta, Georgia)
 
@@ -156,6 +174,8 @@ Sesugh Uhaa aka Apollo Crews was a high school standout in soccer, football, and
 Apollo Crews was called up to the main roster in 2016 and remained until the summer of 2022, where he now wrestles on the NXT brand.  
 
 Status: Active (WWE)
+
+---
 
 ![Levis Valenzuela Jr. at the WWE Performance Center in 2015](levis.jpg)
 ### Levis Valenzuela Jr. (Durham, North Carolina) 
@@ -168,6 +188,8 @@ He made a brief apperance with Impact! Wrestling and has been seen on a few inde
 
 Status: Active (Independents)
 
+--- 
+
 ## How did the 2015 WWE Performance Center trainees do?
 ### Out of 11 performers...
 * 3 are active in the WWE
@@ -177,6 +199,7 @@ Status: Active (Independents)
 * 2 are active on the independents
   * 18% of that class are currently active outside of WWE
 
+---
 
 ## Additional reading:
 [WWE article published on 13.04.2015](https://www.wwe.com/shows/wwenxt/wwe-performance-center-welcomes-new-class-of-recruits)

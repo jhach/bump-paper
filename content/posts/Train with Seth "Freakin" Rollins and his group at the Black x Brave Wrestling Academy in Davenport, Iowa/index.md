@@ -1,6 +1,6 @@
 ---
 title: "Train with Seth \"Freakin\" Rollins and his group at the Black x Brave Wrestling Academy in Davenport, Iowa"
-date: 2023-04-06T20:53:43+10:00
+date: 2023-04-06
 lastmod:
 # weight: 1
 # aliases: ["/first"]
@@ -54,7 +54,9 @@ It is located in Davenport, Iowa.
 
 5. St. Louis, Missouri - St. Louis is located approximately 300 miles south of Davenport, and can be reached via Greyhound or Burlington Trailways bus service, with a travel time of approximately 6.5 to 7.5 hours. Amtrak's Southwest Chief route also runs between the two cities, with a travel time of approximately 8.5 to 9.5 hours.
 
-### Does the Black x Brave Wrestling Academy offer housing/lodging for their trainees and students?
+---
+
+## Does the Black x Brave Wrestling Academy offer housing/lodging for their trainees and students?
 Yes! Students can rent bunks for $300 a month.
 
 --- 
@@ -63,6 +65,8 @@ Yes! Students can rent bunks for $300 a month.
 * Seth Rollins
 * Marek Brave
 * Matt Mayday
+
+---
 
 ## Which pro wrestlers have trained at the Black x Brave Wrestling Academy?
 * Nathan Frazer  
@@ -146,6 +150,8 @@ _source:_ _[pwmania](https://www.pwmania.com/vince-mcmahon-gives-new-ring-to-set
 ![A class held at the Black x Brave Wrestling Academy in Davenport, Iowa](bxb_school.png)
 
 [Sign up for Black x Brave Wrestling Academy on their website](https://www.blackandbravewrestling.com/new-page)
+
+---
 
 Sheamus recently did a Celtic Warrior workout with Seth Rollins and Becky Lynch at the Black x Brave Academy. Watch the video below.
 

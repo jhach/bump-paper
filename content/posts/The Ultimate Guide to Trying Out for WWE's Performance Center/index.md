@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Trying Out for WWE's Performance Center / Tips to Become a WWE Sports Entertainer"
-date: 2023-04-01T16:32:30+11:00
-lastmod: 2023-04-01T16:32:30+11:00
+date: 2023-04-01
+lastmod:
 # weight: 1
 # aliases: ["/first"]
 tags: ["WWE","WWE Performance Center","Florida"]
@@ -54,9 +54,13 @@ As of Friday, December 30, 2022, WWE's Recruit website is live and accepting app
 
 ![WWE General application](wwe-general.png)
 
+---
+
 ## Step 2
 ### Accept an invitation from WWE
 After submitting your application, WWE may contact you within 4-6 weeks notice to attend a tryout. In the meantime keep working in the ring and practicing your craft.
+
+---
 
 ## Step 3
 ### Attend a tryout
@@ -64,6 +68,8 @@ WWE is known to hold tryouts when there are RAW and Smackdown tv tapings and at 
 
 {{< tweet user="WWERecruit" id="1641470135742627845" >}}
 The above tweet shows a tryout during Wrestlmania weekend in Los Angeles, California.
+
+---
 
 ## Step 4
 ### Wait for feedback from the WWE Performance Center
@@ -74,6 +80,11 @@ Contracts can be given on the spot during WWE tryouts or through additional eval
 Visit the WWE Recruiting website here 👉 [WWE Recruit](https://recruit.wwe.com/#!/tryout)
 
 Good luck!
+
+---
+
+## Posts about the WWE Performance Center
+* [2015 WWE Performance Center Trainees; Where Are They Now?](../2015-wwe-performance-center-trainees-where-are-they-now/)
 
 ---
 

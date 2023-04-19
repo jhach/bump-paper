@@ -41,6 +41,7 @@ cover:
 ![The World Famous Monster Factory in Paulsboro, New Jersey](../../monster-factory.png)
 The Monster Factory has been developing talent since its founding in 1983 when "Pretty Boy" Larry Sharpe and "Nature Boy" Buddy Rogers founded the training center. It was bought and rebranded the World Famous Monster Factory in 2011, by Danny Cage, who coaches, owns, and operates the school.
 
+---
 
 ## Where is the World Famous Monster Factory located?
 It is located in Paulsboro, New Jersey. The facility is also known as the Paulsboro Wrestling Club.
@@ -64,7 +65,9 @@ Paulsboro, New Jersey 08066
 
 5. Atlantic City, New Jersey - Located to the east of Paulsboro, Atlantic City can be reached via the Atlantic City Rail Line, which connects to the PATCO line in Lindenwold. The travel time is approximately 1 hour and 15 minutes.
 
-### Does the World Famous Monster Factory offer housing or dorms for their trainees and students?
+---
+
+## Does the World Famous Monster Factory offer housing or dorms for their trainees and students?
  No
 
 --- 
@@ -74,6 +77,8 @@ Paulsboro, New Jersey 08066
 * The Blue Meanie
 * Billy Wiles
 * Q.T. Marshall
+
+---
 
 ## Which pro wrestlers have trained at the World Famous Monster Factory?
 
@@ -227,5 +232,7 @@ Paying in full will save you 19.2%.
 **Danny Cage**  
 Phone: (609) 471-7904  
 Email: monsterfactorytv@gmail.com
+
+---
 
 {{< youtube id="0qO9SkhAiTw?t=228" title="Matt Riddle visits the Monster Factory before driving to the Performance Center" >}}

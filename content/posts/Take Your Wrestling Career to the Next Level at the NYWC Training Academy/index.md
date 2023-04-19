@@ -1,6 +1,6 @@
 ---
 title: "Take Your Wrestling Career to the Next Level at the NYWC Training Academy"
-date: 2023-04-12T10:01:02+10:00
+date: 2023-04-12
 lastmod:
 # weight: 1
 # aliases: ["/first"]
@@ -55,7 +55,9 @@ Babylon: **45 minutes**
 Huntington: **30 minutes**  
 Bay Shore: **25 minutes**
 
-### Does the NYWC Training Academy offer housing or dorms for their trainees and students?
+---
+
+## Does the NYWC Training Academy offer housing or dorms for their trainees and students?
 No
 
 ---
@@ -66,6 +68,8 @@ Mike Mondo is a professional wrestler, who has been competing in the ring since 
 
 ### Michael Mistretta
 Michael Mistretta has wrestled for many promotions, including World Wrestling Entertainment (WWE), All Elite Wrestling (AEW), Pro Wrestling Guerilla (PWG), Total Nonstop Action (TNA), Ring of Honor (ROH), and Beyond Wrestling. He is a frequent guest on various wrestling podcasts and is a constant presence on the wrestling scene.
+
+---
 
 ## Which pro wrestlers have trained at the NYWC Training Academy?
 
@@ -111,6 +115,7 @@ You will train 11.5 hours a week (see hours above).
   - You'll train 49.97 hours OR 49 hours and 58 min a month
   - $200/month % 49.97 hours = $4.0024... an hour
   - 11.5 hours a week x $4.0024 an hour = $46.03 a week
+
 ---
 
 ## What other programs are available at the NYWC Training Academy?
@@ -125,5 +130,7 @@ They regularly hold seminars and tryouts. Gabe Sapolsky, who currently works wit
 [The NYWC Training Academy](https://www.nywcwrestling.com/training-academy)  
 Phone: (631) 667-6992   
 Email: NYWCSALES@AOL.COM
+
+---
 
 {{< youtube K62kF72CBY0 >}}
