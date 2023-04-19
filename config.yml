@@ -27,7 +27,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: G-JVJ5ZYFD7R
+# googleAnalytics: G-JVJ5ZYFD7R
 
 minify:
   disableXML: true
