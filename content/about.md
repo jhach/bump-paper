@@ -37,7 +37,7 @@ UseHugoToc: false
     # appendFilePath: true # to append file path to Edit link
 ---
 
-![Dropkick by Jalen Wu](../../about.jpg)
+![Dropkick by Jalen Wu](../../about.webp)
 
 Hola!
 
