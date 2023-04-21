@@ -27,7 +27,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "tryout-step-1.jpg" # image path/url
+    image: "tryout-step-1.webp" # image path/url
     alt: "WWE Tryouts" # alt text
     caption: "Try out for the WWE at The Performance Center" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -38,21 +38,21 @@ cover:
     # appendFilePath: true # to append file path to Edit link
 ---
 
-![Four Steps to make it with WWE's Performance Center](4-steps-to-make-it-to-wwe.png)
+![Four Steps to make it with WWE's Performance Center](4-steps-to-make-it-to-wwe.webp)
 
 ## Step 1 
 ### Apply and submit your application to be a WWE Sports Entertainer/Pro Wrestler
 As of Friday, December 30, 2022, WWE's Recruit website is live and accepting applications. Click the "APPLY NOW" link as seen in the screenshot, or scroll down to get started! The pop-up/modal asks for your date of birth and if you are a college athlete or not.
 
-![WWE Performance Center asks for your birthday and if you are a college athlete or not](wwe-paywall.png)
+![WWE Performance Center asks for your birthday and if you are a college athlete or not](wwe-paywall.webp)
 
 #### If you are a college athlete, you will be taken to an NIL questionnaire
 
-![WWE NIL Questionnaire for college athletes](wwe-nil.png)
+![WWE NIL Questionnaire for college athletes](wwe-nil.webp)
 
 #### If you are NOT a college athlete, you will be taken to the general questionnaire
 
-![WWE General application](wwe-general.png)
+![WWE General application](wwe-general.webp)
 
 ---
 
