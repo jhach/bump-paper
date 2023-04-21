@@ -27,7 +27,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://bumpxfeed.com/wwe-pc-2015.jpg" # image path/url
+    image: "https://bumpxfeed.com/wwe-pc-2015.webp" # image path/url
     alt: "<2015 WWE Performance Center trainees including Montez Ford, Apollo Crews, and Aliyah currently in WWE>" # alt text
     caption: "2015 WWE Performance Center trainees including Montez Ford, Apollo Crews, and Aliyah currently in WWE" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -37,7 +37,7 @@ cover:
     # Text: "Suggest Changes" # edit text
     # appendFilePath: true # to append file path to Edit link
 ---
-![2015 WWE Performance Center trainees including Montez Ford, Apollo Crews, and Aliyah currently in WWE](../../wwe-pc-2015.jpg)
+![2015 WWE Performance Center trainees including Montez Ford, Apollo Crews, and Aliyah currently in WWE](../../wwe-pc-2015.webp)
 
 The WWE was actively recruiting, globally, for the April 2015 Performance Center class. Some made it to the main WWE roster and are still active, some achieved main roster superstardom and succeeded outside of WWE, while others didn't make it beyond NXT. Let's break down the WWE Performance Center class of 2015 and see what they are up to today (2023).
 
@@ -45,7 +45,7 @@ The WWE was actively recruiting, globally, for the April 2015 Performance Center
 
 ## 🇦🇺 Australia
 
-![Jessica McKay aka Billie Kay training with IIconics tag team partner, Cassie McIntosh aka Peyton Royce at the WWE Performance Center in 2015](pc-peyton-billie.jpg)
+![Jessica McKay aka Billie Kay training with IIconics tag team partner, Cassie McIntosh aka Peyton Royce at the WWE Performance Center in 2015](pc-peyton-billie.webp)
 ### Cassie McIntosh aka Peyton Royce aka Cassie Lee (Born in Sydney, resided in Melbourne, Australia)
 
 Cassie McIntosh got her pro wrestling training with [Pro Wrestling Australia](https://www.prowrestlingaustralia.com.au) in 2009 and also trained with Lance Storm at his now defunct academy, in 2012. 
@@ -71,7 +71,7 @@ Status: Inactive
 --- 
 
 ## 🇨🇦 Canada 
-![Nhooph Al-Areebi aka Aliyah at the WWE Performance Center in 2015](nhooph.jpg)
+![Nhooph Al-Areebi aka Aliyah at the WWE Performance Center in 2015](nhooph.webp)
 ### Nhooph Al-Areebi Aka Aliyah (Toronto, Ontario, Canada)
 
 Nhooph Al-Areebi started her pro wrestling training with Squared Circle in 2011. Her background is in acrobatics where she learned her skills at the Toronto Circus School from 2008-2012.
@@ -85,7 +85,7 @@ Status: Active (WWE)
 ---
 
 ## 🇩🇪 Germany
-![Axel Tischer aka Alexander Wolfe at the WWE Performance Center in 2015](axel.jpg)
+![Axel Tischer aka Alexander Wolfe at the WWE Performance Center in 2015](axel.webp)
 ### Axel Tischer Aka Alexander Wolfe (Dresden, Germany) 
 
 Axel Tischer was trained in 2004 at the GWF (German Wrestling Federation) school and has wrestled all over Germany and Europe before joining the PC. From 2005-2007, he served in the German Army and achieved rank of Private First Class.
@@ -99,7 +99,7 @@ Status: Active (Independents)
 ---
 
 ## 🇲🇽 Mexico
-![Oscar Vasquez aka Magno at the WWE Performance Center in 2015](oscar.jpg)
+![Oscar Vasquez aka Magno at the WWE Performance Center in 2015](oscar.webp)
 ### Oscar Vasquez Aka Magno (Ciudad Juarez, Mexico) 
 Oscar Vasquez trained in Juarez in the lucha libre style of wrestling by Hector Rincon, who was the childhood friend of the late, Eddie Guerrero
 
@@ -126,7 +126,7 @@ Status: Inactive
 ---
 
 ## 🇬🇧 United Kingdom
-![Peter Howard at the WWE Performance Center in 2015](peterhoward.png)
+![Peter Howard at the WWE Performance Center in 2015](peterhoward.webp)
 ### Peter Howard (Exeter, England)
 
 Peter Howard was a former collegiate Rugby player in the UK. After an injury shortened his career, he pivoted to discus and became a regional champion.
@@ -140,7 +140,7 @@ Status: Inactive
 ---
 
 ## 🇺🇸 United States of America
-![Kenneth Crawford aka Montez Ford at the WWE Performance Center in 2015](kenneth.jpg)
+![Kenneth Crawford aka Montez Ford at the WWE Performance Center in 2015](kenneth.webp)
 ### Kenneth Crawford Aka Montez Ford (Chicago, Illinois/Anson County, North Carolina) 
 
 Kenneth Crawford aka Montez Ford was a high school athlete holding records in the 200-meter, 400-meter, and 4x4 relay at North Carolina South Piedmont and Anson High School while also named Anson High School Athlete of the Year in 2007. He served in the U.S. Marine Corps from September 2008 - September 2012 and achieved a perfect 300 score in the United States Marine Corps Physical Fitness Test.
@@ -155,7 +155,7 @@ Status: Active (WWE)
 
 ---
 
-![Thomas Kingdon at the WWE Performance Center in 2015](thomas.jpg)
+![Thomas Kingdon at the WWE Performance Center in 2015](thomas.webp)
 ### Thomas Kingdon (Traverse City, Michigan)
 
 Thomas Kingdon was an amateur bodybuilder who won the super-heavyweight class at the 2013 NPC Central States Competition before his WWE tryout, which he applied for on the [WWE Recruit website](https://recruit.wwe.com/#!/tryout).
@@ -166,7 +166,7 @@ Status: Inactive
 
 ---
 
-![Sesugh Uhaa aka Apollo Crews at the WWE Performance Center in 2015](sesugh.jpg)
+![Sesugh Uhaa aka Apollo Crews at the WWE Performance Center in 2015](sesugh.webp)
 ### Sesugh Uhaa Aka Apollo Crews (Atlanta, Georgia)
 
 Sesugh Uhaa aka Apollo Crews was a high school standout in soccer, football, and track and field in the state of Georgia. He began his training at the WWA4 wrestling school in 2009 and got his big break with Dragon Gate in 2011. From 2011-2015, he was on their roster and eventually landed a spot with the 2015 WWE Performance Center class.
@@ -177,7 +177,7 @@ Status: Active (WWE)
 
 ---
 
-![Levis Valenzuela Jr. at the WWE Performance Center in 2015](levis.jpg)
+![Levis Valenzuela Jr. at the WWE Performance Center in 2015](levis.webp)
 ### Levis Valenzuela Jr. (Durham, North Carolina) 
 
 Levis trained with CWF Mid-Atlantic in 2013 and wrestled mostly for them until 2015 when he earned a spot on the 2015 WWE Performance Center class. 
