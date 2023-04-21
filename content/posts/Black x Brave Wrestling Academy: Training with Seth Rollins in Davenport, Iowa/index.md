@@ -27,7 +27,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://bumpxfeed.com/seth-speaking.jpeg" # image path/url
+    image: "https://bumpxfeed.com/seth-speaking.webp" # image path/url
     alt: "Seth Rollins' Black x Brave Wrestling Academy in Davenport Iowa" # alt text
     caption: "Seth Rollins' Black x Brave Wrestling Academy in Davenport Iowa" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -38,7 +38,7 @@ cover:
     # appendFilePath: true # to append file path to Edit link
 ---
 
-![Seth Rollins speaking to his students at the Back x Brave Academy in Davenport, Iowa](../../seth-speaking.jpeg)
+![Seth Rollins speaking to his students at the Back x Brave Academy in Davenport, Iowa](../../seth-speaking.webp)
 
 Are you an aspiring pro wrestler searching for a top-notch training facility? Look no further than Seth Rollins' Black x Brave Wrestling Academy in Davenport, Iowa.
 
@@ -48,7 +48,7 @@ One of the standout features of the Black x Brave Wrestling Academy is its affor
 
 The academy's trainers are some of the best in the business, with Seth Rollins, Marek Brave, and Matt Mayday all offering their expertise to students. The academy has also produced several successful pro wrestlers, including Nathan Frazer, Zicky Dice, and Frontman Jah.
 
-![Seth Rollins' quote about Ben Carter aka Nathan Frazer](ben-carter.png)
+![Seth Rollins' quote about Ben Carter aka Nathan Frazer](ben-carter.webp)
 _source:_ _[wrestletalk](https://wrestletalk.com/news/seth-rollins-is-proud-of-nxt-uk-star/)_
 
 The academy's 12-week program is open to men and women over the age of 18, and includes access to open ring times and unlimited access to QC Crossfit training. Students also have the opportunity to help at local independent promotions, providing valuable networking opportunities and a chance to learn the behind-the-scenes aspects of a show.
@@ -59,7 +59,7 @@ Tuition for the 12-week program is $3,500, which includes access to the gym equi
 
 The Black x Brave Wrestling Academy boasts top-of-the-line equipment, including a WWE ring gifted by Vince McMahon himself. 
 
-![WWE ring gifted by Vince McMahon to the Black x Brave Wrestling Academy](WWE-RING-ROLLINS.jpg)
+![WWE ring gifted by Vince McMahon to the Black x Brave Wrestling Academy](WWE-RING-ROLLINS.webp)
 _source:_ _[pwmania](https://www.pwmania.com/vince-mcmahon-gives-new-ring-to-seth-rollins-black-brave-academy)_  
 
 With a focus on quality training, affordable housing, and valuable networking opportunities, the academy is the perfect place for any aspiring pro wrestler to hone their craft and pursue their dreams.
