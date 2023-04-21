@@ -27,7 +27,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://bumpxfeed.com/nywc.png" # image path/url
+    image: "https://bumpxfeed.com/nywc.webp" # image path/url
     alt: "NYWC Training Academy logo" # alt text
     caption: "NYWC Training Academy in Long Island, New York" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -58,7 +58,7 @@ The cost to train at the NYWC Training Academy is $200 per month, which includes
 ## Other Programs
 The academy also holds seminars and tryouts regularly. For instance, Gabe Sapolsky, a WWE employee, held a seminar on April 7, 2023, to give a lecture, participate in a Q&A session, and give critiques for tryout matches, among other things. The cost was $99.
 
-![Gabe Sapolsky was at the NYC Sportatorium on April 7, 2023 to hold a seminar for aspiring pro wrestlers](seminar.png)
+![Gabe Sapolsky was at the NYC Sportatorium on April 7, 2023 to hold a seminar for aspiring pro wrestlers](seminar.webp)
 
 If you're interested in joining the NYWC Training Academy or have any questions, you can contact them by phone at (631) 667-6992 or via email at NYWCSALES@AOL.COM. You can also visit [their website](https://www.nywcwrestling.com/training-academy) for more information.
 

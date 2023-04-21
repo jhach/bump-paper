@@ -27,7 +27,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://bumpxfeed.com/austin_theory_us_title.png" # image path/url
+    image: "https://bumpxfeed.com/austin_theory_us_title.webp" # image path/url
     alt: "Austin Theory captures the WWE United States Championship at Survivor Series 2022" # alt text
     caption: "Austin Theory captures the WWE United States Championship at Survivor Series 2022" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -48,11 +48,11 @@ Before Austin Theory became a professional wrestler, he was involved in bodybuil
 ## Austin Theory's Journey to the WWE
 Austin Theory began his wrestling career at a young age and trained at the World Wrestling Alliance 4 (WWA4) wrestling school in Atlanta, Georgia. In 2016, he made his debut in the wrestling promotion Evolve, where he quickly gained attention for his impressive athleticism and charisma. He competed in other prominent wrestling promotions such as Full Impact Pro (FIP), World Wrestling Network, and Pro Wrestling Guerrilla (PWG).
 
-![Austin Theory wrestling for FIP](austin_theory_fip.png)
+![Austin Theory wrestling for FIP](austin_theory_fip.webp)
 
 After three years of hard work and dedication, Austin Theory caught the eye of the WWE and signed with them in 2019. He joined the NXT brand (WWE's developmental territory) and quickly gained recognition for his in-ring skills and confident persona. Theory had notable matches against established NXT stars and was praised for his potential as a future star in WWE.
 
-![Austin Theory appears at NXT Takeover after signing with the WWE](austin_theory_nxt_takeover.png)
+![Austin Theory appears at NXT Takeover after signing with the WWE](austin_theory_nxt_takeover.webp)
 
 ---
 
@@ -64,18 +64,18 @@ In 2020, Theory was promoted to the main roster for WWE's RAW in March where he 
 ## Austin Theory's Rise to the Top
 In 2021, Austin Theory became a member of the wrestling stable "The Way" on WWE's weekly television show, NXT. He was also appearing on Smackdown dark matches to gain more experience in front of an audience. 
 
-![Austin Theory with The Way on NXT television](austin_theory_the_way.png)
+![Austin Theory with The Way on NXT television](austin_theory_the_way.webp)
 
 He started wrestling full time with RAW in October 2021 and occasionally Smackdown. In 2022, Austin Theory captured the United States Championship by defeating Bobby Lashley and Seth Rollins at Survivor Series, and as of this writing, he is still the reigning WWE US Champion.
 
-![Austin Theory captures the WWE United States Championship at Survivor Series 2022](../../austin_theory_us_title.png)
+![Austin Theory captures the WWE United States Championship at Survivor Series 2022](../../austin_theory_us_title.webp)
 
 ---
 
 ## Austin Theory's Wrestlemania Moment
 In 2023, Austin Theory faced his childhood hero, John Cena, at Wrestlemania 39 at Sofi Stadium in Los Angeles, California. He pinned John Cena in the opening match of Night 1 and retained his United States title, cementing his status as a top-tier wrestler in the WWE.
 
-![Austin Theory battles John Cena at Wrestlemania 39](austin_theory_cena.png)
+![Austin Theory battles John Cena at Wrestlemania 39](austin_theory_cena.webp)
 
 In conclusion, Austin Theory's journey from bodybuilder to professional wrestler has been an inspiring one. His hard work and dedication have paid off, and he is now a top-tier wrestler in the WWE. As he continues to hone his craft, we can't wait to see what he has in store for us in the future.
 
