@@ -27,7 +27,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "monster-factory.png" # image path/url
+    image: "monster-factory.webp" # image path/url
     alt: "The World Famous Monster Factory logo" # alt text
     caption: "The World Famous Monster Factory in Paulsboro, New Jersey" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -40,7 +40,7 @@ cover:
 
 The World Famous Monster Factory is a premier wrestling training center located in Paulsboro, New Jersey. With a history dating back to 1983, the Monster Factory has trained some of the biggest names in professional wrestling, including Bam Bam Bigelow, The Big Show, and Sheamus. Today, the Monster Factory continues to provide top-quality training to aspiring wrestlers of all ages and experience levels, with programs designed to teach the basics of wrestling, as well as advanced moves, techniques, and storytelling skills. With its commitment to excellence and its experienced staff of trainers, the World Famous Monster Factory is the ideal place for anyone looking to start a career in professional wrestling.
 
-![The World Famous Monster Factory in Paulsboro, New Jersey](../../monster-factory.png)
+![The World Famous Monster Factory in Paulsboro, New Jersey](../../monster-factory.webp)
 
 ## Where is the World Famous Monster Factory Located?
 The World Famous Monster Factory, also known as the Paulsboro Wrestling Club, is located at 541 Mantua Ave, Paulsboro, New Jersey 08066.
@@ -57,7 +57,7 @@ The school has a talented team of trainers, including Danny Cage, The Blue Meani
 ## Which Pro Wrestlers Have Trained at the World Famous Monster Factory?
 The World Famous Monster Factory has produced some of the best wrestlers in the industry, including Bam Bam Bigelow, Paul "Big Show" Wight, Sheamus, Damian Priest, and Matt Riddle. Other notable wrestlers who trained at the school include The Godfather, Tatanka, Raven, and Tony Atlas.
 
-![Pro Wrestlers who have graduated from The World Famous Monster Factory](./monster-factory-trainees.png)
+![Pro Wrestlers who have graduated from The World Famous Monster Factory](./monster-factory-trainees.webp)
 
 ---
 
