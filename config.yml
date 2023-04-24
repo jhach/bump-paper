@@ -87,8 +87,8 @@ params:
     imageHeight: 240
     imageTitle: bump x feed
     buttons:
-      - name: Posts
-        url: posts
+      - name: Archives
+        url: archives
       - name: Tags
         url: tags
 
@@ -145,19 +145,19 @@ menu:
       # weight: 10
     - identifier: posts
       name: posts
-      url: /posts
+      url: /posts/
       weight: 10
     - identifier: categories
       name: categories
-      url:  /categories
+      url:  /categories/
       weight: 20  
     - identifier: tags
       name: tags
-      url: /tags
+      url: /tags/
       weight: 30
     - identifier: about
       name: about
-      url: /about
+      url: /about/
       weight: 40
     - identifier: Jalen Wu
       name: Jalen Wu
