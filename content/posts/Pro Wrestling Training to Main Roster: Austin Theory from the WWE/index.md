@@ -9,7 +9,7 @@ categories: ["Superstar Spotlight"]
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: true
+TocOpen: false
 draft: false
 hidemeta: false
 comments: false
@@ -17,7 +17,6 @@ description: "Austin Theory defeated his childhood hero, WWE legend John Cena, b
 canonicalURL: "https://bumpxfeed.com/pro-wrestling-training-to-main-roster-austin-theory-from-the-wwe"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
@@ -27,11 +26,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://bumpxfeed.com/austin_theory_us_title.webp" # image path/url
+    image: "austin_theory_us_title.webp" # image path/url
     alt: "Austin Theory captures the WWE United States Championship at Survivor Series 2022" # alt text
     caption: "Austin Theory captures the WWE United States Championship at Survivor Series 2022" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 # editPost:
     # URL: "https://github.com/<path_to_repo>/content"
     # Text: "Suggest Changes" # edit text

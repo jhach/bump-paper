@@ -9,7 +9,7 @@ categories: ["Pro Wrestling School"]
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: true
+TocOpen: false
 draft: false
 hidemeta: false
 comments: false
@@ -17,7 +17,6 @@ description: "A bumpxfeed exclusive: We'll take a look at the 2015 WWE Performan
 canonicalURL: "https://bumpxfeed.com/2015-wwe-performance-center-trainees-where-are-they-now"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
@@ -27,17 +26,16 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://bumpxfeed.com/wwe-pc-2015.webp" # image path/url
-    alt: "<2015 WWE Performance Center trainees including Montez Ford, Apollo Crews, and Aliyah currently in WWE>" # alt text
+    image: "wwe-pc-2015.webp" # image path/url
+    alt: "2015 WWE Performance Center trainees including Montez Ford, Apollo Crews, and Aliyah currently in WWE" # alt text
     caption: "2015 WWE Performance Center trainees including Montez Ford, Apollo Crews, and Aliyah currently in WWE" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 # editPost:
     # URL: "https://github.com/<path_to_repo>/content"
     # Text: "Suggest Changes" # edit text
     # appendFilePath: true # to append file path to Edit link
 ---
-![2015 WWE Performance Center trainees including Montez Ford, Apollo Crews, and Aliyah currently in WWE](../../wwe-pc-2015.webp)
 
 The WWE was actively recruiting, globally, for the April 2015 Performance Center class. Some made it to the main WWE roster and are still active, some achieved main roster superstardom and succeeded outside of WWE, while others didn't make it beyond NXT. Let's break down the WWE Performance Center class of 2015 and see what they are up to today (2023).
 

@@ -9,7 +9,7 @@ categories: ["Pro Wrestling School"]
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: true
+TocOpen: false
 draft: false
 hidemeta: false
 comments: false
@@ -17,9 +17,8 @@ description: "So you want to be a pro wrestler / sports entertainer for the bigg
 canonicalURL: "https://bumpxfeed.com/the-ultimate-guide-to-trying-out-for-wwes-performance-center"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -31,7 +30,7 @@ cover:
     alt: "WWE Tryouts" # alt text
     caption: "Try out for the WWE at The Performance Center" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 # editPost:
     # URL: "https://github.com/jhach/bump-paper/content"
     # Text: "Suggest Changes" # edit text

@@ -9,7 +9,7 @@ categories: ["Pro Wrestling School"]
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: true
+TocOpen: false
 draft: false
 hidemeta: false
 comments: false
@@ -17,7 +17,6 @@ description: "Are you dreaming of becoming a successful professional wrestler? D
 canonicalURL: "https://bumpxfeed.com/take-your-wrestling-career-to-the-next-level-at-the-nywc-training-academy"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
@@ -27,11 +26,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://bumpxfeed.com/nywc.webp" # image path/url
+    image: "nywc.webp" # image path/url
     alt: "NYWC Training Academy logo" # alt text
     caption: "NYWC Training Academy in Long Island, New York" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 # editPost:
     # URL: "https://github.com/<path_to_repo>/content"
     # Text: "Suggest Changes" # edit text

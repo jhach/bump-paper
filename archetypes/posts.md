@@ -9,7 +9,7 @@ categories: ["",""]
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: true
+TocOpen: false
 draft: true
 hidemeta: false
 comments: false
@@ -17,7 +17,6 @@ description: ""
 canonicalURL: "https://bumpxfeed.com/.."
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
@@ -27,11 +26,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://bumpxfeed.com/.." # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "..." # image path/url
+    alt: " " # alt text
+    caption: " " # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 # editPost:
     # URL: "https://github.com/<path_to_repo>/content"
     # Text: "Suggest Changes" # edit text

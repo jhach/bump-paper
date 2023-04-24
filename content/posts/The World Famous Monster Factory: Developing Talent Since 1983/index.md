@@ -9,7 +9,7 @@ categories: ["Pro Wrestling School"]
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: true
+TocOpen: false
 draft: false
 hidemeta: false
 comments: false
@@ -17,9 +17,8 @@ description: "The World Famous Monster Factory, located in Paulsboro, New Jersey
 canonicalURL: "https://bumpxfeed.com/the-world-famous-monster-factory-developing-talent-since-1983/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -31,7 +30,7 @@ cover:
     alt: "The World Famous Monster Factory logo" # alt text
     caption: "The World Famous Monster Factory in Paulsboro, New Jersey" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 # editPost:
     # URL: "https://github.com/jhach/bump-paper/content"
     # Text: "Suggest Changes" # edit text
@@ -40,7 +39,7 @@ cover:
 
 The World Famous Monster Factory is a premier wrestling training center located in Paulsboro, New Jersey. With a history dating back to 1983, the Monster Factory has trained some of the biggest names in professional wrestling, including Bam Bam Bigelow, The Big Show, and Sheamus. Today, the Monster Factory continues to provide top-quality training to aspiring wrestlers of all ages and experience levels, with programs designed to teach the basics of wrestling, as well as advanced moves, techniques, and storytelling skills. With its commitment to excellence and its experienced staff of trainers, the World Famous Monster Factory is the ideal place for anyone looking to start a career in professional wrestling.
 
-![The World Famous Monster Factory in Paulsboro, New Jersey](../../monster-factory.webp)
+---
 
 ## Where is the World Famous Monster Factory Located?
 The World Famous Monster Factory, also known as the Paulsboro Wrestling Club, is located at 541 Mantua Ave, Paulsboro, New Jersey 08066.

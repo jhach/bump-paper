@@ -9,7 +9,7 @@ categories: ["Pro Wrestling School"]
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
 showToc: true
-TocOpen: true
+TocOpen: false
 draft: false
 hidemeta: false
 comments: false
@@ -17,7 +17,6 @@ description: "The Black x Brave Wrestling Academy has been developing talent sin
 canonicalURL: "https://bumpxfeed.com/black-x-brave-wrestling-academy-training-with-seth-rollins-in-davenport-iowa/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
@@ -27,18 +26,16 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://bumpxfeed.com/seth-speaking.webp" # image path/url
+    image: "seth-speaking.webp" # image path/url
     alt: "Seth Rollins' Black x Brave Wrestling Academy in Davenport Iowa" # alt text
     caption: "Seth Rollins' Black x Brave Wrestling Academy in Davenport Iowa" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 # editPost:
     # URL: "https://github.com/<path_to_repo>/content"
     # Text: "Suggest Changes" # edit text
     # appendFilePath: true # to append file path to Edit link
 ---
-
-![Seth Rollins speaking to his students at the Back x Brave Academy in Davenport, Iowa](../../seth-speaking.webp)
 
 Are you an aspiring pro wrestler searching for a top-notch training facility? Look no further than Seth Rollins' Black x Brave Wrestling Academy in Davenport, Iowa.
 
