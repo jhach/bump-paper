@@ -67,8 +67,6 @@ In 2021, Austin Theory became a member of the wrestling stable "The Way" on WWE'
 
 He started wrestling full time with RAW in October 2021 and occasionally Smackdown. In 2022, Austin Theory captured the United States Championship by defeating Bobby Lashley and Seth Rollins at Survivor Series, and as of this writing, he is still the reigning WWE US Champion.
 
-![Austin Theory captures the WWE United States Championship at Survivor Series 2022](../../austin_theory_us_title.webp)
-
 ---
 
 ## Austin Theory's Wrestlemania Moment
