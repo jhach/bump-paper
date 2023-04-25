@@ -46,7 +46,6 @@ params:
   disableThemeToggle: false
   gtm_id: GTM-WPGJ28D
   gtm_datalayer: basic
-
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -61,11 +60,11 @@ params:
   hidemeta: false
   hideSummary: false
   showtoc: true
-  tocopen: true
+  tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
+    disableHLJS: true # to disable highlight.js
+    disableFingerprinting: true
     favicon: "https://bumpxfeed.com/images/bfblack32.png"
     favicon16x16: "https://bumpxfeed.com/images/bfblack16.png"
     favicon32x32: "https://bumpxfeed.com/images/bfblack32.png"
@@ -139,18 +138,14 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    # - identifier: categories
-      # name: categories
-      # url: /categories/
-      # weight: 10
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
     - identifier: posts
       name: posts
       url: /posts/
-      weight: 10
-    - identifier: categories
-      name: categories
-      url:  /categories/
-      weight: 20  
+      weight: 20
     - identifier: tags
       name: tags
       url: /tags/
@@ -164,7 +159,7 @@ menu:
       url: https://youtube.com/@jalenwu
       weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-pygmentsUseClasses: true
+pygmentsUseClasses: false
 markup:
   highlight:
     noClasses: false
