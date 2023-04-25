@@ -14,7 +14,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "A bumpxfeed exclusive: We'll take a look at the 2015 WWE Performance Center trainees' professional wrestling careers from training to where they are now."
-canonicalURL: "https://bumpxfeed.com/2015-wwe-performance-center-trainees-where-are-they-now"
+canonicalURL: "https://bumpxfeed.com/posts/2015-wwe-performance-center-trainees-where-are-they-now/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: false

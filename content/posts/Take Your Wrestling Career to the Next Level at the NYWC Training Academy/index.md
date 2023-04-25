@@ -14,7 +14,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Are you dreaming of becoming a successful professional wrestler? Do you want to learn from experienced trainers who have worked with WWE, ROH, and other top promotions? Look no further than NYWC Training Academy, Long Island's oldest and most successful wrestling school. With a proven track record of producing dynamic wrestlers who have gone on to work with WWE, AEW, Impact, and NJPW, NYWC offers comprehensive training led by top trainers Mike Mondo and Michael Mistretta. From the basics to advanced techniques, you'll learn everything you need to know to be successful in the industry. Join the ranks of NYWC graduates like Zack Ryder/Matt Cardona, Curt Hawkins/Brian Myers, Tony Nese, and more. Training is affordable at just $200 per month, with flexible scheduling options available. Don't wait to take your wrestling career to the next level – enroll in NYWC Training Academy today!"
-canonicalURL: "https://bumpxfeed.com/take-your-wrestling-career-to-the-next-level-at-the-nywc-training-academy"
+canonicalURL: "https://bumpxfeed.com/posts/take-your-wrestling-career-to-the-next-level-at-the-nywc-training-academy/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: false

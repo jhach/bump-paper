@@ -14,7 +14,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "The World Famous Monster Factory, located in Paulsboro, New Jersey, has been developing wrestling talent since 1983. The school was founded by \"Pretty Boy\" Larry Sharpe and \"Nature Boy\" Buddy Rogers, and in 2011, Danny Cage bought and rebranded the training center. Cage coaches, owns, and operates the school, continuing the tradition of developing some of the best wrestlers in the industry."
-canonicalURL: "https://bumpxfeed.com/the-world-famous-monster-factory-developing-talent-since-1983/"
+canonicalURL: "https://bumpxfeed.com/posts/the-world-famous-monster-factory-developing-talent-since-1983/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: false

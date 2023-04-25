@@ -14,7 +14,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Austin Theory defeated his childhood hero, WWE legend John Cena, by pinfall at Wrestlemania 39 in Los Angeles, California. While some may argue that his success has been quick, he's actually been wrestling matches since 2016. The 25 year old has 7 years of experience in the wrestling business, not including his training."
-canonicalURL: "https://bumpxfeed.com/pro-wrestling-training-to-main-roster-austin-theory-from-the-wwe"
+canonicalURL: "https://bumpxfeed.com/posts/pro-wrestling-training-to-main-roster-austin-theory-from-the-wwe/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: false

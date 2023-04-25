@@ -1,7 +1,7 @@
 ---
 title: "About"
-date: 2023-04-01T21:57:51+11:00
-lastmod: 2023-04-01T21:57:51+11:00
+date: 2023-04-01
+lastmod:
 # weight: 1
 # aliases: ["/first"]
 tags: ["","",""]
@@ -13,10 +13,9 @@ draft: false
 hidemeta: false
 comments: false
 description: "About the author of bump x feed, Jalen Wu"
-canonicalURL: "https://bumpxfeed.com/about"
+canonicalURL: "https://bumpxfeed.com/about/"
 disableHLJS: true # to disable highlightjs
 disableShare: true
-disableHLJS: true
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
@@ -25,19 +24,17 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
-# cover:
-    # image: "https://bumpxfeed.com/about.jpg" # image path/url
-    # alt: ""Jumpin" Jalen Wu dropkick" # alt text
-    # caption: ""Jumpin" Jalen Wu dropkicking an opponent" # display caption under cover
-    # relative: false # when using page bundles set this to true
-    # hidden: true # only hide on current single page
+cover:
+    image: "about.webp" # image path/url
+    alt: "\"Jumpin\" Jalen Wu dropkick" # alt text
+    caption: "\"Jumpin\" Jalen Wu dropkicking an opponent" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
 # editPost:
     # URL: "https://github.com/<path_to_repo>/content"
     # Text: "Suggest Changes" # edit text
     # appendFilePath: true # to append file path to Edit link
 ---
-
-![Dropkick by Jalen Wu](../../about.webp)
 
 Hola!
 
