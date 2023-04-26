@@ -10,19 +10,19 @@ author: "Jalen Wu"
 showToc: false
 TocOpen: false
 draft: false
-hidemeta: false
+hidemeta: true
 comments: false
 description: "About the author of bump x feed, Jalen Wu"
 canonicalURL: "https://bumpxfeed.com/about/"
 disableHLJS: true # to disable highlightjs
 disableShare: true
-hideSummary: false
+hideSummary: true
 searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
+ShowReadingTime: false
+ShowBreadCrumbs: false
+ShowPostNavLinks: false
+ShowWordCount: false
+ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 cover:
     image: "about.webp" # image path/url
@@ -50,3 +50,6 @@ I created this project to share my experience and hope it helps others to succee
 ## Links
 - [JalenWu's Youtube](https://www.youtube.com/channel/UCrIgygbZ7lxsMbYn29WtSwA)
 - [CAGEMATCH](https://www.cagematch.net/en/?id=2&nr=10961)
+
+## Contact
+Questions? Comments? Rants? You can [write them here](https://forms.gle/XDcfxC74ocytjtbA6)
