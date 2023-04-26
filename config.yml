@@ -36,7 +36,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: bump x feed
-  description: "Welcome to Bump x Feed, your destination to help achieve your dream of becoming a professional wrestler / sports entertainer."
+  description: "Pro wrestling and sports entertainment destination with content about WWE, AEW, NJPW, ROH, Impact!, and more."
   keywords: [Pro Wrestling School, Pro Wrestling Training, Pro Wrestling, WWE, AEW, NJPW, ROH, Impact!]
   author: Jalen Wu
   # author: ["Me", "You"] # multiple authors
@@ -80,7 +80,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: bump x feed
-    subtitle: "Welcome to Bump x Feed, your destination to help achieve your dream of becoming a professional wrestler / sports entertainer."
+    subtitle: "Pro wrestling and sports entertainment destination with content about WWE, AEW, NJPW, ROH, Impact!, and more."
     imageUrl: "images/bf-black.png"
     imageWidth: 240
     imageHeight: 240
