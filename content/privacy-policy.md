@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-date: 2023-04-11
+date: 2023-05-02
 lastmod:
 # weight: 1
 # aliases: ["/first"]
@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Privacy policy for bumpxfeed.com. Last updated April 11, 2023"
+description: "Privacy policy for bumpxfeed.com. Last updated May 2, 2023"
 canonicalURL: "https://bumpxfeed.com/privacy-policy/"
 disableHLJS: true # to disable highlightjs
 disableShare: true
@@ -35,7 +35,7 @@ UseHugoToc: false
     # Text: "Suggest Changes" # edit text
     # appendFilePath: true # to append file path to Edit link
 ---
-### Last updated April 11, 2023
+### Last updated May 2, 2023
 
 This privacy notice for bumpxfeed.com ("Company," "we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 * Visit our website at [https://bumpxfeed.com/](bumpxfeed.com), or any website of ours that links to this privacy notice
