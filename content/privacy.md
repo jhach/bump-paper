@@ -13,7 +13,7 @@ draft: false
 hidemeta: true
 comments: false
 description: "Privacy policy for bumpxfeed.com. Last updated May 2, 2023"
-canonicalURL: "https://bumpxfeed.com/privacy-policy/"
+canonicalURL: "https://bumpxfeed.com/privacy/"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 hideSummary: true
