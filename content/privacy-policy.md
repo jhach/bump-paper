@@ -9,7 +9,7 @@ author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: true
 comments: false
 description: "Privacy policy for bumpxfeed.com. Last updated April 11, 2023"

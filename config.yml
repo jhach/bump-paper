@@ -154,10 +154,10 @@ menu:
       name: about
       url: /about/
       weight: 40
-    - identifier: Jalen Wu
-      name: Jalen Wu
-      url: https://youtube.com/@jalenwu
-      weight: 50
+    # - identifier: Jalen Wu
+      # name: Jalen Wu
+      # url: https://youtube.com/@jalenwu
+      # weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: false
 markup:
