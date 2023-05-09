@@ -1,11 +1,13 @@
 baseURL: "https://bumpxfeed.com/"
 languageCode: en-us
-title: bump x feed
+title: bumpXfeed
 paginate: 5
 theme: PaperMod
 
+# https://gohugo.io/getting-started/configuration/#enablegitinfo
 enableGitInfo: true
 
+# https://gohugo.io/getting-started/configuration/#configure-front-matter
 frontmatter:
   date:
   - date
@@ -35,7 +37,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: bump x feed
+  title: bumpXfeed
   description: "Pro wrestling and sports entertainment destination with content about WWE, AEW, NJPW, ROH, Impact!, and more."
   keywords: [Pro Wrestling School, Pro Wrestling Training, Pro Wrestling, WWE, AEW, NJPW, ROH, Impact!]
   author: Jalen Wu
@@ -72,19 +74,19 @@ params:
     safari_pinned_tab: "https://bumpxfeed.com/images/bfblack32.png"
 
   label:
-    text: "bump x feed"
-    icon: images/bfblack180.png
+    text: bumpXfeed
+    icon: "images/bfblack180.png"
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: bump x feed
+    title: bumpXfeed
     subtitle: "Pro wrestling and sports entertainment destination with content about WWE, AEW, NJPW, ROH, Impact!, and more."
     imageUrl: "images/bf-black.png"
     imageWidth: 240
     imageHeight: 240
-    imageTitle: bump x feed
+    imageTitle: bumpXfeed
     buttons:
       - name: Archives
         url: archives
@@ -128,23 +130,23 @@ params:
 
   # for search
   # https://fusejs.io/api/options.html
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
+  # fuseOpts:
+    # isCaseSensitive: false
+    # shouldSort: true
+    # location: 0
+    # distance: 1000
+    # threshold: 0.4
+    # minMatchCharLength: 0
+    # keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
     - identifier: posts
       name: posts
       url: /posts/
+      weight: 10
+    - identifier: categories
+      name: categories
+      url: /categories/
       weight: 20
     - identifier: tags
       name: tags
