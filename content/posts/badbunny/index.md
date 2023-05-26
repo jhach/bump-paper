@@ -63,3 +63,29 @@ Bad Bunny's "Chambea" video features none other than the Nature Boy himself, Ric
 Bad Bunny's "I Like It" video features a number of wrestlers, including Triple H. The video shows Bad Bunny and other performers at a wrestling event, where Triple H is seen in the ring. The wrestler is later shown backstage, where he takes a photo with Bad Bunny.
 
 Bad Bunny's love for wrestling is evident in his music videos, where he often features wrestlers. From Booker T to Stone Cold Steve Austin, Bad Bunny has worked with some of the biggest names in the industry. These collaborations have not only helped bring attention to pro wrestling but have also introduced Bad Bunny's fans to the exciting world of wrestling.
+
+
+### Superstars who wrestled on the independents before joining WWE
+**53%** 10 out of 19
+#### Iyo Sky (イヨ・スカイ, Iyo Sukai)
+#### Seth Rollins
+#### Austin Theory
+#### Bronson Reed
+#### Zelina Vega
+#### Rhea Ripley
+#### Damian Priest
+#### Kevin Owens
+#### Sami Zayn
+#### Cody Rhodes
+
+### Superstar with an entertainment/music background before joining WWE
+
+### Superstars who competed in sporting events before or after joining WWE
+
+## Developmental
+
+### OVW (Ohio Valley Wrestling)
+
+### FCW (Florida Championship Wrestling)
+
+### NXT
