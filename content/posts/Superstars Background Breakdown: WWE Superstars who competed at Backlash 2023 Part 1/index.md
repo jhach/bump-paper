@@ -14,7 +14,7 @@ draft: false
 hidemeta: false
 comments: false
 description: ""
-canonicalURL: "https://bumpxfeed.com/superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/"
+canonicalURL: "https://bumpxfeed.com/posts/superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: false
