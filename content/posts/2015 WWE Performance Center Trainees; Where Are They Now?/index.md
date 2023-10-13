@@ -77,8 +77,10 @@ Nhooph Al-Areebi started her pro wrestling training with Squared Circle in 2011.
 She received a spot on the 2015 WWE Performance Center class and would perform under her real name until January 2016 when she was renamed Aliyah. She made her WWE main roster debut in 2021 for the Smackdown brand.
 
 She is currently on the WWE Smackdown roster but hasn't been used for quite a while.  
+Update: Aliyah was released from the WWE in 2023 of September
+{{< tweet user="WWE_Aliyah" id="1704876633289560122" >}}
 
-Status: Active (WWE)
+Status: Inactive
 
 ---
 
