@@ -156,9 +156,7 @@ Status: Active (WWE)
 ![Thomas Kingdon at the WWE Performance Center in 2015](thomas.webp)
 ### Thomas Kingdon (Traverse City, Michigan)
 
-Thomas Kingdon was an amateur bodybuilder who won the super-heavyweight class at the 2013 NPC Central States Competition before his WWE tryout, which he applied for on the [WWE Recruit website](https://recruit.wwe.com/#!/tryout).
-
-He was released in 2016 and no other information is available regarding his status in the industry, today.  
+Thomas Kingdon, a former bodybuilder who won the super-heavyweight category at the 2013 NPC Central States Competition, applied for a WWE tryout through the [WWE Recruit website](https://recruit.wwe.com/#!/tryout). He was part of the WWE developmental system until 2016, when he was let go. His current whereabouts and involvement in the wrestling business are unknown.
 
 Status: Inactive
 
