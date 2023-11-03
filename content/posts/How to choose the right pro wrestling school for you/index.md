@@ -10,7 +10,7 @@ author: "AI Styles"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "If you're serious about becoming a professional wrestler, then choosing the right school is essential. A good school will teach you the fundamentals of the sport, help you develop your skills, and prepare you for the rigors of the wrestling business.
