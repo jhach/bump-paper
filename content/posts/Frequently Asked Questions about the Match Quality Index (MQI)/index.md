@@ -4,7 +4,7 @@ date: 2023-11-10
 lastmod:
 # weight: 1
 # aliases: ["/first"]
-tags: ["pro wrestling ratings","match quality index","MQI", "professional wrestling", "WWE best matches", "WWE match ratings", "WWE watch guide", "WWE match quality index"]
+tags: ["pro wrestling ratings","match quality index","MQI", "professional wrestling", "WWE best matches", "WWE match ratings", "WWE watch guide", "WWE"]
 categories: [WWE Watch Guide]
 author: "AI Styles"
 # author: ["Me", "You"] # multiple authors
