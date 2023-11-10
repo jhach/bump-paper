@@ -1,5 +1,5 @@
 ---
-title: "Frequently Asked Questions about the Match Quality Index (MQI)"
+title: "FAQ: What is the Match Quality Index (MQI) and how does it work?"
 date: 2023-11-10
 lastmod:
 # weight: 1
@@ -13,7 +13,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Looking for the best WWE, AEW, Impact, TNA, ROH and more... matches to watch? Look no further than the Match Quality Index (MQI)! The MQI is a comprehensive metric that combines match rating and match length to provide a holistic assessment of the quality of each bout. By factoring in both subjective and objective measures, the MQI provides a more nuanced understanding of match quality, ensuring that you don't miss out on hidden gems or overhype over less-than-stellar performances."
+description: "A FAQ page that explains what the Match Quality Index (MQI) is and how it works, and how it can help you decide which matches to watch and which ones to skip from WWE, AEW, Impact, ROH, and other pro wrestling events."
 # canonicalURL: "https://bumpxfeed.com/posts/superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -42,36 +42,35 @@ cover:
 
 # Frequently Asked Questions about the Match Quality Index (MQI)
 
-## What is the Match Quality Index (MQI)?
+The Match Quality Index (MQI) is a metric that ranks the matches from WWE events based on their quality, using the match rating, the match length, and the WON rating. In this FAQ page, we will answer some of the most common questions about the MQI and how it works.
 
-The Match Quality Index (MQI) is a metric that combines match rating and match length to provide a comprehensive assessment of the quality of a professional wrestling match. It is designed to help fans make informed decisions about which matches to watch and which to skip.
+## What is the match rating?
+The match rating is a subjective measure of the quality of the match, based on the ratings from [CAGEMATCH](https://www.cagematch.net/?ref=bumpxfeed.com), a website that provides ratings and match length for wrestling matches. The match rating is based on the votes of the users of the website, who can rate the matches from 0 to 10. The match rating is the average of all the votes for a given match.
+
+## What is the match length?
+The match length is the duration of the match in minutes, as reported by [CAGEMATCH](https://www.cagematch.net/?ref=bumpxfeed.com). The match length is an objective measure of the quality of the match, as longer matches are generally more physically demanding and require more endurance from the wrestlers.
+
+## What is the WON rating?
+The WON rating is a subjective measure of the quality of the match, based on the ratings from the [Wrestling Observer Newsletter](https://www.f4wonline.com/?ref=bumpxfeed.com), a newsletter that covers professional wrestling and mixed martial arts. The WON rating is based on the opinion of Dave Meltzer, the editor and publisher of the newsletter, who can rate the matches from 0 to 5 stars, with the possibility of adding a plus (+) or a minus (-) sign to indicate a slightly higher or lower rating. The WON rating is considered to be one of the most influential and respected ratings in the wrestling industry.
 
 ## How is the MQI calculated?
+The MQI is calculated as follows:
 
-The MQI is calculated using the following formula:
-
-``` 
-MQI = (Match Rating * 10) + Match Length
+```
+MQI = (Match Rating * 10) + Match Length + (WON Rating * 10)
 ```
 
-For example, a match that receives an average rating of 7.5 and lasts for 15 minutes would have an MQI of 90.
+This formula gives more weight to the match rating and the WON rating, as they are more subjective measures of the quality of the match. However, it also takes into account the length of the match, as longer matches are generally more physically demanding and require more endurance from the wrestlers.
 
-## What are the benefits of using the MQI?
+The MQI ranges from 0 to 100, with higher scores indicating better matches.
 
-There are several benefits to using the MQI, including:
+## How can I use the MQI to decide which matches to watch and which ones to skip?
+The MQI can help you decide which matches to watch and which ones to skip, based on your preferences and time availability. For example, if you want to watch the best matches from a WWE event, you can look for the matches with the highest MQI scores. If you want to watch the most entertaining matches from a WWE event, you can look for the matches with the highest match ratings and WON ratings. If you want to watch the most challenging matches from a WWE event, you can look for the matches with the longest match lengths.
 
-1. Objectivity: The MQI incorporates an objective measure, match length, which provides a consistent basis for comparison across different matches.
-2. Comprehensiveness: The MQI considers both the overall rating of a match and its duration, providing a more holistic assessment of its quality.
-3. Consistency: The MQI utilizes a consistent formula, ensuring that ratings are calculated in a uniform manner.
-4. Relevance: The MQI is specifically designed to evaluate WWE matches, taking into account the unique characteristics and nuances of professional wrestling. 
+However, the MQI is not a definitive measure of the quality of the match, and it may not reflect your personal taste and opinion. Therefore, you should always use your own judgment and discretion when choosing which matches to watch and which ones to skip.
 
-## How can I use the MQI to find the best WWE matches to watch?
-
-You can use the MQI to find the best WWE matches to watch by:
-
-* Checking this website for MQI ratings for different matches.
-* Checking the MQI ratings for matches that you are considering watching.
-* Using the MQI to compare the ratings of different matches.
+## Where can I find the MQI scores for the matches from WWE events?
+You can find the MQI scores for the matches from WWE events on our blog, where we rank the matches from each event based on the MQI metric, and give you our recommendations on which ones to watch and which ones to skip. You can also find the match ratings, the match lengths, and the WON ratings for each match, as well as the sources and references for the data.
 
 ## Is the MQI a perfect metric?
 
