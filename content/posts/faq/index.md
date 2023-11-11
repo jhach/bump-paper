@@ -1,5 +1,5 @@
 ---
-title: "FAQ: What is the Match Quality Index (MQI) and how does it work?"
+title: "Frequently Asked Questions about the Match Quality Index (MQI)"
 date: 2023-11-10
 lastmod:
 # weight: 1
@@ -40,37 +40,56 @@ cover:
 # ref url [WWE]({{< ref "/tags/wwe" >}} "WWE")
 ---
 
-# Frequently Asked Questions about the Match Quality Index (MQI)
+Frequently Asked Questions about the Match Quality Index (MQI)
 
-The Match Quality Index (MQI) is a metric that ranks the matches from WWE events based on their quality, using the match rating, the match length, and the WON rating. In this FAQ page, we will answer some of the most common questions about the MQI and how it works.
+## What is the MQI?
 
-## What is the match rating?
-The match rating is a subjective measure of the quality of the match, based on the ratings from [CAGEMATCH](https://www.cagematch.net/?ref=bumpxfeed.com), a website that provides ratings and match length for wrestling matches. The match rating is based on the votes of the users of the website, who can rate the matches from 0 to 10. The match rating is the average of all the votes for a given match.
+The Match Quality Index (MQI) is a data-driven metric that evaluates the quality of professional wrestling matches. It takes into account three key factors: match rating and match duration as reported by [CAGEMATCH](https://www.cagematch.net/?ref=bumpxfeed.com), and WON rating.
 
-## What is the match length?
-The match length is the duration of the match in minutes, as reported by [CAGEMATCH](https://www.cagematch.net/?ref=bumpxfeed.com). The match length is an objective measure of the quality of the match, as longer matches are generally more physically demanding and require more endurance from the wrestlers.
-
-## What is the WON rating?
 The WON rating is a subjective measure of the quality of the match, based on the ratings from the [Wrestling Observer Newsletter](https://www.f4wonline.com/?ref=bumpxfeed.com), a newsletter that covers professional wrestling and mixed martial arts. The WON rating is based on the opinion of Dave Meltzer, the editor and publisher of the newsletter, who can rate the matches from 0 to 5 stars, with the possibility of adding a plus (+) or a minus (-) sign to indicate a slightly higher or lower rating. The WON rating is considered to be one of the most influential and respected ratings in the wrestling industry.
 
+
 ## How is the MQI calculated?
-The MQI is calculated as follows:
 
+The MQI is calculated using the following formula:
 ```
-MQI = (Match Rating * 10) + Match Length + (WON Rating * 10)
+MQI = (0.4 * Match Rating) + (0.2 * Match Duration) + (0.4 * WON Rating)
 ```
+Where:
 
-This formula gives more weight to the match rating and the WON rating, as they are more subjective measures of the quality of the match. However, it also takes into account the length of the match, as longer matches are generally more physically demanding and require more endurance from the wrestlers.
+1. Match Rating: The average rating given to the match by fans on a scale of 1 to 10.
+2. Match Duration: The total length of the match in minutes.
+3. WON Rating: The rating given to the match by the Wrestling Observer Newsletter, on a scale of 0 to 5 stars.
 
-The MQI ranges from 0 to 100, with higher scores indicating better matches.
+## What do the MQI scores mean?
 
-## How can I use the MQI to decide which matches to watch and which ones to skip?
-The MQI can help you decide which matches to watch and which ones to skip, based on your preferences and time availability. For example, if you want to watch the best matches from a WWE event, you can look for the matches with the highest MQI scores. If you want to watch the most entertaining matches from a WWE event, you can look for the matches with the highest match ratings and WON ratings. If you want to watch the most challenging matches from a WWE event, you can look for the matches with the longest match lengths.
+MQI scores can be interpreted as follows:
 
-However, the MQI is not a definitive measure of the quality of the match, and it may not reflect your personal taste and opinion. Therefore, you should always use your own judgment and discretion when choosing which matches to watch and which ones to skip.
+* 9 or above: Exceptional match
+* 8 to 8.9: Very good match
+* 7 to 7.9: Good match
+* 6 to 6.9: Average match
+* 5 or below: Below average match
 
-## Where can I find the MQI scores for the matches from WWE events?
-You can find the MQI scores for the matches from WWE events on our blog, where we rank the matches from each event based on the MQI metric, and give you our recommendations on which ones to watch and which ones to skip. You can also find the match ratings, the match lengths, and the WON ratings for each match, as well as the sources and references for the data.
+## What are the benefits of using the MQI?
+
+The MQI provides several benefits, including:
+
+* A more objective way to evaluate match quality: The MQI is based on data rather than subjective opinions.
+* A way to identify the best matches to watch: Fans can use the MQI to prioritize matches that are likely to be memorable and enjoyable.
+* A way to track the quality of professional wrestling over time: The MQI can be used to track trends in match quality and identify how different factors, such as promotion, wrestlers, and booking, affect match quality.
+
+## Where can I find MQI scores?
+You can find the MQI scores for the matches from WWE, AEW, Impact, ROH, and more events on our blog, where we rank the matches from each event based on the MQI metric, and give you our recommendations on which ones to watch and which ones to skip. You can also find the match ratings, the match lengths, and the WON ratings for each match, as well as the sources and references for the data.
+
+
+## How can I use the MQI to make informed viewing choices?
+
+When choosing which matches to watch, fans can consider the following factors:
+
+* MQI score: A higher MQI score generally indicates a better match.
+* Match type: Some fans prefer certain types of matches, such as singles matches or tag team matches.
+* Wrestlers: Some fans prefer to watch matches featuring their favorite wrestlers.
 
 ## Is the MQI a perfect metric?
 
@@ -107,6 +126,5 @@ Here are some key reasons why the MQI is a reliable tool for WWE match ratings:
 * Evolving: The MQI is not a static metric; it can be adapted and refined as the landscape of professional wrestling evolves. This adaptability ensures that the MQI remains relevant and useful as the sport continues to change and develop.
 
 Just as Google ratings have become an invaluable tool for consumers, the Match Quality Index (MQI) can serve as a trusted guide for WWE fans. By utilizing the MQI, fans can confidently navigate the vast array of matches and make informed decisions about which ones to invest their time and energy in.
-
 
 I hope this FAQ has been helpful. If you have any other questions, please feel free to ask.
