@@ -58,7 +58,7 @@ MQI = (0.4 * Match Rating) + (0.2 * Match Duration) + (0.4 * WON Rating)
 Where:
 
 1. Match Rating: The average rating given to the match by fans on a scale of 1 to 10.
-2. Match Duration: The total length of the match in minutes.
+2. Match Duration: The total length of the match in minutes. The minutes are rounded according to standard rules (ex: 18:50 will round up to 19 minutes).
 3. WON Rating: The rating given to the match by the Wrestling Observer Newsletter, on a scale of 0 to 5 stars.
 
 ## What do the MQI scores mean?
