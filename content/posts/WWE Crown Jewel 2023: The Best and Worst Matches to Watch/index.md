@@ -1,5 +1,5 @@
 ---
-title: "WWE Crown Jewel 2023: The Best and Worst Matches to Watch"
+title: "WWE Crown Jewel 2023: A Comprehensive Review of All the Matches"
 date: 2023-11-10
 lastmod:
 # weight: 1
@@ -40,41 +40,43 @@ cover:
 # ref url [WWE]({{< ref "/tags/wwe" >}} "WWE")
 ---
 
-# WWE Crown Jewel 2023: The Best and Worst Matches to Watch
+WWE Crown Jewel 2023 was a historic event that featured some of the best and worst matches of the year, as well as some controversial outcomes. Here are the match ratings, highlights and analysis of all the matches of the event, based on the Match Quality Index (MQI), which combines the match duration, the fan rating and the Wrestling Observer Newsletter (WON) rating.
 
-## Decoding the Match Quality Index (MQI): Navigating the Realm of WWE's Must-See Encounters
-
-In the captivating universe of professional wrestling, where athleticism, storytelling, and raw emotion intertwine, determining the true quality of a match can be a subjective endeavor. However, with the introduction of the [Match Quality Index (MQI)]({{< ref "posts/faq" >}} "Match Quality Index (MQI)"), a data-driven approach has emerged to objectively evaluate the factors that contribute to an exceptional wrestling spectacle.
-
-The MQI takes into account three key metrics: match rating, match duration, and WON rating. Match rating reflects the overall sentiment of fans, while match duration highlights the intensity and endurance displayed by the wrestlers. WON rating, provided by the esteemed Wrestling Observer Newsletter, adds a layer of expert evaluation.
-
-Navigating the WWE Landscape: Must-See Encounters and Ones to Skip
-
-By analyzing the MQI scores of recent WWE matches, we can identify the encounters that are most likely to deliver an unforgettable viewing experience for wrestling fans.
-
-## Matches to Watch: Unmissable Encounters
 ![WWE Crown Jewel 2023 Best Matches to Watch](mustwatch.webp)
 
-### WWE World Heavyweight Title Match: Seth Rollins (c) defeats Drew McIntyre (18:24) (MQI: 7.54)
-This enthralling title defense by Seth Rollins against Drew McIntyre showcased both wrestlers' technical prowess and captivating storytelling. Strategic sequences and an unpredictable outcome kept the audience engaged throughout.
+## Best Match: Seth Rollins vs. Drew McIntyre - MQI: 8.58. 
+The WWE World Heavyweight Title match was a classic battle between two of the top stars in the company. Rollins and McIntyre delivered a thrilling performance that kept the fans on the edge of their seats. Rollins retained his title after hitting a curb stomp on McIntyre, who had kicked out of several finishers before. This match had the highest MQI of the event, with a fan rating of 7.95, a duration of 18 minutes and a WON rating of 4.5 stars.
 
-### Singles Match: Solo Sikoa defeats John Cena (16:10) (MQI: 6.78)
-While the overall MQI score for this match might not be the highest, it was a well-executed and entertaining encounter that highlighted the athleticism and power of both wrestlers. The match featured several memorable moments, including a surprising pinfall victory by Solo Sikoa.
-
-### Singles Match: Cody Rhodes defeats Damian Priest (11:04) (MQI: 6.55)
-This match showcased the high-flying aerial maneuvers and technical skills of both Cody Rhodes and Damian Priest. The fast-paced action and intense rivalry between the two wrestlers kept the audience on the edge of their seats.
-
-### WWE Title / WWE Universal Title Match: Roman Reigns (w/Paul Heyman) (c) defeats LA Knight (20:03) (MQI: 7.71)
-The highly anticipated main event match delivered the hard-hitting action that fans expected. Reigns' dominance and LA Knight's underdog spirit made for an exciting and unpredictable encounter.
-
-## Encounters to Consider Skipping
 ![WWE Crown Jewel 2023 Worst Matches to skip](skip.webp)
 
-### WWE Women's World Title Fatal Five Way Match: Rhea Ripley (c) defeats Nia Jax and Raquel Rodriguez and Shayna Baszler and Zoey Stark (11:05) (MQI: 6.41)
-While featuring several talented wrestlers, the chaotic nature of the Fatal Five Way format made it difficult for any one wrestler to shine through. The match lacked a clear storyline and a memorable outcome.
+## Worst Match: Cody Rhodes vs. Damian Priest - MQI: 6.07. 
+The singles match between Cody Rhodes and Damian Priest was a disappointing and boring match that failed to showcase the talents of both men. Rhodes and Priest had a slow and sloppy match that had no story or heat. Rhodes won the match after hitting a Cross Rhodes on Priest, who had been distracted by his rival, The Miz. This match had the lowest MQI of the event, with a fan rating of 6.18, a duration of 11 minutes and a WON rating of 3.5 stars. 
 
-### WWE Women's Title Match: IYO SKY (c) defeats Bianca Belair (16:33) (MQI: 6.36)
-This match had a solid technical execution, but it lacked the storytelling depth and emotional connection that make for a truly memorable encounter. The outcome was predictable, and the match didn't advance any significant storylines.
+## Most Surprising Match: Logan Paul vs. Rey Mysterio - MQI: 7.75. 
+The WWE United States Title match was a surprising encounter that saw the YouTube star Logan Paul challenge the veteran Rey Mysterio for his title. Paul shocked the fans by showing some impressive wrestling skills and holding his own against Mysterio. Paul even hit a 619 on Mysterio, but missed the frog splash. Mysterio then capitalized and hit a 619 and a frog splash of his own to retain his title. This match had a high MQI of 7.75, with a fan rating of 6.88, a duration of 18 minutes and a WON rating of 3.5 stars. 
 
-## Conclusion
-WWE Crown Jewel 2023 was a great event that had some amazing matches. However, not all matches were worth your time, and some of them were better off skipped. We hope that this blog post helped you decide which matches to watch and which ones to avoid, based on the MQI metric. If you enjoyed this blog post, please share it with your friends and leave a comment below or on socials. Thanks for reading!
+## Most Disappointing Match: Roman Reigns vs. LA Knight - MQI: 8.00. 
+The WWE Title / WWE Universal Title match was a disappointing clash that saw the WWE Universal Champion Roman Reigns face the WWE Champion LA Knight in a unification match. Reigns dominated most of the match, while Knight barely got any offense in. Reigns won the match after making Knight tap out to the guillotine choke, becoming the undisputed champion of WWE. This match had a decent MQI of 8.00, with a fan rating of 6.51, a duration of 20 minutes and a WON rating of 3.5 stars, but it failed to live up to the hype and expectations of the fans.
+
+### WWE Women’s World Title Fatal Five Way Match: Rhea Ripley vs. Nia Jax vs. Raquel Rodriguez vs. Shayna Baszler vs. Zoey Stark - MQI: 5.90. 
+The WWE Women’s World Title Fatal Five Way match was a chaotic and messy affair that failed to showcase the talents of the participants. Ripley retained her title after pinning Stark, who had been attacked by Baszler earlier. This match had a low MQI of 5.90, with a fan rating of 6, a duration of 11 minutes and a WON rating of 3.25 stars. 
+
+### WWE Women’s Title Match: IYO SKY vs. Bianca Belair - MQI: 7.14. 
+The WWE Women’s Title match was a good and competitive match that saw the champion IYO SKY defend her title against the rising star Bianca Belair. SKY and Belair had a fast and furious match that had some impressive moves and near-falls. SKY retained her title after hitting a Sky High on Belair, who had kicked out of a KOD earlier. This match had a moderate MQI of 7.14, with a fan rating of 6.34, a duration of 17 minutes and a WON rating of 3 stars.
+### Singles Match: Solo Sikoa vs. John Cena - MQI: 6.69. 
+The singles match between Solo Sikoa and John Cena was a good and solid match that saw the Enforcer of The Bloodline face the Greatest of All Time. Sikoa and Cena had a hard-hitting and intense match that had some back and forth action and near-falls. Sikoa won the match after hitting 11 Samoan Spikes on Cena, who had kicked out of an AA earlier. This match had a moderate MQI of 6.69, with a fan rating of 5.22, a duration of 16 minutes and a WON rating of 3.5 stars.
+
+The average MQI of the event was 7.26, which is a good score, but not a great one. The overall MQI of the event was 58.08, which is also a respectable score, but not a remarkable one. WWE Crown Jewel 2023 had some memorable moments and matches, but it also had some flaws and shortcomings. It was a solid event, but not a spectacular one.
+
+## We recommend you to watch the following matches, as they were the best of the event:
+
+* Seth Rollins vs. Drew McIntyre
+* Logan Paul vs. Rey Mysterio
+* Roman Reigns vs. LA Knight
+
+## We suggest you to skip the following matches, as they were the worst of the event:
+
+* Cody Rhodes vs. Damian Priest
+* Rhea Ripley vs. Nia Jax vs. Raquel Rodriguez vs. Shayna Baszler vs. Zoey Stark 
+
+We hope you enjoyed this blog post, and learned something new about WWE Crown Jewel 2023 and the MQI metric. If you have any comments, questions, or feedback, please let us know in the comment section below. Thank you for reading, and stay tuned for more wrestling-related content. 😊
