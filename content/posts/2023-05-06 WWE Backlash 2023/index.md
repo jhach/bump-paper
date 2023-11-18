@@ -10,7 +10,7 @@ author: "AI Styles"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 description: "A blog post that ranks the matches from WWE Backlash 2023 based on a metric called the Match Quality Index (MQI), which combines the match rating & match length provided by Cageematch, and the WON rating, and gives recommendations on which ones to watch and which ones to skip."
@@ -44,27 +44,23 @@ In the world of professional wrestling, where athleticism, storytelling, and raw
 
 The MQI takes into account three key metrics: match rating, match duration, and WON rating. Match rating reflects the overall sentiment of fans, while match duration highlights the intensity and endurance displayed by the wrestlers. WON rating, provided by the esteemed Wrestling Observer Newsletter, adds a layer of expert evaluation.
 
-## Total MQI for the Event: 54.09
-
-With an overall MQI of 54.09, this event showcased a solid lineup of matches, with some truly exceptional encounters standing out from the rest.
-
 ## Matches to Watch: Must-See Encounters
 
-### WWE RAW Women's Title Match: Bianca Belair (c) vs. IYO SKY (MQI: 7.78)
+### WWE RAW Women's Title Match: Bianca Belair (c) vs. IYO SKY (MQI: 8.62)
 This high-octane title match showcased the technical prowess and ring awareness of both competitors. The strategic sequences and captivating storyline kept the audience engaged throughout.
 
-### San Juan Street Fight: Bad Bunny defeats Damian Priest (MQI: 8.20)
+### San Juan Street Fight: Bad Bunny defeats Damian Priest (MQI: 10.22)
 This intense street fight was filled with brutal strikes, weapon usage, and a touch of humor, making it an entertaining spectacle for the fans. The match showcased Bad Bunny's athleticism and Priest's resilience.
 
-### Singles Match: Cody Rhodes defeats Brock Lesnar (MQI: 7.09)
+### Singles Match: Cody Rhodes defeats Brock Lesnar (MQI: 6.12)
 This highly anticipated singles match delivered the hard-hitting action that fans expected. Rhodes's underdog spirit and Lesnar's power made for an exciting and unpredictable encounter.
 
 ## Matches to Skip: Encounters to Consider Skipping
 
-### WWE United States Title Triple Threat Match: Austin Theory (c) defeats Bobby Lashley and Bronson Reed (MQI: 4.82)
+### WWE United States Title Triple Threat Match: Austin Theory (c) defeats Bobby Lashley and Bronson Reed (MQI: 4.63)
 This triple threat match, while fast-paced, lacked the storytelling and technical depth of other matches on the card. The predictable outcome and brief duration made it less memorable.
 
-### WWE SmackDown Women's Title Match: Rhea Ripley (c) defeats Zelina Vega (MQI: 4.62)
+### WWE SmackDown Women's Title Match: Rhea Ripley (c) defeats Zelina Vega (MQI: 4.33)
 This one-sided match didn't provide the level of competition that fans might have hoped for. Vega's limited offense made it difficult for Ripley to showcase her full potential.
 
 ### Six Man Tag Team Match: The Bloodline (Jey Uso, Jimmy Uso & Solo Sikoa) defeat Kevin Owens, Matt Riddle & Sami Zayn (MQI: 6.79)
