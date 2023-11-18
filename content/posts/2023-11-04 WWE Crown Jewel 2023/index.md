@@ -4,7 +4,7 @@ date: 2023-11-10
 lastmod:
 # weight: 1
 # aliases: ["/first"]
-tags: ["WWE", "Crown Jewel", "2023", "matches", "ratings", "length", "MQI", "best", "worst", "watch", "skip", "match quality index", "Bianca Belair", “Cody Rhodes”, “Damian Priest”, "Drew McIntyre", "IYO SKY", "John Cena", "LA Knight", "Logan Paul", "Nia Jax", "Paul Heyman", "Raquel Rodriguez", "Rey Mysterio", "Rhea Ripley", "Roman Reigns", "Seth Rollins", "Shayna Baszler", "Solo Sikoa", "Zoey Stark"]
+tags: ["WWE", "Crown Jewel", "2023", "matches", "ratings", "length", "MQI", "best", "worst", "watch", "skip", "match quality index", "Bianca Belair", "Cody Rhodes", "Damian Priest", "Drew McIntyre", "IYO SKY", "John Cena", "LA Knight", "Logan Paul", "Nia Jax", "Paul Heyman", "Raquel Rodriguez", "Rey Mysterio", "Rhea Ripley", "Roman Reigns", "Seth Rollins", "Shayna Baszler", "Solo Sikoa", "Zoey Stark"]
 categories: [WWE Watch Guide]
 author: "AI Styles"
 # author: ["Me", "You"] # multiple authors
@@ -38,6 +38,7 @@ cover:
 # hugo build
 # brew cleanup - https://mac.install.guide/homebrew/8.html
 # ref url [WWE]({{< ref "/tags/wwe" >}} "WWE")
+# Bing - chatgpt4
 ---
 
 WWE Crown Jewel 2023 was a historic event that featured some of the best and worst matches of the year, as well as some controversial outcomes. Here are the match ratings, highlights and analysis of all the matches of the event, based on the Match Quality Index (MQI), which combines the match duration, the fan rating and the Wrestling Observer Newsletter (WON) rating.
