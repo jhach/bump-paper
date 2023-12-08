@@ -26,9 +26,9 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "wwess.webp" # image path/url
-    alt: "WWE Survivor Series 2023 in Chicago, Il." # alt text
-    caption: "WWE Survivor Series 2023 poster by DALL-E" # display caption under cover
+    image: "OIG.jpeg" # image path/url
+    alt: "WWE Survivor Series 2023 in Chicago. CM Punk and Randy Orton." # alt text
+    caption: "WWE Survivor Series 2023 poster with Randy Orton and CM Punk by DALL-E" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 
@@ -59,7 +59,6 @@ The event kicked off with the highly anticipated Women's WarGames match, which r
 The undercard singles matches received a mixed response. The technical prowess showcased by Gunther and The Miz was appreciated, and the high-flying action between Santos Escobar and Dragon Lee entertained the crowd. However, some fans felt these matches were too short to reach their full potential, leaving them wanting more. Rhea Ripley's victory over Zoey Stark received the most criticism, with some viewers finding the match to be lacking in excitement and tension.
 
 ## Returns Ignite Excitement:
-![Randy Orton and CM Punk crash a surprise party, image by DALL-E](ortoncm.webp)
 
 The evening was undoubtedly marked by the electrifying return of Randy Orton and the monumental comeback of CM Punk. Both returns were met with overwhelmingly positive reactions, generating excitement and anticipation for their future roles in WWE. Punk's shocking appearance, in particular, sent shockwaves through the wrestling community and promises to significantly impact the landscape of the sport.
 
