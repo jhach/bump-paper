@@ -1,32 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Backlash on bumpXfeed</title>
-    <link>http://localhost:1313/tags/backlash/</link>
+    <link>https://bumpxfeed.com/tags/backlash/</link>
     <description>Recent content in Backlash on bumpXfeed</description>
-    <image>
-      <title>bumpXfeed</title>
-      <url>http://localhost:1313/images/bf-black.png</url>
-      <link>http://localhost:1313/images/bf-black.png</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Nov 2023 12:22:49 +1100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/backlash/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Superstars Background Breakdown: WWE Superstars who competed at Backlash 2023 Part 2</title>
-      <link>http://localhost:1313/posts/2023-06-30-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-2/</link>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-06-30-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-2/</guid>
-      <description>In part 1 of Superstars Background Breakdown: WWE Superstars who competed at Backlash 2023, we took a look at the WWE superstars who had collegiate athletic backgrounds before joining World Wrestling Entertainment. In part 2, we&amp;rsquo;ll showcase the superstars who started their careers on the independents before becoming superstars in the WWE.
-There were a total of 19 professional wrestlers that performed on the WWE premium live event that had different backgrounds before joining the main roster.</description>
-    </item>
+    <atom:link href="https://bumpxfeed.com/tags/backlash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Superstars Background Breakdown: WWE Superstars who competed at Backlash 2023 Part 1</title>
-      <link>http://localhost:1313/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</link>
+      <link>https://bumpxfeed.com/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</guid>
-      <description>Discover the college sports backgrounds of WWE Backlash 2023 superstars! From Bianca Belair&amp;#39;s track and field dominance to Brock Lesnar&amp;#39;s collegiate wrestling championships, these athletes&amp;#39; college experiences shaped their journey to WWE. Part 1 of the Superstars Background Breakdown explores their impressive athletic achievements and showcases the diverse paths that led them to the grand stage of professional wrestling.</description>
+      <guid>https://bumpxfeed.com/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</guid>
+      <description>The 2023 Backlash, held in Puerto Rico, was an action-packed WWE event featuring Bad Bunny in a thrilling San Juan Street Fight. Cody Rhodes emerged victorious in the final match, while other standout moments included The Bloodline&amp;rsquo;s triumph and Bianca Belair&amp;rsquo;s record-breaking title defense. Fans and critics alike praised the event, highlighting the memorable San Juan Street Fight and the Raw Women&amp;rsquo;s Championship match. #WWE #Backlash2023&#xA;WWE Backlash 2023 Results</description>
     </item>
   </channel>
 </rss>
