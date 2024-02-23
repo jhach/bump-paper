@@ -14,7 +14,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "WWE Survivor Series 2023 delivered a thrilling night of action with two brutal WarGames matches, the shocking return of Randy Orton and CM Punk, and a solid overall performance. A closer look at the fan reactions reveals key insights into the highlights and potential areas for improvement."
-# canonicalURL: "https://bumpxfeed.com/posts/2023/wwe-vengeance-day-2023-the-good-the-bad-and-the-mqi/
+# canonicalURL: "https://bumpxfeed.com/posts/superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: false
