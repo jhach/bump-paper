@@ -13,8 +13,8 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "A FAQ page that explains what the Match Quality Index (MQI) is and how it works, and how it can help you decide which matches to watch and which ones to skip from WWE, AEW, Impact, ROH, and other pro wrestling events."
-# canonicalURL: "https://bumpxfeed.com/posts/superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/"
+description: "A FAQ page that explains what the Match Quality Index (MQI) is and how it works, and how it can help you decide which matches to watch and which ones to skip from WWE, AEW, TNA/Impact, ROH, and other pro wrestling events."
+canonicalURL: "https://bumpxfeed.com/posts/2023/frequently-asked-questions-about-the-match-quality-index-mqi"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: false
