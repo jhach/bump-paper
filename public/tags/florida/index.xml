@@ -2,33 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Florida on bumpXfeed</title>
-    <link>https://bumpxfeed.com/tags/florida/</link>
+    <link>http://localhost:1313/tags/florida/</link>
     <description>Recent content in Florida on bumpXfeed</description>
     <image>
       <title>bumpXfeed</title>
-      <url>https://bumpxfeed.com/images/bf-black.png</url>
-      <link>https://bumpxfeed.com/images/bf-black.png</link>
+      <url>http://localhost:1313/images/bf-black.png</url>
+      <link>http://localhost:1313/images/bf-black.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bumpxfeed.com/tags/florida/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 12:22:49 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/florida/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2015 WWE Performance Center Trainees; Where Are They Now?</title>
-      <link>https://bumpxfeed.com/posts/2015-wwe-performance-center-trainees-where-are-they-now/</link>
+      <link>http://localhost:1313/posts/2015-wwe-performance-center-trainees-where-are-they-now/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bumpxfeed.com/posts/2015-wwe-performance-center-trainees-where-are-they-now/</guid>
+      <guid>http://localhost:1313/posts/2015-wwe-performance-center-trainees-where-are-they-now/</guid>
       <description>A bumpxfeed exclusive: We&amp;#39;ll take a look at the 2015 WWE Performance Center trainees&amp;#39; professional wrestling careers from training to where they are now.</description>
     </item>
-    
     <item>
       <title>The Ultimate Guide to Trying Out for WWE&#39;s Performance Center / Tips to Become a WWE Sports Entertainer</title>
-      <link>https://bumpxfeed.com/posts/2023-04-01-the-ultimate-guide-to-trying-out-for-wwes-performance-center/</link>
+      <link>http://localhost:1313/posts/2023-04-01-the-ultimate-guide-to-trying-out-for-wwes-performance-center/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bumpxfeed.com/posts/2023-04-01-the-ultimate-guide-to-trying-out-for-wwes-performance-center/</guid>
+      <guid>http://localhost:1313/posts/2023-04-01-the-ultimate-guide-to-trying-out-for-wwes-performance-center/</guid>
       <description>So you want to be a pro wrestler / sports entertainer for the biggest wrestling company in the world? They actually made it easy for you to join and train at the world famous PC, aka the WWE Performance Center, located in Orlando, Florida. WWE (World Wrestling Entertainment) is constantly looking for fresh talent and even created a website to make the process easier. Scroll down to learn more!</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,24 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Royal Rumble on bumpXfeed</title>
-    <link>https://bumpxfeed.com/tags/royal-rumble/</link>
+    <link>http://localhost:1313/tags/royal-rumble/</link>
     <description>Recent content in Royal Rumble on bumpXfeed</description>
     <image>
       <title>bumpXfeed</title>
-      <url>https://bumpxfeed.com/images/bf-black.png</url>
-      <link>https://bumpxfeed.com/images/bf-black.png</link>
+      <url>http://localhost:1313/images/bf-black.png</url>
+      <link>http://localhost:1313/images/bf-black.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bumpxfeed.com/tags/royal-rumble/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 20:25:02 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/royal-rumble/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WWE Royal Rumble 2023: The Good, The Bad, and The Ugly</title>
-      <link>https://bumpxfeed.com/posts/2023-01-28-wwe-royal-rumble-2023/</link>
+      <link>http://localhost:1313/posts/2023-01-28-wwe-royal-rumble-2023/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bumpxfeed.com/posts/2023-01-28-wwe-royal-rumble-2023/</guid>
+      <guid>http://localhost:1313/posts/2023-01-28-wwe-royal-rumble-2023/</guid>
       <description>The WWE Royal Rumble 2023 was a night of surprises, shocks, and shenanigans. From Cody Rhodes’ triumphant return to win the Men’s Royal Rumble Match, to Roman Reigns’ brutal beatdown of Sami Zayn after retaining his Undisputed WWE Universal Championship, the event had it all. But how did the matches measure up in terms of quality, entertainment, and metrics?</description>
     </item>
-    
   </channel>
 </rss>

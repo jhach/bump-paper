@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wes Lee on bumpXfeed</title>
+    <link>http://localhost:1313/tags/wes-lee/</link>
+    <description>Recent content in Wes Lee on bumpXfeed</description>
+    <image>
+      <title>bumpXfeed</title>
+      <url>http://localhost:1313/images/bf-black.png</url>
+      <link>http://localhost:1313/images/bf-black.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Feb 2024 23:21:58 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wes-lee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WWE Vengeance Day 2023: The Good, The Bad, and The MQI</title>
+      <link>http://localhost:1313/posts/2023-02-04-wwe-nxt-vengeance-day-2023/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-02-04-wwe-nxt-vengeance-day-2023/</guid>
+      <description>WWE NXT Vengeance Day 2023 was a night of action, drama, and surprises. The event featured six matches, each with its own story and stakes. But which matches were worth watching, and which ones were better off skipped? And how did they rank according to the **Match Quality Index (MQI)**, a metric that combines the match ratings, the match length, and WON rating?</description>
+    </item>
+    <item>
+      <title>WWE Vengeance Day 2023: The Good, The Bad, and The MQI</title>
+      <link>http://localhost:1313/posts/2023/wwe-vengeance-day-2023-the-good-the-bad-and-the-mqi/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023/wwe-vengeance-day-2023-the-good-the-bad-and-the-mqi/</guid>
+      <description>WWE NXT Vengeance Day 2023 was a night of action, drama, and surprises. The event featured six matches, each with its own story and stakes. But which matches were worth watching, and which ones were better off skipped? And how did they rank according to the **Match Quality Index (MQI)**, a metric that combines the match ratings, the match length, and WON rating?</description>
+    </item>
+  </channel>
+</rss>

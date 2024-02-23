@@ -2,69 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pro Wrestling School on bumpXfeed</title>
-    <link>https://bumpxfeed.com/categories/pro-wrestling-school/</link>
+    <link>http://localhost:1313/categories/pro-wrestling-school/</link>
     <description>Recent content in Pro Wrestling School on bumpXfeed</description>
     <image>
       <title>bumpXfeed</title>
-      <url>https://bumpxfeed.com/images/bf-black.png</url>
-      <link>https://bumpxfeed.com/images/bf-black.png</link>
+      <url>http://localhost:1313/images/bf-black.png</url>
+      <link>http://localhost:1313/images/bf-black.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bumpxfeed.com/categories/pro-wrestling-school/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 12:22:49 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/pro-wrestling-school/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to choose the right pro wrestling school for you</title>
-      <link>https://bumpxfeed.com/posts/2023-11-03-how-to-choose-the-right-pro-wrestling-school-for-you/</link>
+      <link>http://localhost:1313/posts/2023-11-03-how-to-choose-the-right-pro-wrestling-school-for-you/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bumpxfeed.com/posts/2023-11-03-how-to-choose-the-right-pro-wrestling-school-for-you/</guid>
+      <guid>http://localhost:1313/posts/2023-11-03-how-to-choose-the-right-pro-wrestling-school-for-you/</guid>
       <description>If you&amp;#39;re serious about becoming a professional wrestler, then choosing the right school is essential. A good school will teach you the fundamentals of the sport, help you develop your skills, and prepare you for the rigors of the wrestling business. But with so many different schools out there, it can be tough to know where to start. That&amp;#39;s why we&amp;#39;ve put together this guide to help you choose the right pro wrestling school for you.</description>
     </item>
-    
     <item>
       <title>2015 WWE Performance Center Trainees; Where Are They Now?</title>
-      <link>https://bumpxfeed.com/posts/2015-wwe-performance-center-trainees-where-are-they-now/</link>
+      <link>http://localhost:1313/posts/2015-wwe-performance-center-trainees-where-are-they-now/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bumpxfeed.com/posts/2015-wwe-performance-center-trainees-where-are-they-now/</guid>
+      <guid>http://localhost:1313/posts/2015-wwe-performance-center-trainees-where-are-they-now/</guid>
       <description>A bumpxfeed exclusive: We&amp;#39;ll take a look at the 2015 WWE Performance Center trainees&amp;#39; professional wrestling careers from training to where they are now.</description>
     </item>
-    
     <item>
       <title>Take Your Wrestling Career to the Next Level at the NYWC Training Academy</title>
-      <link>https://bumpxfeed.com/posts/2023-04-12-take-your-wrestling-career-to-the-next-level-at-the-nywc-training-academy/</link>
+      <link>http://localhost:1313/posts/2023-04-12-take-your-wrestling-career-to-the-next-level-at-the-nywc-training-academy/</link>
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bumpxfeed.com/posts/2023-04-12-take-your-wrestling-career-to-the-next-level-at-the-nywc-training-academy/</guid>
+      <guid>http://localhost:1313/posts/2023-04-12-take-your-wrestling-career-to-the-next-level-at-the-nywc-training-academy/</guid>
       <description>Are you dreaming of becoming a successful professional wrestler? Do you want to learn from experienced trainers who have worked with WWE, ROH, and other top promotions? Look no further than NYWC Training Academy, Long Island&amp;#39;s oldest and most successful wrestling school. With a proven track record of producing dynamic wrestlers who have gone on to work with WWE, AEW, Impact, and NJPW, NYWC offers comprehensive training led by top trainers Mike Mondo and Michael Mistretta. From the basics to advanced techniques, you&amp;#39;ll learn everything you need to know to be successful in the industry. Join the ranks of NYWC graduates like Zack Ryder/Matt Cardona, Curt Hawkins/Brian Myers, Tony Nese, and more. Training is affordable at just $200 per month, with flexible scheduling options available. Don&amp;#39;t wait to take your wrestling career to the next level – enroll in NYWC Training Academy today!</description>
     </item>
-    
     <item>
       <title>Black x Brave Wrestling Academy: Training with Seth Rollins in Davenport, Iowa</title>
-      <link>https://bumpxfeed.com/posts/2023-04-06-blackxbrave/</link>
+      <link>http://localhost:1313/posts/2023-04-06-blackxbrave/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bumpxfeed.com/posts/2023-04-06-blackxbrave/</guid>
+      <guid>http://localhost:1313/posts/2023-04-06-blackxbrave/</guid>
       <description>The Black x Brave Wrestling Academy has been developing talent since 2014. The facility, located in Davenport, Iowa, is equipped with a WWE ring and wide range of gym equipment. Read more about how to train at Seth Rollins&amp;#39; pro wrestling school including the programs they offer and the cost to attend.</description>
     </item>
-    
     <item>
       <title>The World Famous Monster Factory: Developing Talent Since 1983</title>
-      <link>https://bumpxfeed.com/posts/2023-04-02-the-world-famous-monster-factory-developing-talent-since-1983/</link>
+      <link>http://localhost:1313/posts/2023-04-02-the-world-famous-monster-factory-developing-talent-since-1983/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bumpxfeed.com/posts/2023-04-02-the-world-famous-monster-factory-developing-talent-since-1983/</guid>
+      <guid>http://localhost:1313/posts/2023-04-02-the-world-famous-monster-factory-developing-talent-since-1983/</guid>
       <description>The World Famous Monster Factory, located in Paulsboro, New Jersey, has been developing wrestling talent since 1983. The school was founded by &amp;#34;Pretty Boy&amp;#34; Larry Sharpe and &amp;#34;Nature Boy&amp;#34; Buddy Rogers, and in 2011, Danny Cage bought and rebranded the training center. Cage coaches, owns, and operates the school, continuing the tradition of developing some of the best wrestlers in the industry.</description>
     </item>
-    
     <item>
       <title>The Ultimate Guide to Trying Out for WWE&#39;s Performance Center / Tips to Become a WWE Sports Entertainer</title>
-      <link>https://bumpxfeed.com/posts/2023-04-01-the-ultimate-guide-to-trying-out-for-wwes-performance-center/</link>
+      <link>http://localhost:1313/posts/2023-04-01-the-ultimate-guide-to-trying-out-for-wwes-performance-center/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bumpxfeed.com/posts/2023-04-01-the-ultimate-guide-to-trying-out-for-wwes-performance-center/</guid>
+      <guid>http://localhost:1313/posts/2023-04-01-the-ultimate-guide-to-trying-out-for-wwes-performance-center/</guid>
       <description>So you want to be a pro wrestler / sports entertainer for the biggest wrestling company in the world? They actually made it easy for you to join and train at the world famous PC, aka the WWE Performance Center, located in Orlando, Florida. WWE (World Wrestling Entertainment) is constantly looking for fresh talent and even created a website to make the process easier. Scroll down to learn more!</description>
     </item>
-    
   </channel>
 </rss>

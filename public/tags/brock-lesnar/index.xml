@@ -2,24 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Brock Lesnar on bumpXfeed</title>
-    <link>https://bumpxfeed.com/tags/brock-lesnar/</link>
+    <link>http://localhost:1313/tags/brock-lesnar/</link>
     <description>Recent content in Brock Lesnar on bumpXfeed</description>
     <image>
       <title>bumpXfeed</title>
-      <url>https://bumpxfeed.com/images/bf-black.png</url>
-      <link>https://bumpxfeed.com/images/bf-black.png</link>
+      <url>http://localhost:1313/images/bf-black.png</url>
+      <link>http://localhost:1313/images/bf-black.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bumpxfeed.com/tags/brock-lesnar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Nov 2023 12:22:49 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/brock-lesnar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WWE Backlash 2023: The Best and Worst Matches to Watch</title>
+      <link>http://localhost:1313/posts/2023-05-06-wwe-backlash-2023/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-05-06-wwe-backlash-2023/</guid>
+      <description>A blog post that ranks the matches from WWE Backlash 2023 based on a metric called the Match Quality Index (MQI), which combines the match rating &amp;amp; match length provided by Cageematch, and the WON rating, and gives recommendations on which ones to watch and which ones to skip.</description>
+    </item>
     <item>
       <title>Superstars Background Breakdown: WWE Superstars who competed at Backlash 2023 Part 1</title>
-      <link>https://bumpxfeed.com/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</link>
+      <link>http://localhost:1313/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bumpxfeed.com/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</guid>
+      <guid>http://localhost:1313/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</guid>
       <description>Discover the college sports backgrounds of WWE Backlash 2023 superstars! From Bianca Belair&amp;#39;s track and field dominance to Brock Lesnar&amp;#39;s collegiate wrestling championships, these athletes&amp;#39; college experiences shaped their journey to WWE. Part 1 of the Superstars Background Breakdown explores their impressive athletic achievements and showcases the diverse paths that led them to the grand stage of professional wrestling.</description>
     </item>
-    
   </channel>
 </rss>
