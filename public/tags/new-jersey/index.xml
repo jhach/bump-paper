@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>New Jersey on bumpXfeed</title>
-    <link>http://localhost:1313/tags/new-jersey/</link>
+    <link>https://bumpxfeed.com/tags/new-jersey/</link>
     <description>Recent content in New Jersey on bumpXfeed</description>
+    <image>
+      <title>bumpXfeed</title>
+      <url>https://bumpxfeed.com/images/bf-black.png</url>
+      <link>https://bumpxfeed.com/images/bf-black.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Nov 2023 12:22:49 +1100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/new-jersey/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bumpxfeed.com/tags/new-jersey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The World Famous Monster Factory: Developing Talent Since 1983</title>
-      <link>http://localhost:1313/posts/2023-04-02-the-world-famous-monster-factory-developing-talent-since-1983/</link>
+      <link>https://bumpxfeed.com/posts/2023-04-02-the-world-famous-monster-factory-developing-talent-since-1983/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-04-02-the-world-famous-monster-factory-developing-talent-since-1983/</guid>
-      <description>The World Famous Monster Factory is a premier wrestling training center located in Paulsboro, New Jersey. With a history dating back to 1983, the Monster Factory has trained some of the biggest names in professional wrestling, including Bam Bam Bigelow, The Big Show, and Sheamus. Today, the Monster Factory continues to provide top-quality training to aspiring wrestlers of all ages and experience levels, with programs designed to teach the basics of wrestling, as well as advanced moves, techniques, and storytelling skills.</description>
+      <guid>https://bumpxfeed.com/posts/2023-04-02-the-world-famous-monster-factory-developing-talent-since-1983/</guid>
+      <description>The World Famous Monster Factory, located in Paulsboro, New Jersey, has been developing wrestling talent since 1983. The school was founded by &amp;#34;Pretty Boy&amp;#34; Larry Sharpe and &amp;#34;Nature Boy&amp;#34; Buddy Rogers, and in 2011, Danny Cage bought and rebranded the training center. Cage coaches, owns, and operates the school, continuing the tradition of developing some of the best wrestlers in the industry.</description>
     </item>
   </channel>
 </rss>
