@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monster Factory on bumpXfeed</title>
-    <link>http://localhost:1313/tags/monster-factory/</link>
+    <link>https://bumpxfeed.com/tags/monster-factory/</link>
     <description>Recent content in Monster Factory on bumpXfeed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Nov 2023 12:22:49 +1100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/monster-factory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bumpxfeed.com/tags/monster-factory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The World Famous Monster Factory: Developing Talent Since 1983</title>
-      <link>http://localhost:1313/posts/2023-04-02-the-world-famous-monster-factory-developing-talent-since-1983/</link>
+      <link>https://bumpxfeed.com/posts/2023-04-02-the-world-famous-monster-factory-developing-talent-since-1983/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-04-02-the-world-famous-monster-factory-developing-talent-since-1983/</guid>
+      <guid>https://bumpxfeed.com/posts/2023-04-02-the-world-famous-monster-factory-developing-talent-since-1983/</guid>
       <description>The World Famous Monster Factory is a premier wrestling training center located in Paulsboro, New Jersey. With a history dating back to 1983, the Monster Factory has trained some of the biggest names in professional wrestling, including Bam Bam Bigelow, The Big Show, and Sheamus. Today, the Monster Factory continues to provide top-quality training to aspiring wrestlers of all ages and experience levels, with programs designed to teach the basics of wrestling, as well as advanced moves, techniques, and storytelling skills.</description>
     </item>
   </channel>

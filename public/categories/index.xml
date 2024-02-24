@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on bumpXfeed</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://bumpxfeed.com/categories/</link>
     <description>Recent content in Categories on bumpXfeed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Feb 2024 23:21:58 +1100</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bumpxfeed.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WWE Watch Guide</title>
-      <link>http://localhost:1313/categories/wwe-watch-guide/</link>
+      <link>https://bumpxfeed.com/categories/wwe-watch-guide/</link>
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/wwe-watch-guide/</guid>
+      <guid>https://bumpxfeed.com/categories/wwe-watch-guide/</guid>
       <description></description>
     </item>
     <item>
       <title>Pro Wrestling School</title>
-      <link>http://localhost:1313/categories/pro-wrestling-school/</link>
+      <link>https://bumpxfeed.com/categories/pro-wrestling-school/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/pro-wrestling-school/</guid>
+      <guid>https://bumpxfeed.com/categories/pro-wrestling-school/</guid>
       <description></description>
     </item>
     <item>
       <title>Superstars Background Breakdown</title>
-      <link>http://localhost:1313/categories/superstars-background-breakdown/</link>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/superstars-background-breakdown/</guid>
+      <link>https://bumpxfeed.com/categories/superstars-background-breakdown/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://bumpxfeed.com/categories/superstars-background-breakdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Superstar Spotlight</title>
-      <link>http://localhost:1313/categories/superstar-spotlight/</link>
+      <link>https://bumpxfeed.com/categories/superstar-spotlight/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/superstar-spotlight/</guid>
+      <guid>https://bumpxfeed.com/categories/superstar-spotlight/</guid>
       <description></description>
     </item>
   </channel>

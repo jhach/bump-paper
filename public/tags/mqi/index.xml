@@ -2,66 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MQI on bumpXfeed</title>
-    <link>http://localhost:1313/tags/mqi/</link>
+    <link>https://bumpxfeed.com/tags/mqi/</link>
     <description>Recent content in MQI on bumpXfeed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Feb 2024 23:21:58 +1100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mqi/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>WWE Vengeance Day 2023: The Good, The Bad, and The MQI</title>
-      <link>http://localhost:1313/posts/2023-02-04-wwe-nxt-vengeance-day-2023/</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-02-04-wwe-nxt-vengeance-day-2023/</guid>
-      <description>The Good WWE NXT North American Title Match: Wes Lee (c) vs. Dijak MQI Score: 8.464&#xA;This was the match of the night, hands down. Wes Lee and Dijak put on a clinic of athleticism, power, and agility. The two men traded high-flying moves, hard-hitting strikes, and near-falls that kept the fans on the edge of their seats. Lee retained his title after hitting a 450 splash from the top rope, but Dijak earned his respect and the crowd&amp;rsquo;s admiration.</description>
-    </item>
-    <item>
-      <title>WWE Vengeance Day 2023: The Good, The Bad, and The MQI</title>
-      <link>http://localhost:1313/posts/2023/wwe-vengeance-day-2023-the-good-the-bad-and-the-mqi/</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023/wwe-vengeance-day-2023-the-good-the-bad-and-the-mqi/</guid>
-      <description>The Good WWE NXT North American Title Match: Wes Lee (c) vs. Dijak MQI Score: 8.464&#xA;This was the match of the night, hands down. Wes Lee and Dijak put on a clinic of athleticism, power, and agility. The two men traded high-flying moves, hard-hitting strikes, and near-falls that kept the fans on the edge of their seats. Lee retained his title after hitting a 450 splash from the top rope, but Dijak earned his respect and the crowd&amp;rsquo;s admiration.</description>
-    </item>
+    <atom:link href="https://bumpxfeed.com/tags/mqi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WWE Royal Rumble 2023: The Good, The Bad, and The Ugly</title>
-      <link>http://localhost:1313/posts/2023-01-28-wwe-royal-rumble-2023/</link>
+      <link>https://bumpxfeed.com/posts/2023-01-28-wwe-royal-rumble-2023/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-01-28-wwe-royal-rumble-2023/</guid>
+      <guid>https://bumpxfeed.com/posts/2023-01-28-wwe-royal-rumble-2023/</guid>
       <description>Yes, you read that right. Metrics. We&amp;rsquo;re not talking about the usual counting of pins, submissions, or eliminations. We&amp;rsquo;re talking about the Match Quality Index (MQI), a data-driven metric that evaluates the quality of professional wrestling matches. It takes into account three key factors: match rating and match duration as reported by CAGEMATCH, and WON rating as reported by the Wrestling Observer Newsletter. The MQI is calculated using the following formula:</description>
     </item>
     <item>
-      <title>WWE Backlash 2023: The Best and Worst Matches to Watch</title>
-      <link>http://localhost:1313/posts/2023-05-06-wwe-backlash-2023/</link>
-      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-05-06-wwe-backlash-2023/</guid>
-      <description>In the world of professional wrestling, where athleticism, storytelling, and raw emotion intertwine, determining the true quality of a match can be a subjective endeavor. However, with the introduction of the Match Quality Index (MQI), a data-driven approach has emerged to shed light on the intricate factors that contribute to an exceptional wrestling bout.&#xA;The MQI takes into account three key metrics: match rating, match duration, and WON rating. Match rating reflects the overall sentiment of fans, while match duration highlights the intensity and endurance displayed by the wrestlers.</description>
-    </item>
-    <item>
       <title>Frequently Asked Questions about the Match Quality Index (MQI)</title>
-      <link>http://localhost:1313/posts/2023-11-10-faq/</link>
+      <link>https://bumpxfeed.com/posts/2023-11-10-faq/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-11-10-faq/</guid>
+      <guid>https://bumpxfeed.com/posts/2023-11-10-faq/</guid>
       <description>Frequently Asked Questions about the Match Quality Index (MQI)&#xA;What is the MQI? The Match Quality Index (MQI) is a data-driven metric that evaluates the quality of professional wrestling matches. It takes into account three key factors: match rating and match duration as reported by CAGEMATCH, and WON rating.&#xA;The WON rating is a subjective measure of the quality of the match, based on the ratings from the Wrestling Observer Newsletter, a newsletter that covers professional wrestling and mixed martial arts.</description>
     </item>
     <item>
       <title>Frequently Asked Questions about the Match Quality Index (MQI)</title>
-      <link>http://localhost:1313/posts/2023/frequently-asked-questions-about-the-match-quality-index-mqi/</link>
+      <link>https://bumpxfeed.com/posts/2023/frequently-asked-questions-about-the-match-quality-index-mqi/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023/frequently-asked-questions-about-the-match-quality-index-mqi/</guid>
+      <guid>https://bumpxfeed.com/posts/2023/frequently-asked-questions-about-the-match-quality-index-mqi/</guid>
       <description>Frequently Asked Questions about the Match Quality Index (MQI)&#xA;What is the MQI? The Match Quality Index (MQI) is a data-driven metric that evaluates the quality of professional wrestling matches. It takes into account three key factors: match rating and match duration as reported by CAGEMATCH, and WON rating.&#xA;The WON rating is a subjective measure of the quality of the match, based on the ratings from the Wrestling Observer Newsletter, a newsletter that covers professional wrestling and mixed martial arts.</description>
     </item>
     <item>
       <title>WWE Crown Jewel 2023: A Comprehensive Review of All the Matches</title>
-      <link>http://localhost:1313/posts/2023-11-04-wwe-crown-jewel-2023/</link>
+      <link>https://bumpxfeed.com/posts/2023-11-04-wwe-crown-jewel-2023/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-11-04-wwe-crown-jewel-2023/</guid>
+      <guid>https://bumpxfeed.com/posts/2023-11-04-wwe-crown-jewel-2023/</guid>
       <description>WWE Crown Jewel 2023 was a historic event that featured some of the best and worst matches of the year, as well as some controversial outcomes. Here are the match ratings, highlights and analysis of all the matches of the event, based on the Match Quality Index (MQI), which combines the match duration, the fan rating and the Wrestling Observer Newsletter (WON) rating.&#xA;Best Match: Seth Rollins vs. Drew McIntyre - MQI: 8.</description>
     </item>
     <item>
       <title>WWE Crown Jewel 2023: A Comprehensive Review of All the Matches</title>
-      <link>http://localhost:1313/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches/</link>
+      <link>https://bumpxfeed.com/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches/</guid>
+      <guid>https://bumpxfeed.com/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches/</guid>
       <description>WWE Crown Jewel 2023 was a historic event that featured some of the best and worst matches of the year, as well as some controversial outcomes. Here are the match ratings, highlights and analysis of all the matches of the event, based on the Match Quality Index (MQI), which combines the match duration, the fan rating and the Wrestling Observer Newsletter (WON) rating.&#xA;Best Match: Seth Rollins vs. Drew McIntyre - MQI: 8.</description>
     </item>
   </channel>
