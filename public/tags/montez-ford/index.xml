@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Montez Ford on bumpXfeed</title>
-    <link>https://bumpxfeed.com/tags/montez-ford/</link>
+    <link>http://localhost:1313/tags/montez-ford/</link>
     <description>Recent content in Montez Ford on bumpXfeed</description>
-    <image>
-      <title>bumpXfeed</title>
-      <url>https://bumpxfeed.com/images/bf-black.png</url>
-      <link>https://bumpxfeed.com/images/bf-black.png</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Oct 2023 12:28:02 +1100</lastBuildDate>
-    <atom:link href="https://bumpxfeed.com/tags/montez-ford/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/montez-ford/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2015 WWE Performance Center Trainees; Where Are They Now?</title>
-      <link>https://bumpxfeed.com/posts/2015-wwe-performance-center-trainees-where-are-they-now/</link>
+      <link>http://localhost:1313/posts/2015-wwe-performance-center-trainees-where-are-they-now/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/posts/2015-wwe-performance-center-trainees-where-are-they-now/</guid>
-      <description>A bumpxfeed exclusive: We&amp;#39;ll take a look at the 2015 WWE Performance Center trainees&amp;#39; professional wrestling careers from training to where they are now.</description>
+      <guid>http://localhost:1313/posts/2015-wwe-performance-center-trainees-where-are-they-now/</guid>
+      <description>The WWE was actively recruiting, globally, for the April 2015 Performance Center class. Some made it to the main WWE roster and are still active, some achieved main roster superstardom and succeeded outside of WWE, while others didn&amp;rsquo;t make it beyond NXT. Let&amp;rsquo;s break down the WWE Performance Center class of 2015 and see what they are up to today (2023).&#xA;🇦🇺 Australia Cassie McIntosh aka Peyton Royce aka Cassie Lee (Born in Sydney, resided in Melbourne, Australia) Cassie McIntosh got her pro wrestling training with Pro Wrestling Australia in 2009 and also trained with Lance Storm at his now defunct academy, in 2012.</description>
     </item>
   </channel>
 </rss>

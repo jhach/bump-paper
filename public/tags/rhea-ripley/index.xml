@@ -1,45 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rhea Ripley on bumpXfeed</title>
-    <link>https://bumpxfeed.com/tags/rhea-ripley/</link>
+    <link>http://localhost:1313/tags/rhea-ripley/</link>
     <description>Recent content in Rhea Ripley on bumpXfeed</description>
-    <image>
-      <title>bumpXfeed</title>
-      <url>https://bumpxfeed.com/images/bf-black.png</url>
-      <link>https://bumpxfeed.com/images/bf-black.png</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Feb 2024 23:21:58 +1100</lastBuildDate>
-    <atom:link href="https://bumpxfeed.com/tags/rhea-ripley/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/rhea-ripley/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WWE Royal Rumble 2023: The Good, The Bad, and The Ugly</title>
-      <link>https://bumpxfeed.com/posts/2023-01-28-wwe-royal-rumble-2023/</link>
+      <link>http://localhost:1313/posts/2023-01-28-wwe-royal-rumble-2023/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/posts/2023-01-28-wwe-royal-rumble-2023/</guid>
-      <description>The WWE Royal Rumble 2023 was a night of surprises, shocks, and shenanigans. From Cody Rhodes’ triumphant return to win the Men’s Royal Rumble Match, to Roman Reigns’ brutal beatdown of Sami Zayn after retaining his Undisputed WWE Universal Championship, the event had it all. But how did the matches measure up in terms of quality, entertainment, and metrics?</description>
+      <guid>http://localhost:1313/posts/2023-01-28-wwe-royal-rumble-2023/</guid>
+      <description>Yes, you read that right. Metrics. We&amp;rsquo;re not talking about the usual counting of pins, submissions, or eliminations. We&amp;rsquo;re talking about the Match Quality Index (MQI), a data-driven metric that evaluates the quality of professional wrestling matches. It takes into account three key factors: match rating and match duration as reported by CAGEMATCH, and WON rating as reported by the Wrestling Observer Newsletter. The MQI is calculated using the following formula:</description>
+    </item>
+    <item>
+      <title>WWE Backlash 2023: The Best and Worst Matches to Watch</title>
+      <link>http://localhost:1313/posts/2023-05-06-wwe-backlash-2023/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-05-06-wwe-backlash-2023/</guid>
+      <description>In the world of professional wrestling, where athleticism, storytelling, and raw emotion intertwine, determining the true quality of a match can be a subjective endeavor. However, with the introduction of the Match Quality Index (MQI), a data-driven approach has emerged to shed light on the intricate factors that contribute to an exceptional wrestling bout.&#xA;The MQI takes into account three key metrics: match rating, match duration, and WON rating. Match rating reflects the overall sentiment of fans, while match duration highlights the intensity and endurance displayed by the wrestlers.</description>
     </item>
     <item>
       <title>WWE Crown Jewel 2023: A Comprehensive Review of All the Matches</title>
-      <link>https://bumpxfeed.com/posts/2023-11-04-wwe-crown-jewel-2023/</link>
+      <link>http://localhost:1313/posts/2023-11-04-wwe-crown-jewel-2023/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/posts/2023-11-04-wwe-crown-jewel-2023/</guid>
-      <description>WWE Crown Jewel 2023 was a spectacular event that featured some of the best matches of the year. However, not all matches were created equal, and some of them were not worth your time. In this blog post, we will use a metric called the Match Quality Index (MQI) to rank the matches from best to worst, and give you our recommendations on which ones to watch and which ones to skip.</description>
+      <guid>http://localhost:1313/posts/2023-11-04-wwe-crown-jewel-2023/</guid>
+      <description>WWE Crown Jewel 2023 was a historic event that featured some of the best and worst matches of the year, as well as some controversial outcomes. Here are the match ratings, highlights and analysis of all the matches of the event, based on the Match Quality Index (MQI), which combines the match duration, the fan rating and the Wrestling Observer Newsletter (WON) rating.&#xA;Best Match: Seth Rollins vs. Drew McIntyre - MQI: 8.</description>
     </item>
     <item>
       <title>WWE Crown Jewel 2023: A Comprehensive Review of All the Matches</title>
-      <link>https://bumpxfeed.com/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches/</link>
+      <link>http://localhost:1313/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches/</guid>
-      <description>WWE Crown Jewel 2023 was a spectacular event that featured some of the best matches of the year. However, not all matches were created equal, and some of them were not worth your time. In this blog post, we will use a metric called the Match Quality Index (MQI) to rank the matches from best to worst, and give you our recommendations on which ones to watch and which ones to skip.</description>
+      <guid>http://localhost:1313/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches/</guid>
+      <description>WWE Crown Jewel 2023 was a historic event that featured some of the best and worst matches of the year, as well as some controversial outcomes. Here are the match ratings, highlights and analysis of all the matches of the event, based on the Match Quality Index (MQI), which combines the match duration, the fan rating and the Wrestling Observer Newsletter (WON) rating.&#xA;Best Match: Seth Rollins vs. Drew McIntyre - MQI: 8.</description>
+    </item>
+    <item>
+      <title>Superstars Background Breakdown: WWE Superstars who competed at Backlash 2023 Part 2</title>
+      <link>http://localhost:1313/posts/2023-06-30-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-2/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-06-30-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-2/</guid>
+      <description>In part 1 of Superstars Background Breakdown: WWE Superstars who competed at Backlash 2023, we took a look at the WWE superstars who had collegiate athletic backgrounds before joining World Wrestling Entertainment. In part 2, we&amp;rsquo;ll showcase the superstars who started their careers on the independents before becoming superstars in the WWE.&#xA;There were a total of 19 professional wrestlers that performed on the WWE premium live event that had different backgrounds before joining the main roster.</description>
     </item>
     <item>
       <title>Superstars Background Breakdown: WWE Superstars who competed at Backlash 2023 Part 1</title>
-      <link>https://bumpxfeed.com/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</link>
+      <link>http://localhost:1313/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</guid>
-      <description>Discover the college sports backgrounds of WWE Backlash 2023 superstars! From Bianca Belair&amp;#39;s track and field dominance to Brock Lesnar&amp;#39;s collegiate wrestling championships, these athletes&amp;#39; college experiences shaped their journey to WWE. Part 1 of the Superstars Background Breakdown explores their impressive athletic achievements and showcases the diverse paths that led them to the grand stage of professional wrestling.</description>
+      <guid>http://localhost:1313/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</guid>
+      <description>The 2023 Backlash, held in Puerto Rico, was an action-packed WWE event featuring Bad Bunny in a thrilling San Juan Street Fight. Cody Rhodes emerged victorious in the final match, while other standout moments included The Bloodline&amp;rsquo;s triumph and Bianca Belair&amp;rsquo;s record-breaking title defense. Fans and critics alike praised the event, highlighting the memorable San Juan Street Fight and the Raw Women&amp;rsquo;s Championship match. #WWE #Backlash2023&#xA;WWE Backlash 2023 Results</description>
     </item>
   </channel>
 </rss>

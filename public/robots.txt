@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://bumpxfeed.com/sitemap.xml
