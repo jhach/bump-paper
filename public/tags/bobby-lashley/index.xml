@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bobby Lashley on bumpXfeed</title>
-    <link>https://bumpxfeed.com/tags/bobby-lashley/</link>
+    <link>http://localhost:1313/tags/bobby-lashley/</link>
     <description>Recent content in Bobby Lashley on bumpXfeed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Nov 2023 12:22:49 +1100</lastBuildDate>
-    <atom:link href="https://bumpxfeed.com/tags/bobby-lashley/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bobby-lashley/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WWE Backlash 2023: The Best and Worst Matches to Watch</title>
+      <link>http://localhost:1313/posts/2023-05-06-wwe-backlash-2023/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-05-06-wwe-backlash-2023/</guid>
+      <description>In the world of professional wrestling, where athleticism, storytelling, and raw emotion intertwine, determining the true quality of a match can be a subjective endeavor. However, with the introduction of the Match Quality Index (MQI), a data-driven approach has emerged to shed light on the intricate factors that contribute to an exceptional wrestling bout.&#xA;The MQI takes into account three key metrics: match rating, match duration, and WON rating. Match rating reflects the overall sentiment of fans, while match duration highlights the intensity and endurance displayed by the wrestlers.</description>
+    </item>
     <item>
       <title>Superstars Background Breakdown: WWE Superstars who competed at Backlash 2023 Part 1</title>
-      <link>https://bumpxfeed.com/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</link>
+      <link>http://localhost:1313/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</guid>
+      <guid>http://localhost:1313/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</guid>
       <description>The 2023 Backlash, held in Puerto Rico, was an action-packed WWE event featuring Bad Bunny in a thrilling San Juan Street Fight. Cody Rhodes emerged victorious in the final match, while other standout moments included The Bloodline&amp;rsquo;s triumph and Bianca Belair&amp;rsquo;s record-breaking title defense. Fans and critics alike praised the event, highlighting the memorable San Juan Street Fight and the Raw Women&amp;rsquo;s Championship match. #WWE #Backlash2023&#xA;WWE Backlash 2023 Results</description>
     </item>
   </channel>

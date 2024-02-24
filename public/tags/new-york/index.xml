@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New York on bumpXfeed</title>
-    <link>https://bumpxfeed.com/tags/new-york/</link>
+    <link>http://localhost:1313/tags/new-york/</link>
     <description>Recent content in New York on bumpXfeed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Nov 2023 12:22:49 +1100</lastBuildDate>
-    <atom:link href="https://bumpxfeed.com/tags/new-york/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/new-york/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Take Your Wrestling Career to the Next Level at the NYWC Training Academy</title>
-      <link>https://bumpxfeed.com/posts/2023-04-12-take-your-wrestling-career-to-the-next-level-at-the-nywc-training-academy/</link>
+      <link>http://localhost:1313/posts/2023-04-12-take-your-wrestling-career-to-the-next-level-at-the-nywc-training-academy/</link>
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/posts/2023-04-12-take-your-wrestling-career-to-the-next-level-at-the-nywc-training-academy/</guid>
+      <guid>http://localhost:1313/posts/2023-04-12-take-your-wrestling-career-to-the-next-level-at-the-nywc-training-academy/</guid>
       <description>Are you looking for information on the NYWC Training Academy? Located in Deer Park, New York, the academy provides training for aspiring pro wrestlers. If you&amp;rsquo;re interested in joining, here are the details you need to know:&#xA;Location and Transportation The academy is located at 435-13 Brook Ave, Deer Park, NY 11729. It is accessible by public transportation from major cities such as New York, Long Island City, Babylon, Huntington, and Bay Shore.</description>
     </item>
   </channel>

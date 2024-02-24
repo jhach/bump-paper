@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Basketball on bumpXfeed</title>
-    <link>https://bumpxfeed.com/tags/basketball/</link>
+    <link>http://localhost:1313/tags/basketball/</link>
     <description>Recent content in Basketball on bumpXfeed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Nov 2023 12:22:49 +1100</lastBuildDate>
-    <atom:link href="https://bumpxfeed.com/tags/basketball/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/basketball/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Superstars Background Breakdown: WWE Superstars who competed at Backlash 2023 Part 1</title>
-      <link>https://bumpxfeed.com/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</link>
+      <link>http://localhost:1313/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</guid>
+      <guid>http://localhost:1313/posts/2023-05-26-superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/</guid>
       <description>The 2023 Backlash, held in Puerto Rico, was an action-packed WWE event featuring Bad Bunny in a thrilling San Juan Street Fight. Cody Rhodes emerged victorious in the final match, while other standout moments included The Bloodline&amp;rsquo;s triumph and Bianca Belair&amp;rsquo;s record-breaking title defense. Fans and critics alike praised the event, highlighting the memorable San Juan Street Fight and the Raw Women&amp;rsquo;s Championship match. #WWE #Backlash2023&#xA;WWE Backlash 2023 Results</description>
     </item>
   </channel>

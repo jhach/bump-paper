@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bodybuilding on bumpXfeed</title>
-    <link>https://bumpxfeed.com/tags/bodybuilding/</link>
+    <link>http://localhost:1313/tags/bodybuilding/</link>
     <description>Recent content in Bodybuilding on bumpXfeed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Nov 2023 12:22:49 +1100</lastBuildDate>
-    <atom:link href="https://bumpxfeed.com/tags/bodybuilding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bodybuilding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pro Wrestling Training to Main Roster: Austin Theory from the WWE</title>
-      <link>https://bumpxfeed.com/posts/2023-04-10-pro-wrestling-training-to-main-roster-austin-theory-from-the-wwe/</link>
+      <link>http://localhost:1313/posts/2023-04-10-pro-wrestling-training-to-main-roster-austin-theory-from-the-wwe/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/posts/2023-04-10-pro-wrestling-training-to-main-roster-austin-theory-from-the-wwe/</guid>
+      <guid>http://localhost:1313/posts/2023-04-10-pro-wrestling-training-to-main-roster-austin-theory-from-the-wwe/</guid>
       <description>Attention wrestling fans! If you&amp;rsquo;re a fan of professional wrestling, then you&amp;rsquo;ve probably heard of Austin Theory. He&amp;rsquo;s one of the newest and most promising faces in the industry. In this blog post, we&amp;rsquo;ll take a look at his athletic background, his journey to becoming a WWE superstar, and his rise to becoming the United States Champion.&#xA;Austin Theory&amp;rsquo;s Athletic Background Before Austin Theory became a professional wrestler, he was involved in bodybuilding.</description>
     </item>
   </channel>
