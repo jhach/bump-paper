@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Length on bumpXfeed</title>
-    <link>http://localhost:1313/tags/length/</link>
+    <link>https://bumpxfeed.com/tags/length/</link>
     <description>Recent content in Length on bumpXfeed</description>
     <image>
       <title>bumpXfeed</title>
-      <url>http://localhost:1313/images/bf-black.png</url>
-      <link>http://localhost:1313/images/bf-black.png</link>
+      <url>https://bumpxfeed.com/images/bf-black.png</url>
+      <link>https://bumpxfeed.com/images/bf-black.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Feb 2024 23:21:58 +1100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/length/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bumpxfeed.com/tags/length/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WWE Survivor Series 2023: WarGames Steal the Show, Orton &amp; Punk Return, Fans React!</title>
-      <link>http://localhost:1313/posts/2023-11-25-wwe-survivor-series-2023/</link>
+      <link>https://bumpxfeed.com/posts/2023-11-25-wwe-survivor-series-2023/</link>
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-11-25-wwe-survivor-series-2023/</guid>
+      <guid>https://bumpxfeed.com/posts/2023-11-25-wwe-survivor-series-2023/</guid>
       <description>WWE Survivor Series 2023 delivered a thrilling night of action with two brutal WarGames matches, the shocking return of Randy Orton and CM Punk, and a solid overall performance. A closer look at the fan reactions reveals key insights into the highlights and potential areas for improvement.</description>
     </item>
     <item>
       <title>WWE Royal Rumble 2023: The Good, The Bad, and The Ugly</title>
-      <link>http://localhost:1313/posts/2023-01-28-wwe-royal-rumble-2023/</link>
+      <link>https://bumpxfeed.com/posts/2023-01-28-wwe-royal-rumble-2023/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-01-28-wwe-royal-rumble-2023/</guid>
+      <guid>https://bumpxfeed.com/posts/2023-01-28-wwe-royal-rumble-2023/</guid>
       <description>The WWE Royal Rumble 2023 was a night of surprises, shocks, and shenanigans. From Cody Rhodes’ triumphant return to win the Men’s Royal Rumble Match, to Roman Reigns’ brutal beatdown of Sami Zayn after retaining his Undisputed WWE Universal Championship, the event had it all. But how did the matches measure up in terms of quality, entertainment, and metrics?</description>
     </item>
     <item>
       <title>WWE Crown Jewel 2023: A Comprehensive Review of All the Matches</title>
-      <link>http://localhost:1313/posts/2023-11-04-wwe-crown-jewel-2023/</link>
+      <link>https://bumpxfeed.com/posts/2023-11-04-wwe-crown-jewel-2023/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-11-04-wwe-crown-jewel-2023/</guid>
+      <guid>https://bumpxfeed.com/posts/2023-11-04-wwe-crown-jewel-2023/</guid>
       <description>WWE Crown Jewel 2023 was a spectacular event that featured some of the best matches of the year. However, not all matches were created equal, and some of them were not worth your time. In this blog post, we will use a metric called the Match Quality Index (MQI) to rank the matches from best to worst, and give you our recommendations on which ones to watch and which ones to skip.</description>
     </item>
     <item>
       <title>WWE Crown Jewel 2023: A Comprehensive Review of All the Matches</title>
-      <link>http://localhost:1313/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches/</link>
+      <link>https://bumpxfeed.com/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches/</guid>
+      <guid>https://bumpxfeed.com/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches/</guid>
       <description>WWE Crown Jewel 2023 was a spectacular event that featured some of the best matches of the year. However, not all matches were created equal, and some of them were not worth your time. In this blog post, we will use a metric called the Match Quality Index (MQI) to rank the matches from best to worst, and give you our recommendations on which ones to watch and which ones to skip.</description>
     </item>
   </channel>
