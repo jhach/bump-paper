@@ -1,5 +1,5 @@
 ---
-title: "WWE Vengeance Day 2023: The Good, The Bad, and The MQI"
+title: "WWE NXT Vengeance Day 2023: The Good, The Bad, and The MQI"
 date: 2023-11-23
 lastmod:
 # weight: 1
@@ -14,7 +14,7 @@ draft: true
 hidemeta: false
 comments: false
 description: "WWE NXT Vengeance Day 2023 was a night of action, drama, and surprises. The event featured six matches, each with its own story and stakes. But which matches were worth watching, and which ones were better off skipped? And how did they rank according to the **Match Quality Index (MQI)**, a metric that combines the match ratings, the match length, and WON rating?"
-# canonicalURL: "https://bumpxfeed.com/posts/superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/"
+#canonicalURL: "https://bumpxfeed.com/posts/2023/wwe-nxt-vengeance-day-2023-the-good-the-bad-and-the-mqi/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: false

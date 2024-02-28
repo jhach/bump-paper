@@ -14,7 +14,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "WWE Crown Jewel 2023 was a spectacular event that featured some of the best matches of the year. However, not all matches were created equal, and some of them were not worth your time. In this blog post, we will use a metric called the Match Quality Index (MQI) to rank the matches from best to worst, and give you our recommendations on which ones to watch and which ones to skip."
-canonicalURL: "https://bumpxfeed.com/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches"
+#canonicalURL: "https://bumpxfeed.com/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: false
