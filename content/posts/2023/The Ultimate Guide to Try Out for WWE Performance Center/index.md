@@ -1,5 +1,5 @@
 ---
-title: "The Ultimate Guide to Trying Out for WWE's Performance Center / Tips to Become a WWE Sports Entertainer"
+title: "The Ultimate Guide to Trying Out for WWE's Performance Center"
 date: 2023-04-01
 lastmod:
 # weight: 1
