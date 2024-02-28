@@ -14,7 +14,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Discover the college sports backgrounds of WWE Backlash 2023 superstars! From Bianca Belair's track and field dominance to Brock Lesnar's collegiate wrestling championships, these athletes' college experiences shaped their journey to WWE. Part 1 of the Superstars Background Breakdown explores their impressive athletic achievements and showcases the diverse paths that led them to the grand stage of professional wrestling."
-canonicalURL: "https://bumpxfeed.com/posts/superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/"
+# canonicalURL: "https://bumpxfeed.com/posts/superstars-background-breakdown-wwe-superstars-who-competed-at-backlash-2023-part-1/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: false

@@ -10,7 +10,7 @@ author: "AI Styles"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "A blog post that ranks the matches from WWE Backlash 2023 based on a metric called the Match Quality Index (MQI), which combines the match rating & match length provided by Cageematch, and the WON rating, and gives recommendations on which ones to watch and which ones to skip."
