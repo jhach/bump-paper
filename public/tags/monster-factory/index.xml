@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Monster Factory on bumpXfeed</title>
-    <link>https://bumpxfeed.com/tags/monster-factory/</link>
+    <link>http://localhost:1313/tags/monster-factory/</link>
     <description>Recent content in Monster Factory on bumpXfeed</description>
     <image>
       <title>bumpXfeed</title>
-      <url>https://bumpxfeed.com/images/bf-black.png</url>
-      <link>https://bumpxfeed.com/images/bf-black.png</link>
+      <url>http://localhost:1313/images/bf-black.png</url>
+      <link>http://localhost:1313/images/bf-black.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Nov 2023 12:22:49 +1100</lastBuildDate>
-    <atom:link href="https://bumpxfeed.com/tags/monster-factory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/monster-factory/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The World Famous Monster Factory: Developing Talent Since 1983</title>
-      <link>https://bumpxfeed.com/posts/2023-04-02-the-world-famous-monster-factory-developing-talent-since-1983/</link>
+      <title>The World Famous Monster Factory: Developing Pro Wrestling Talent Since 1983</title>
+      <link>http://localhost:1313/posts/2023/the-world-famous-monster-factory-developing-pro-wrestling-talent-since-1983/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/posts/2023-04-02-the-world-famous-monster-factory-developing-talent-since-1983/</guid>
+      <guid>http://localhost:1313/posts/2023/the-world-famous-monster-factory-developing-pro-wrestling-talent-since-1983/</guid>
       <description>The World Famous Monster Factory, located in Paulsboro, New Jersey, has been developing wrestling talent since 1983. The school was founded by &amp;#34;Pretty Boy&amp;#34; Larry Sharpe and &amp;#34;Nature Boy&amp;#34; Buddy Rogers, and in 2011, Danny Cage bought and rebranded the training center. Cage coaches, owns, and operates the school, continuing the tradition of developing some of the best wrestlers in the industry.</description>
     </item>
   </channel>
