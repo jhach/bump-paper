@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Billie Kay on bumpXfeed</title>
-    <link>http://localhost:1313/tags/billie-kay/</link>
+    <link>https://bumpxfeed.com/tags/billie-kay/</link>
     <description>Recent content in Billie Kay on bumpXfeed</description>
     <image>
       <title>bumpXfeed</title>
-      <url>http://localhost:1313/images/bf-black.png</url>
-      <link>http://localhost:1313/images/bf-black.png</link>
+      <url>https://bumpxfeed.com/images/bf-black.png</url>
+      <link>https://bumpxfeed.com/images/bf-black.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/billie-kay/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Feb 2024 22:17:34 +1100</lastBuildDate>
+    <atom:link href="https://bumpxfeed.com/tags/billie-kay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2015 WWE Performance Center Trainees; Where Are They Now?</title>
-      <link>http://localhost:1313/posts/2023/2015-wwe-performance-center-trainees-where-are-they-now/</link>
+      <link>https://bumpxfeed.com/posts/2023/2015-wwe-performance-center-trainees-where-are-they-now/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023/2015-wwe-performance-center-trainees-where-are-they-now/</guid>
+      <guid>https://bumpxfeed.com/posts/2023/2015-wwe-performance-center-trainees-where-are-they-now/</guid>
       <description>A bumpxfeed exclusive: We&amp;#39;ll take a look at the 2015 WWE Performance Center trainees&amp;#39; professional wrestling careers from training to where they are now.</description>
     </item>
   </channel>
