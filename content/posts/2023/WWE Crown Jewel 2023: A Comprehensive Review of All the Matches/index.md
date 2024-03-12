@@ -4,7 +4,7 @@ date: 2023-11-10
 lastmod:
 # weight: 1
 # aliases: ["/first"]
-tags: ["WWE", "Crown Jewel", "2023", "matches", "ratings", "length", "MQI", "best", "worst", "watch", "skip", "match quality index", "Bianca Belair", "Cody Rhodes", "Damian Priest", "Drew McIntyre", "IYO SKY", "John Cena", "LA Knight", "Logan Paul", "Nia Jax", "Paul Heyman", "Raquel Rodriguez", "Rey Mysterio", "Rhea Ripley", "Roman Reigns", "Seth Rollins", "Shayna Baszler", "Solo Sikoa", "Zoey Stark"]
+tags: ["WWE", "Crown Jewel", "2023", "ratings", "MQI", "match quality index", "Bianca Belair", "Cody Rhodes", "Damian Priest", "Drew McIntyre", "IYO SKY", "John Cena", "LA Knight", "Logan Paul", "Nia Jax", "Paul Heyman", "Raquel Rodriguez", "Rey Mysterio", "Rhea Ripley", "Roman Reigns", "Seth Rollins", "Shayna Baszler", "Solo Sikoa", "Zoey Stark"]
 categories: [WWE Watch Guide]
 author: "AI Styles"
 # author: ["Me", "You"] # multiple authors

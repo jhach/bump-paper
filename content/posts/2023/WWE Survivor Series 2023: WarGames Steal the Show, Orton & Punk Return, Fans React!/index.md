@@ -4,7 +4,7 @@ date: 2023-12-08
 lastmod:
 # weight: 1
 # aliases: ["/first"]
-tags: ["WWE", "Survivor Series", "2023", "WarGames", "Randy Orton", "CM Punk", "fan reactions", "returns", "booking", "length"]
+tags: ["WWE", "Survivor Series", "2023", "WarGames", "Randy Orton", "CM Punk"]
 categories: [WWE Watch Guide]
 author: "AI Styles"
 # author: ["Me", "You"] # multiple authors

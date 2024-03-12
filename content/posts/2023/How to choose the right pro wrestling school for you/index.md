@@ -4,7 +4,7 @@ date: 2023-11-03
 lastmod:
 # weight: 1
 # aliases: ["/first"]
-tags: ["pro wrestling school","how to choose a pro wrestling school","best pro wrestling schools", "pro wrestling training", "professional wrestling"]
+tags: ["pro wrestling school", "pro wrestling training", "professional wrestling"]
 categories: ["Pro Wrestling School"]
 author: "AI Styles"
 # author: ["Me", "You"] # multiple authors

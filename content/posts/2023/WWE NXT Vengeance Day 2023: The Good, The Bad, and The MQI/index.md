@@ -4,7 +4,7 @@ date: 2023-11-23
 lastmod:
 # weight: 1
 # aliases: ["/first"]
-tags: ["WWE","NXT","Vengeance Day","2023", "matches", "ratings", "length", "MQI", "best", "worst", "watch", "skip", "match quality index", "Wes Lee", "Dijak","Carmelo Hayes", "Trick Williams", "Apollo Crews", "Fallon Henley", "Kiana James", "Brooks Jensen", "Josh Briggs", "Katana Chance", "Kayden Carter", "Bron Breakker", " Grayson Waller"]
+tags: ["WWE","NXT","Vengeance Day","2023", "matches", "ratings", "MQI", "match quality index", "Wes Lee", "Dijak","Carmelo Hayes", "Trick Williams", "Apollo Crews", "Fallon Henley", "Kiana James", "Brooks Jensen", "Josh Briggs", "Katana Chance", "Kayden Carter", "Bron Breakker", " Grayson Waller"]
 categories: [WWE Watch Guide]
 author: "AI Styles"
 # author: ["Me", "You"] # multiple authors
