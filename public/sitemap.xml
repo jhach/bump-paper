@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bumpxfeed.com/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bumpxfeed.com/posts/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bumpxfeed.com/tags/2023/</loc>
     <lastmod>2024-02-28T22:17:34+11:00</lastmod>
   </url><url>
     <loc>https://bumpxfeed.com/tags/booking/</loc>
-    <lastmod>2024-02-28T22:17:34+11:00</lastmod>
-  </url><url>
-    <loc>https://bumpxfeed.com/</loc>
     <lastmod>2024-02-28T22:17:34+11:00</lastmod>
   </url><url>
     <loc>https://bumpxfeed.com/categories/</loc>
@@ -21,9 +24,6 @@
     <lastmod>2024-02-28T22:17:34+11:00</lastmod>
   </url><url>
     <loc>https://bumpxfeed.com/tags/length/</loc>
-    <lastmod>2024-02-28T22:17:34+11:00</lastmod>
-  </url><url>
-    <loc>https://bumpxfeed.com/posts/</loc>
     <lastmod>2024-02-28T22:17:34+11:00</lastmod>
   </url><url>
     <loc>https://bumpxfeed.com/tags/randy-orton/</loc>
