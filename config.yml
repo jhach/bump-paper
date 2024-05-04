@@ -46,7 +46,6 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-  analytics.google.SiteVerificationTag: XfJbcJYE4nKa_ZCbsk0dZkzdhk5QM2K38gzPWrendD0
   gtm_id: GTM-WPGJ28D
   gtm_datalayer: basic
   ShowReadingTime: true
@@ -111,9 +110,9 @@ params:
     - name: github
       url: "https://github.com/jhach/bump-paper"
 
-  # analytics:
-    #google:
-      # SiteVerificationTag: "XYZabc"
+  analytics:
+    google:
+      SiteVerificationTag: "XfJbcJYE4nKa_ZCbsk0dZkzdhk5QM2K38gzPWrendD0"
     # bing:
       # SiteVerificationTag: "XYZabc"
     # yandex:
