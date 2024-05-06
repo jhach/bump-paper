@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "About the author of bump x feed, Jalen Wu"
+description: "About the author of bumpXfeed, Jalen Wu"
 # canonicalURL: "https://bumpxfeed.com/about/"
 disableHLJS: true # to disable highlightjs
 disableShare: true

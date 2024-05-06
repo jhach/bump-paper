@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Taco Bell on bumpXfeed</title>
-    <link>https://bumpxfeed.com/tags/taco-bell/</link>
-    <description>Recent content in Taco Bell on bumpXfeed</description>
+    <title>TNA on bumpXfeed</title>
+    <link>https://bumpxfeed.com/tags/tna/</link>
+    <description>Recent content in TNA on bumpXfeed</description>
     <image>
       <title>bumpXfeed</title>
       <url>https://bumpxfeed.com/images/bf-black.png</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 May 2024 20:10:00 +1000</lastBuildDate>
-    <atom:link href="https://bumpxfeed.com/tags/taco-bell/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bumpxfeed.com/tags/tna/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pre-Pandemic Prospects: WWE Performance Center&#39;s December 2020 Trainee Class</title>
       <link>https://bumpxfeed.com/posts/2024/pre-pandemic-prospects-wwe-performance-centers-december-2020-trainee-class/</link>
