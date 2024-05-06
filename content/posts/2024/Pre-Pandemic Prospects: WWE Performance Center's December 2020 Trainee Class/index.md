@@ -171,5 +171,6 @@ Status: **Active (WWE NXT)**
 ---
 
 ## Additional reading:
-[WWE image album published in Dec 20202](https://www.wwe.com/shows/wwenxt/gallery/wwe-performance-center-recruits-dec-2020-photos#fid-40512479)
-[Cagesideseats article published on Dec 2nd, 2020](https://www.cagesideseats.com/2020/12/2/22149260/rascalz-headline-wwe-performance-center-class-dec-2020)
+* [WWE image album published in Dec 20202](https://www.wwe.com/shows/wwenxt/gallery/wwe-performance-center-recruits-dec-2020-photos#fid-40512479) 
+
+* [Cagesideseats article published on Dec 2nd, 2020](https://www.cagesideseats.com/2020/12/2/22149260/rascalz-headline-wwe-performance-center-class-dec-2020)
