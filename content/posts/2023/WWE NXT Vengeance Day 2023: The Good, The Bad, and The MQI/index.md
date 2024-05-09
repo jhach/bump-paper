@@ -26,10 +26,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "vencharlotte.webp" # image path/url
-    alt: "WWE NXT Vengeance Day 2023 in the Alamo Dome in San Antonio, Texas." # alt text
-    caption: "WWE NXT Vengeance Day 2023 poster by DALL-E" # display caption under cover
-    relative: false # when using page bundles set this to true
+    image: vencharlotte.webp # image path/url
+    alt: WWE NXT Vengeance Day 2023 in the Alamo Dome in San Antonio, Texas. # alt text
+    caption: WWE NXT Vengeance Day 2023 poster by DALL-E # display caption under cover
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 
 # To compress to webp: cwebp -q 80 image.png -o image.webp

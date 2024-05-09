@@ -26,10 +26,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "OIG.jpeg" # image path/url
-    alt: "WWE Survivor Series 2023 in Chicago. CM Punk and Randy Orton." # alt text
-    caption: "WWE Survivor Series 2023 poster with Randy Orton and CM Punk by DALL-E" # display caption under cover
-    relative: false # when using page bundles set this to true
+    image: OIG.jpeg # image path/url
+    alt: WWE Survivor Series 2023 in Chicago. CM Punk and Randy Orton. # alt text
+    caption: WWE Survivor Series 2023 poster with Randy Orton and CM Punk by DALL-E # display caption under cover
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 
 # To compress to webp: cwebp -q 80 image.png -o image.webp

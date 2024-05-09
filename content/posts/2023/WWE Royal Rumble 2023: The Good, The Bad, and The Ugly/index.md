@@ -26,10 +26,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "cover.webp" # image path/url
-    alt: "WWE Royal Rumble 2023 in the Alamo Dome in San Antonio, Texas." # alt text
-    caption: "WWE Royal Rumble 2023 poster by DALL-E" # display caption under cover
-    relative: false # when using page bundles set this to true
+    image: cover.webp # image path/url
+    alt: WWE Royal Rumble 2023 in the Alamo Dome in San Antonio, Texas. # alt text
+    caption: WWE Royal Rumble 2023 poster by DALL-E # display caption under cover
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 
 # To compress to webp: cwebp -q 80 image.png -o image.webp

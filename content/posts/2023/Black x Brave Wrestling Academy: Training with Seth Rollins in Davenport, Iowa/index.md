@@ -26,10 +26,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "seth-speaking.webp" # image path/url
+    image: seth-speaking.webp # image path/url
     alt: "Seth Rollins' Black x Brave Wrestling Academy in Davenport Iowa" # alt text
     caption: "Seth Rollins' Black x Brave Wrestling Academy in Davenport Iowa" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 # editPost:
     # URL: "https://github.com/<path_to_repo>/content"

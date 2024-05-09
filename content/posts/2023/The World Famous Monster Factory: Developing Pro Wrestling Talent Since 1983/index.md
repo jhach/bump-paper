@@ -26,10 +26,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "monster-factory.webp" # image path/url
+    image: monster-factory.webp # image path/url
     alt: "The World Famous Monster Factory logo" # alt text
     caption: "The World Famous Monster Factory in Paulsboro, New Jersey" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 # editPost:
     # URL: "https://github.com/jhach/bump-paper/content"

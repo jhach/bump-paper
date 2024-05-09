@@ -26,10 +26,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "nywc.webp" # image path/url
+    image: nywc.webp # image path/url
     alt: "NYWC Training Academy logo" # alt text
     caption: "NYWC Training Academy in Long Island, New York" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 # editPost:
     # URL: "https://github.com/<path_to_repo>/content"

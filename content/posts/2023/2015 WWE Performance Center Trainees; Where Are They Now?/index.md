@@ -26,10 +26,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "wwe-pc-2015.webp" # image path/url
+    image: wwe-pc-2015.webp # image path/url
     alt: "2015 WWE Performance Center trainees including Montez Ford, Apollo Crews, and Aliyah currently in WWE" # alt text
     caption: "2015 WWE Performance Center trainees including Montez Ford, Apollo Crews, and Aliyah currently in WWE" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 # editPost:
     # URL: "https://github.com/<path_to_repo>/content"

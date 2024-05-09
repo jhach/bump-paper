@@ -25,7 +25,7 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 cover:
-    image: "about.webp" # image path/url
+    image: about.webp # image path/url
     alt: "\"Jumpin\" Jalen Wu dropkick" # alt text
     caption: "\"Jumpin\" Jalen Wu dropkicking an opponent" # display caption under cover
     relative: false # when using page bundles set this to true

@@ -26,10 +26,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "wwe-backlash-poster.webp" # image path/url
-    alt: "WWE Backlash 2023 poster" # alt text
-    caption: "WWE Backlash 2023 poster" # display caption under cover
-    relative: false # when using page bundles set this to true
+    image: wwe-backlash-poster.webp # image path/url
+    alt: WWE Backlash 2023 poster # alt text
+    caption: WWE Backlash 2023 poster # display caption under cover
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 # editPost:
     # URL: "https://github.com/<path_to_repo>/content"

@@ -26,10 +26,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "romancover.webp" # image path/url
-    alt: "WWE's Roman Reigns at Crown Jewel 2023" # alt text
-    caption: "Using MQI, a comprehensive metric that combines match rating and match length to provide a holistic assessment of the quality of each bout, here are the WWE Crown Jewel 2023 scores" # display caption under cover
-    relative: false # when using page bundles set this to true
+    image: romancover.webp # image path/url
+    alt: WWE's Roman Reigns at Crown Jewel 2023 # alt text
+    caption: Using MQI, a comprehensive metric that combines match rating and match length to provide a holistic assessment of the quality of each bout, here are the WWE Crown Jewel 2023 scores # display caption under cover
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 
 # To compress to webp: cwebp -q 80 image.png -o image.webp

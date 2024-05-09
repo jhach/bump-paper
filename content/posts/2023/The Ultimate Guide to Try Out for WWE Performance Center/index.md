@@ -26,10 +26,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "tryout-step-1.webp" # image path/url
+    image: tryout-step-1.webp # image path/url
     alt: "WWE Tryouts" # alt text
     caption: "Try out for the WWE at The Performance Center" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 # editPost:
     # URL: "https://github.com/jhach/bump-paper/content"

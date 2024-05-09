@@ -26,10 +26,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "masked.webp" # image path/url
-    alt: "Masked pro wrestler posing in front of a performance dashboard" # alt text
-    caption: "The MQI is a comprehensive metric that combines match rating and match length to provide a holistic assessment of the quality of each bout." # display caption under cover
-    relative: false # when using page bundles set this to true
+    image: masked.webp # image path/url
+    alt: Masked pro wrestler posing in front of a performance dashboard # alt text
+    caption: The MQI is a comprehensive metric that combines match rating and match length to provide a holistic assessment of the quality of each bout. # display caption under cover
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 
 # To compress to webp: cwebp -q 80 image.png -o image.webp

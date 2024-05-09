@@ -27,10 +27,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "cover.webp" # image path/url
-    alt: "Man in a suit and tie holding a clipboard at a pro wrestling school." # alt text
-    caption: "Learn from the best at the Pro Wrestling School! Get in shape and learn the moves from the pros." # display caption under cover
-    relative: false # when using page bundles set this to true
+    image: cover.webp # image path/url
+    alt: Man in a suit and tie holding a clipboard at a pro wrestling school. # alt text
+    caption: Learn from the best at the Pro Wrestling School! Get in shape and learn the moves from the pros. # display caption under cover
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 
 # To compress to webp: cwebp -q 80 image.png -o image.webp
