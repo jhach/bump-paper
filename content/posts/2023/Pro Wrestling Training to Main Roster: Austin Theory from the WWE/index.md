@@ -26,10 +26,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "austin_theory_us_title.webp" # image path/url
+    image: austin_theory_us_title.webp # image path/url
     alt: "Austin Theory captures the WWE United States Championship at Survivor Series 2022" # alt text
     caption: "Austin Theory captures the WWE United States Championship at Survivor Series 2022" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 # editPost:
     # URL: "https://github.com/<path_to_repo>/content"
