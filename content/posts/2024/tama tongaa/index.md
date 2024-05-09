@@ -10,7 +10,7 @@ author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 description: "A bumpxfeed exclusive: We'll take a look at the December 2020 WWE Performance Center trainees' professional wrestling careers from training at the PC to where they are now in 2024."
@@ -26,16 +26,53 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: cover.jpg # image path/url
+    image: "cover.jpg" # image path/url
     alt: "December 2020 WWE Performance Center trainees including Wes Lee, Lash Legend, Zachary Wentz, Alex Zayne, Kuroshio Tokyo Japan (黒潮TOKYOジャパン), and Russ Taylor" # alt text
     caption: "December 2020 WWE Performance Center trainees including Wes Lee, Lash Legend, Zachary Wentz, Alex Zayne, Kuroshio Tokyo Japan (黒潮TOKYOジャパン), and Russ Taylor" # display caption under cover
-    relative: true # when using page bundles set this to true
+    relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 # editPost:
     # URL: "https://github.com/<path_to_repo>/content"
     # Text: "Suggest Changes" # edit text
     # appendFilePath: true # to append file path to Edit link
 ---
+
+# Tama Tonga: From the Indies to WWE SmackDown
+
+![Tama Tonga](https://i.imgur.com/7Q4zR8l.jpg)
+
+**Alipate Aloisio Leone**, better known by his ring name **Tama Tonga**, has left an indelible mark on the world of professional wrestling. From his early days on the independent circuit to his recent debut in WWE, let's explore the fascinating journey of this Tongan powerhouse.
+
+## Early Life and Adoption
+Leone and his younger brother Taula were adopted by their maternal aunt and her husband, the legendary professional wrestler **Tonga Fifita** (better known as **Haku** or **Meng**), from their native island of Tonga. The family brought them to Poinciana, Florida, where they grew up alongside their biological cousin and adoptive brother, fellow professional wrestler **Tevita**. The wrestling bug bit them early, and they made a pact to pursue their dreams once their other obligations were fulfilled.
+
+## Training and Early Career (2008–2010)
+In 2008, the brothers approached the **Dudley Boyz** to use their training school's ring in Kissimmee, Florida. Under their guidance, Tama Tonga honed his skills and embarked on his wrestling journey. His training also included learning from notable names like **Ricky Santana**, **Haku**, **Jado**, and **Karl Anderson**. These formative years laid the foundation for his future success¹.
+
+## New Japan Pro-Wrestling (2010–2024)
+Tama Tonga's tenure with **New Japan Pro-Wrestling (NJPW)** was nothing short of remarkable. He was a founding member of the infamous **Bullet Club**, alongside **Bad Luck Fale**, **Karl Anderson**, and **Prince Devitt** (now known as **Finn Bálor**). The Bullet Club revolutionized the wrestling landscape and became a global phenomenon.
+
+### Guerrillas of Destiny (G.O.D.)
+Tama Tonga's partnership with his brother **Tanga Loa** gave birth to the **Guerrillas of Destiny (G.O.D.)**. As a tag team, they dominated the NJPW tag division, winning the **IWGP Tag Team Championship** an impressive seven times. Their hard-hitting style and undeniable chemistry made them fan favorites.
+
+### Singles Success
+Tama Tonga wasn't just a tag team specialist. As a singles competitor, he held the **NEVER Openweight Championship** four times, proving his versatility and resilience in the ring.
+
+### International Ventures
+Tama Tonga expanded his horizons beyond NJPW. He worked with **Consejo Mundial de Lucha Libre (CMLL)** in Mexico, where he held the **CMLL World Tag Team Championship** twice. Additionally, due to the collaboration between NJPW and **Ring of Honor (ROH)**, G.O.D. also captured the **ROH World Tag Team Championship**.
+
+## WWE Debut (2024)
+On the April 12, 2024 edition of **SmackDown**, Tama Tonga made his long-awaited WWE debut as a member of **The Bloodline**. His arrival sent shockwaves through the wrestling world, and fans eagerly await his next move on the blue brand.
+
+Tama Tonga's journey from the islands of Tonga to the grand stage of WWE is a testament to his passion, dedication, and unwavering spirit. As he steps into the squared circle on SmackDown, we can expect fireworks and fierce battles. The legacy of Tama Tonga continues to evolve, and wrestling fans are in for a thrilling ride! 🤼‍♂️🔥
+
+*Sources: [Wikipedia](https://en.wikipedia.org/wiki/Tama_Tonga), [The Sports Grail](https://thesportsgrail.com/who-is-tama-tonga-as-he-joins-the-bloodline-bio-real-name-age-height-weight-family-and-father/)*
+
+Source: Conversation with Bing, 07/05/2024
+(1) Tama Tonga - Wikipedia. https://en.wikipedia.org/wiki/Tama_Tonga.
+(2) Tama Tonga: Profile, Career Stats, Face/Heel Turns, Titles Won .... https://www.thesmackdownhotel.com/wrestlers/tama-tonga.
+(3) Tama Tonga Biography, Age, Parents, Wife, Children & Net Worth. https://dklassgh.net/2024/01/08/tama-tonga-biography-age/.
+(4) Who is Tama Tonga as he joins The Bloodline, bio, real name, age .... https://thesportsgrail.com/who-is-tama-tonga-as-he-joins-the-bloodline-bio-real-name-age-height-weight-family-and-father/.
 
 The December 2020 class at the WWE Performance Center held a unique significance. It arrived just before the global pandemic and subsequent budget cuts significantly impacted the company's recruitment. This group, consisting of five seasoned independent wrestlers and a standout basketball player with professional experience, marked a distinct moment in WWE's talent acquisition strategy.
 
