@@ -5,7 +5,7 @@ lastmod:
 # weight: 1
 # aliases: ["/first"]
 tags: ["WWE","Smackdown","Tama Tonga","Florida", "New Japan Pro Wrestling", "BULLET CLUB", "The Bloodline", "Guerrillas of Dynasty"]
-categories: ["Pro Wrestling School"]
+categories: ["Superstar Spotlight"]
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
 showToc: true

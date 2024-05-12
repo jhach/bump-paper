@@ -1,16 +1,16 @@
 ---
-title: "Pre-Pandemic Prospects: WWE Performance Center's December 2020 Trainee Class"
+title: ""
 date: 2024-05-06
 lastmod:
 # weight: 1
 # aliases: ["/first"]
 tags: ["WWE","WWE Performance Center","Florida", "Wes Lee", "NXT", "Lash Legend", "Zachary Wentz", "Kuroshio", "Sponsorship", "Taco Bell", "TNA", "All Japan Pro Wrestling"]
-categories: ["Pro Wrestling School"]
+categories: ["Promos"] # "Pro Wrestling School", "Superstar Spotlight","Superstars Background Breakdown","WWE Watch Guide"
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 description: "A bumpxfeed exclusive: We'll take a look at the December 2020 WWE Performance Center trainees' professional wrestling careers from training at the PC to where they are now in 2024."
@@ -43,9 +43,12 @@ This article delves into the careers of these individual trainees, exploring the
 
 --- 
 
+> "Credibility. Authenticity. Believing in everything that you are saying," Heyman said. "It's something that some people are born with and don't know how to tap into. And it's something some people are not born with, but once they feel the affirmation of the crowd ... [they] get that rush." 
+source: https://www.espn.com.au/wwe/story/_/id/17874370/paul-heyman-defines-art-wrestling-promo
+
 ## 🌮 Alex Zayne
 
-![Alex Zayne aka Ari Sterling at the WWE Performance Center in December 2020](alexzayne.jpeg)
+![alt text](file location)
 
 High-flying innovator **Alex Zayne** has carved a unique path in the world of professional wrestling. His journey began in 2005, leading him to various independent promotions worldwide. Zayne's technical prowess and captivating in-ring performances earned him a reputation as a top contender, eventually catching the eye of prestigious Japanese promotion New Japan Pro-Wrestling (NJPW). 
 
@@ -171,6 +174,6 @@ Status: **Active (WWE NXT)**
 ---
 
 ## Additional reading:
-* [WWE image album published in Dec 2020](https://www.wwe.com/shows/wwenxt/gallery/wwe-performance-center-recruits-dec-2020-photos#fid-40512479) 
+* [Paul Heyman to ESPN in 2016 on what makes a great promo](https://www.espn.com.au/wwe/story/_/id/17874370/paul-heyman-defines-art-wrestling-promo) 
 
 * [Cagesideseats article published on Dec 2nd, 2020](https://www.cagesideseats.com/2020/12/2/22149260/rascalz-headline-wwe-performance-center-class-dec-2020)
