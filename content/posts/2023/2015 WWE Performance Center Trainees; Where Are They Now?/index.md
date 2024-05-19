@@ -55,7 +55,7 @@ She was released from the WWE in 2021, along with her IIconics tag team partner,
 She is currently taking time away to care for her newborn with ~~AEW~~ WWE NXT superstar, Shawn Spears.  
 
 **Update: May 17, 2024**   
-When speaking with Ring The Belle, Cassie, aka Peyton, was asked to comment about making a return for the WWE Royal Rumble:
+Certainly! When interviewed by Ring The Belle, Cassie Lee (formerly known as Peyton Royce) expressed openness to potentially returning for the WWE Royal Rumble. She stated:  
 > Yeah, I’m open to it, for sure. I would love that. It’d be so good to catch up. I mean, it’s the Royal Rumble. We said no last time because we were still pretty hurt about [getting released]. But I feel healed now, and I feel like I’d love to do that if the opportunity came.  
 
 source: [Wrestlezone](https://www.wrestlezone.com/news/1473605-cassie-lee-peyton-royce-would-be-open-to-potential-wwe-royal-rumble-appearance)
@@ -210,4 +210,4 @@ Status: Active (Independents)
 ---
 
 ## Additional reading:
-[WWE article published on 13.04.2015](https://www.wwe.com/shows/wwenxt/wwe-performance-center-welcomes-new-class-of-recruits)
+[WWE article published on April 13, 2015](https://www.wwe.com/shows/wwenxt/wwe-performance-center-welcomes-new-class-of-recruits)
