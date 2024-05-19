@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on bumpXfeed</title>
+    <link>https://bumpxfeed.com/categories/</link>
+    <description>Recent content in Categories on bumpXfeed</description>
+    <image>
+      <title>bumpXfeed</title>
+      <url>https://bumpxfeed.com/images/bf-black.png</url>
+      <link>https://bumpxfeed.com/images/bf-black.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 May 2024 13:16:30 +1000</lastBuildDate>
+    <atom:link href="https://bumpxfeed.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Promo</title>
+      <link>https://bumpxfeed.com/categories/promo/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://bumpxfeed.com/categories/promo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Superstar Spotlight</title>
+      <link>https://bumpxfeed.com/categories/superstar-spotlight/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://bumpxfeed.com/categories/superstar-spotlight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pro Wrestling School</title>
+      <link>https://bumpxfeed.com/categories/pro-wrestling-school/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://bumpxfeed.com/categories/pro-wrestling-school/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WWE Watch Guide</title>
+      <link>https://bumpxfeed.com/categories/wwe-watch-guide/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://bumpxfeed.com/categories/wwe-watch-guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Superstars Background Breakdown</title>
+      <link>https://bumpxfeed.com/categories/superstars-background-breakdown/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://bumpxfeed.com/categories/superstars-background-breakdown/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
