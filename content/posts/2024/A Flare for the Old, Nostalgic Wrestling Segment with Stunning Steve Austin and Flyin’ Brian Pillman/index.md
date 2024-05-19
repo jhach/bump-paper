@@ -60,6 +60,9 @@ And now the Nature Boy and tonight's special guest, one half of the World Tag T
 **Brian Pillman** as Ric Flair: Thank you, there you, thank you very much, uh, very, uh, please to announce that uh, if a special segment of a flare for the old.
 
 ![Flyin' Brian Pillman as Ric Flair featuring Pate](brianpate.png)
+<!--
+{< figure src="https://source.unsplash.com/Z0lL0okYjy0" attr="Photo by [Aditya Telange](https://unsplash.com/@adityatelange?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/Z0lL0okYjy0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)" align=center link="https://unsplash.com/photos/Z0lL0okYjy0" target="_blank" >}}
+-->
 
 Here we are, nursing home, uh, paradise, uh, live here on, uh, in Technicolor and, uh, I know, uh, before we go any further I'd like to, uh, give that moment, every red blooded male on... in America love and that's that's... that's right take a deep breath let's bring her out, Pate the made. There she is there she is. Woo (laughter). Oh you sex kitten you it's one of little perks being host of the show. I'm very pleased to announce my special guest, one half of the World Tag Team Champions, Stunning Steve Austin. Let's bring him out.
 

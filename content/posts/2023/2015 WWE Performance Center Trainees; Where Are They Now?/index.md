@@ -27,8 +27,8 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
     image: wwe-pc-2015.webp # image path/url
-    alt: "2015 WWE Performance Center trainees including Montez Ford, Apollo Crews, and Aliyah currently in WWE" # alt text
-    caption: "2015 WWE Performance Center trainees including Montez Ford, Apollo Crews, and Aliyah currently in WWE" # display caption under cover
+    alt: "2015 WWE Performance Center trainees including Montez Ford and Apollo Crews" # alt text
+    caption: "2015 WWE Performance Center trainees including Montez Ford and Apollo Crews" # display caption under cover
     relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 # editPost:
@@ -52,7 +52,13 @@ She got her spot in the 2015 WWE Performance Center class after a WWE tryout was
 
 She was released from the WWE in 2021, along with her IIconics tag team partner, Jessica McKay. They both appeared on Impact! Wrestling later that year. She performed under the name Cassie Lee as one half of the IInspiration.
 
-She is currently taking time away to care for her newborn with AEW superstar, Shawn Spears.  
+She is currently taking time away to care for her newborn with ~~AEW~~ WWE NXT superstar, Shawn Spears.  
+
+**Update: May 17, 2024**   
+When speaking with Ring The Belle, Cassie, aka Peyton, was asked to comment about making a return for the WWE Royal Rumble:
+> Yeah, I’m open to it, for sure. I would love that. It’d be so good to catch up. I mean, it’s the Royal Rumble. We said no last time because we were still pretty hurt about [getting released]. But I feel healed now, and I feel like I’d love to do that if the opportunity came.  
+
+source: [Wrestlezone](https://www.wrestlezone.com/news/1473605-cassie-lee-peyton-royce-would-be-open-to-potential-wwe-royal-rumble-appearance)
 
 Status: Inactive
 
@@ -62,7 +68,7 @@ Jessica McKay also trained with Pro Wrestling Australia and started her journey 
 
 She received a spot in the 2015 WWE Performance Center class after attending a WWE tryout in Australia in 2014. Jessica, going under the name Billie Kay in the WWE, would compete in NXT from 2015 to 2018 before being called up to the main roster. Jessica, along with Cassie, were both released from their WWE contracts in 2021. She made a brief appearance with her IIconics partner at Impact! wrestling in late 2021.
 
-She is currently modeling and acting, per her Instagram.  
+She is currently modeling and acting, per her [Instagram](https://www.instagram.com/jessicamckay/?hl=en).  
 
 Status: Inactive
 
@@ -149,7 +155,11 @@ Kenneth's tryout came after his wife submitted pictures on the [WWE Recruit webs
 
 From 2016-2019, Kenneth Crawford, now going by Montez Ford, gained success tag teaming with Angelo Dawkins. Their tag team would be called the Street Profits.
 
-In late 2019, the Street Profits would be called up to the main roster where they remain today, splitting time with Raw and Smackdown.  
+In late 2019, the Street Profits would be called up to the main roster where they remain today, splitting time with Raw and Smackdown. 
+
+{{< youtube 8YnbN2MmFOw >}}
+Montez Ford appeared on The Pivot Podcast along with his wife, Bianca, to discuss storylines, Wrestlemania 40, marriage, training, and more.
+
 
 Status: Active (WWE)
 
@@ -190,10 +200,10 @@ Status: Active (Independents)
 
 ## How did the 2015 WWE Performance Center trainees do?
 ### Out of 11 performers...
-* 3 are active in the WWE
-  * 27% of that class are currently active in the WWE
-* 6 are inactive or status is unknown
-  * 55% of that class are currently not active in the pro wrestling industry
+* 2 are active in the WWE
+  * 18% of that class are currently active in the WWE
+* 7 are inactive or status is unknown
+  * 64% of that class are currently not active in the pro wrestling industry
 * 2 are active on the independents
   * 18% of that class are currently active outside of WWE
 

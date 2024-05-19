@@ -21,6 +21,7 @@
 <p align="center">
   <kbd><img src="https://bumpxfeed.com/bumpxfeedscreen.png" alt="bumpxfeed.com screenshot" title="bumpxfeed.com screenshot"/></kbd>
 </p>
+
 <!--
 ---
 
@@ -102,4 +103,5 @@ Release ChangeLog has info about stuff added: **[Releases](https://github.com/ad
 ## Stargazers over time 📈
 
 [![Stargazers over time](https://starchart.cc/adityatelange/hugo-PaperMod.svg?background=%23ffffff00&axis=%23858585&line=%236b63ff)](https://starchart.cc/adityatelange/hugo-PaperMod)
-->
+
+-->
