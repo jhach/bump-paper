@@ -80,9 +80,9 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: bumpXfeed
-    subtitle: "Pro wrestling and sports entertainment destination with content about WWE, AEW, NJPW, ROH, Impact!, and more."
+    subtitle: "Pro wrestling and sports entertainment destination with content about WWE, AEW, NJPW, ROH, and more."
     imageUrl: "images/bf-black.png"
     imageWidth: 240
     imageHeight: 240
@@ -95,8 +95,14 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "bumpXfeed"
+    Content: > 
+      Welcome to the bumpxFeed experience! Step into the ring, feel the adrenaline, and immerse yourself in the world of pro wrestling and sports entertainment!
+      Our site is the ultimate destination for aspiring wrestlers and passionate fans alike. 
+      Explore insights from top promotions like WWE, AEW, TNA Wrestling, NJPW, Indys and more. 
+      Access training resources, connect with fellow fans, stay updated on upcoming events, and explore exclusive merchandise. 
+      Whether you’re a future champion or a die-hard fan, the bumpxfeed experience awaits. 
+      Let’s celebrate the spectacle, the drama, and the heart-pounding moments together!
 
   socialIcons:
     - name: twitter
@@ -140,9 +146,9 @@ params:
     # keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: posts
-      name: posts
-      url: /posts/
+    - identifier: archives
+      name: archives
+      url: /archives/
       weight: 10
     - identifier: categories
       name: categories
