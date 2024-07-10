@@ -2,10 +2,8 @@ baseURL: "https://bumpxfeed.com/"
 languageCode: en-us
 title: bumpXfeed
 paginate: 5
-theme: ["PaperMod"]
+theme: PaperMod
 
-# https://gohugo.io/getting-started/configuration/#enablegitinfo
-enableGitInfo: true
 
 # https://gohugo.io/getting-started/configuration/#configure-front-matter
 frontmatter:
@@ -25,6 +23,8 @@ frontmatter:
   - date
 
 enableRobotsTXT: true
+# https://gohugo.io/getting-started/configuration/#enablegitinfo
+enableGitInfo: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
@@ -51,8 +51,6 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-  gtm_id: GTM-WPGJ28D
-  gtm_datalayer: basic
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -68,6 +66,8 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
+  gtm_id: GTM-WPGJ28D
+  gtm_datalayer: basic
 
   assets:
     disableHLJS: true # to disable highlight.js
