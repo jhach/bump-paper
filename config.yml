@@ -121,9 +121,10 @@ params:
     - name: github
       url: "https://github.com/jhach/bump-paper"
 
-  #analytics:
-    # google:
-      # SiteVerificationTag: "XfJbcJYE4nKa_ZCbsk0dZkzdhk5QM2K38gzPWrendD0"
+  analytics:
+     google:
+      SiteVerificationTag: "XfJbcJYE4nKa_ZCbsk0dZkzdhk5QM2K38gzPWrendD0"
+      # <meta name="google-site-verification" content="XfJbcJYE4nKa_ZCbsk0dZkzdhk5QM2K38gzPWrendD0" />
     # bing:
       # SiteVerificationTag: "XYZabc"
     # yandex:
