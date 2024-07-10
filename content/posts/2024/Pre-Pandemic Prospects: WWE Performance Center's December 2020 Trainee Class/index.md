@@ -138,7 +138,11 @@ Wentz's journey came full circle when he and Trey Miguel captured the Impact Wor
 
 As Zachary Wentz, he remains a force to be reckoned with in the wrestling world. Whether he continues to thrive in Impact Wrestling or sets his sights on other opportunities, one thing is certain: Zachary Wentz's passion and dedication will keep him in the spotlight for years to come.
 
-Status: **Active (TNA Wrestling)**
+**Update July 9, 2024**: The Rascalz made their apperance on the July 9th, 2024 edition of WWE NXT. As you can tell by the pop, Zachary and Trey were well received and we are in for a treat!
+
+{{< tweet user="SeanRossSapp" id="1810842504784179215" >}}
+
+Status: **Active (TNA Wrestling, crossover with WWE NXT)**
 
 ---
 
