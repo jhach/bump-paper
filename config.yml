@@ -1,7 +1,7 @@
 baseURL: "https://bumpxfeed.com/"
 languageCode: en-us
 title: bumpXfeed
-paginate: 5
+# paginate: 5
 theme: PaperMod
 
 
