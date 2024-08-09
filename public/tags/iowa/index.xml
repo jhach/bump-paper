@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Iowa on bumpXfeed</title>
-    <link>https://bumpxfeed.com/tags/iowa/</link>
+    <link>http://localhost:1313/tags/iowa/</link>
     <description>Recent content in Iowa on bumpXfeed</description>
     <image>
       <title>bumpXfeed</title>
-      <url>https://bumpxfeed.com/images/bf-black.png</url>
-      <link>https://bumpxfeed.com/images/bf-black.png</link>
+      <url>http://localhost:1313/images/bf-black.png</url>
+      <link>http://localhost:1313/images/bf-black.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 May 2024 22:18:38 +1000</lastBuildDate>
-    <atom:link href="https://bumpxfeed.com/tags/iowa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/iowa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Black x Brave Wrestling Academy: Training with Seth Rollins in Davenport, Iowa</title>
-      <link>https://bumpxfeed.com/posts/2023/black-x-brave-wrestling-academy-training-with-seth-rollins-in-davenport-iowa/</link>
+      <link>http://localhost:1313/posts/2023/black-x-brave-wrestling-academy-training-with-seth-rollins-in-davenport-iowa/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/posts/2023/black-x-brave-wrestling-academy-training-with-seth-rollins-in-davenport-iowa/</guid>
+      <guid>http://localhost:1313/posts/2023/black-x-brave-wrestling-academy-training-with-seth-rollins-in-davenport-iowa/</guid>
       <description>The Black x Brave Wrestling Academy has been developing talent since 2014. The facility, located in Davenport, Iowa, is equipped with a WWE ring and wide range of gym equipment. Read more about how to train at Seth Rollins&amp;#39; pro wrestling school including the programs they offer and the cost to attend.</description>
     </item>
   </channel>
