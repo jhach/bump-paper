@@ -4,7 +4,7 @@ date: 2023-11-19
 lastmod:
 # weight: 1
 # aliases: ["/first"]
-tags: ["WWE", "Royal Rumble", "2023", "ratings", "MQI", "best", "match quality index", "Roman Reigns", "Kevin Owens","Bianca Belair", "Cody Rhodes", "Damian Priest", "Drew McIntyre", "IYO SKY", "LA Knight", "Logan Paul", "Nia Jax", "Paul Heyman", "Raquel Rodriguez", "Rey Mysterio", "Rhea Ripley", "Sami Zayn", "Seth Rollins", "Shayna Baszler", "Solo Sikoa"]
+tags: ["WWE", "Royal Rumble", "2023", "Ratings", "MQI", "Match Quality Index", "Roman Reigns", "Kevin Owens","Bianca Belair", "Cody Rhodes", "Damian Priest", "Drew McIntyre", "IYO SKY", "LA Knight", "Logan Paul", "Nia Jax", "Paul Heyman", "Raquel Rodriguez", "Rey Mysterio", "Rhea Ripley", "Sami Zayn", "Seth Rollins", "Shayna Baszler", "Solo Sikoa"]
 categories: [WWE Watch Guide]
 author: "AI Styles"
 # author: ["Me", "You"] # multiple authors
