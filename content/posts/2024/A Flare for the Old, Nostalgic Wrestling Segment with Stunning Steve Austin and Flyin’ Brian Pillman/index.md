@@ -4,7 +4,7 @@ date: 2024-05-15
 lastmod:
 # weight: 1
 # aliases: ["/first"]
-tags: ["WCW","Saturday Night", "Brian Pillman", "Steve Austin", "Ric Flair", "Arn Anderson", "Tony Schiavone", "Larry Zbyszko", "", "WWE", "Skit"]
+tags: ["WCW","WCW Saturday Night", "Brian Pillman", "Steve Austin", "Ric Flair", "Arn Anderson", "Tony Schiavone", "Larry Zbyszko", "", "WWE", "Skit"]
 categories: ["Promo"] # "Pro Wrestling School", "Superstar Spotlight","Superstars Background Breakdown","WWE Watch Guide"
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
