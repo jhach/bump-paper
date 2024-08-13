@@ -38,12 +38,12 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: bumpXfeed
-  description: "Welcome to the bumpxFeed experience! Step into the ring, feel the adrenaline, and immerse yourself in the world of pro wrestling and sports entertainment!
+  description: "Welcome to the bumpXfeed experience! Step into the ring (squared circle?), feel the adrenaline, and immerse yourself in the world of professional wrestling and sports entertainment!
       Our site is the ultimate destination for aspiring wrestlers and passionate fans alike. 
-      Explore insights from top promotions like WWE, AEW, TNA Wrestling, NJPW, Indys and more. 
+      Explore insights from top promotions like WWE, AEW, TNA Wrestling, GCW, ROH, NJPW, Indys and more. 
       Access training resources, connect with fellow fans, stay updated on upcoming events, and explore exclusive merchandise. 
-      Whether you’re a future champion or a die-hard fan, the bumpxfeed experience awaits. 
-      Let’s celebrate the spectacle, the drama, and the heart-pounding moments together!"
+      Whether you’re a future champion or a die-hard fan, the bumpXfeed experience awaits. 
+      Let’s celebrate the spectacle, the drama, and \"holy sh!t\" moments together!"
   keywords: [Pro Wrestling School, Pro Wrestling Training, Pro Wrestling, WWE, TNA Wrestling, AEW, NJPW, ROH, GCW]
   author: Jalen Wu
   # author: ["Me", "You"] # multiple authors
