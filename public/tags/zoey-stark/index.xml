@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Zoey Stark on bumpXfeed</title>
-    <link>http://localhost:1313/tags/zoey-stark/</link>
+    <link>https://bumpxfeed.com/tags/zoey-stark/</link>
     <description>Recent content in Zoey Stark on bumpXfeed</description>
     <image>
       <title>bumpXfeed</title>
-      <url>http://localhost:1313/images/bf-black.png</url>
-      <link>http://localhost:1313/images/bf-black.png</link>
+      <url>https://bumpxfeed.com/images/bf-black.png</url>
+      <link>https://bumpxfeed.com/images/bf-black.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 May 2024 22:18:38 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/zoey-stark/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bumpxfeed.com/tags/zoey-stark/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WWE Crown Jewel 2023: A Comprehensive Review of All the Matches</title>
-      <link>http://localhost:1313/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches/</link>
+      <link>https://bumpxfeed.com/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches/</guid>
+      <guid>https://bumpxfeed.com/posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches/</guid>
       <description>WWE Crown Jewel 2023 was a spectacular event that featured some of the best matches of the year. However, not all matches were created equal, and some of them were not worth your time. In this blog post, we will use a metric called the Match Quality Index (MQI) to rank the matches from best to worst, and give you our recommendations on which ones to watch and which ones to skip.</description>
     </item>
   </channel>
