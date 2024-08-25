@@ -9,7 +9,7 @@ For the United States, each state is categorized below with specific cities list
 
 ## Iowa
 ### Davenport
-[Black X Brave Wrestling Academy](../../2023/black-x-brave-wrestling-academy-training-with-seth-rollins-in-davenport-iowa)
+[Black X Brave Wrestling Academy](../../posts/2023/black-x-brave-wrestling-academy-training-with-seth-rollins-in-davenport-iowa)
 
 
 ## Florida
