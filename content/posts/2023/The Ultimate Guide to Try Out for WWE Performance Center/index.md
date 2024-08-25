@@ -53,7 +53,7 @@ As of Saturday, August 24, 2024, WWE's Recruit website is live and accepting app
 ---
 
 ## Step 2: Accept an invitation from WWE
-After submitting your application, WWE may contact you within 4-6 weeks to invite you to a tryout. Don't just sit there and wait, continue mastering your skills. Whether it's working in the ring, improving your [promo skills](https://bumpxfeed.com/categories/promo/), or maintaining peak physical condition, every bit of prep counts.
+After submitting your application, WWE may contact you within 4-6 weeks to invite you to a tryout. Don't just sit there and wait, continue mastering your skills. Whether it's working in the ring, improving your [promo skills]({{< ref "/categories/promo" >}} "promo skills"), or maintaining peak physical condition, every bit of prep counts.
 
 ---
 
