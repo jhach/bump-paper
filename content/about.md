@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "About the author of bumpXfeed, Jalen Wu"
+description: "Get to know Jalen Wu, the former pro wrestler and founder of bumpXfeed, and how his journey in the ring led to a passion for sharing insights on the wrestling world."
 # canonicalURL: "https://bumpxfeed.com/about/"
 disableHLJS: true # to disable highlightjs
 disableShare: true
@@ -26,8 +26,8 @@ ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 cover:
     image: about.webp # image path/url
-    alt: "\"Jumpin\" Jalen Wu dropkick" # alt text
-    caption: "\"Jumpin\" Jalen Wu dropkicking an opponent" # display caption under cover
+    alt: "\"Jumpin\" Jalen Wu delivering a high-flying dropkick" # alt text
+    caption: "\"Jumpin\" Jalen Wu executing a high-flying dropkick during a match" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 # editPost:
@@ -35,21 +35,31 @@ cover:
     # Text: "Suggest Changes" # edit text
     # appendFilePath: true # to append file path to Edit link
 ---
+## Who Is Jalen Wu? 
 
-Hola!
+Hola! I'm Jalen Wu, the former pro wrestler turned wrestling analyst, the guy behind bumpXfeed, and your go-to source for all things wrestling. If you’ve ever wondered what it’s like to transition from taking bumps in the ring to breaking down those same bumps with data and passion, you’re in the right place.
 
-My name is Jalen Wu and I was a former pro wrestler in Southern California from 2009-2011. 
+### My Wrestling Journey
 
-I started my career by reaching out to Bryan Alvarez: a podcaster, editor, and publisher of the [Figure Four Weekly](https://www.f4wonline.com) to learn more about wrestling schools in Seattle, Washington, where I lived at the time. He referred me to "Playboy" Buddy Rose's and Colonel DeBeers' school located in Portland, Oregon. I made the two hour drive on Sundays to the [Straight Blast Gym](https://www.straightblastgym.com) where they had a ring and mma/workout equipment located near the Rose Garden.
+I laced up my boots and stepped into the wild world of pro wrestling back in 2009. My story started with a fateful reach out to Bryan Alvarez... yes, *that* Bryan Alvarez, the voice behind Figure Four Weekly and a walking encyclopedia of wrestling knowledge. Living in Seattle at the time, I asked him where I could get my start, and he pointed me straight to Portland, Oregon, where "Playboy" Buddy Rose and Colonel DeBeers were running a wrestling school out of [Straight Blast Gym](https://www.straightblastgym.com). Every Sunday, I made the two hour trek to get slammed and learn the ropes, literally and figuratively, right near the Rose Garden.
 
+But the itch to wrestle wasn’t satisfied in Portland. I packed my bags and headed south to California, to train and perform with AWS (Alternative Wrestling Show) based in the City of Industry. And let me tell you, if you know SoCal, you know the traffic’s a nightmare. Think of the 405/10/60 combo at 2 p.m. on a weekday. Yeah, brutal. But it was worth every second of road rage.
 
-I then moved to Long Beach, California to train and perform with AWS (Alternative Wrestling Show) based in the City of Industry. If you know SoCal, you're aware that I endured miserable hours in traffic on the 405/10/60 at 2pm on a weekday to catch a 4pm class. Other than performing for AWS I performed for NWPW (New Wave Pro Wrestling), where I was a tag team champion, IWL (Insane Wrestling League), and multiple indy lucha promotions around Los Angeles.
+In SoCal, I didn’t just wrestle, I thrived. I had the honor of being a tag team champion in NWPW (New Wave Pro Wrestling), and I made a name for myself in IWL (Insane Wrestling League) and a slew of independent lucha promotions all across Los Angeles. My time in the ring taught me everything from the psychology of a match to the sheer grit it takes to make it in this business.
 
-I created this project to share my experience and hope it helps others to succeed as a pro wrestler / sports entertainer. I'm data-driven and guarantee you'll consume a lot of stats to help grow and maximize your career.
+### Why bumpXfeed?
 
-## Links
-- [JalenWu's Youtube](https://www.youtube.com/channel/UCrIgygbZ7lxsMbYn29WtSwA)
-- [CAGEMATCH](https://www.cagematch.net/en/?id=2&nr=10961)
+So, why bumpXfeed? After hanging up my boots, I realized I still had a lot to give to the wrestling community. This project is my way of paying it forward, sharing the lessons I learned, the stats that can give you an edge, and the stories that make this industry so damn fascinating. I’m all about the data, but I’m also about the heart that goes into every dropkick, suplex, and title chase. Whether you’re a wrestler looking to up your game or a fan wanting to dive deeper into the sport, bumpXfeed is here to help you succeed.
 
-## Contact
-Questions? Comments? Rants? You can [write them here](https://forms.gle/XDcfxC74ocytjtbA6)
+## Connect with Me
+
+Want to see some of my old matches? Curious about my thoughts on the latest WWE storyline? Or maybe you just want to talk shop? Here’s where you can find me:
+
+- [Jalen Wu's YouTube Channel](https://www.youtube.com/channel/UCrIgygbZ7lxsMbYn29WtSwA)
+- [CAGEMATCH Profile](https://www.cagematch.net/en/?id=2&nr=10961)
+- [bumpXfeed's X](https://twitter.com/bumpxfeed)
+- [bumpXfeed's Facebook](https://www.facebook.com/bumpxfeed/)
+
+### Got Questions?
+
+Whether you’ve got questions, comments, or just want to rant about wrestling, I’m all ears. Drop me a line [here](https://forms.gle/XDcfxC74ocytjtbA6). Let’s talk wrestling!
