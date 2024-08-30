@@ -1,13 +1,31 @@
 # Redirects from what the browser requests to what we serve
 # https://docs.netlify.com/routing/redirects/
-/home                /
-/blog/my-post.php    /blog/my-post
-/news                /blog
-/cuties              https://www.petsofnetlify.com
-/authors/c%C3%A9line /authors/about-c%C3%A9line
+/page/3     /archives
+/page/4     /archives
+posts/2023/page/3     /archives
+/privacy-policy     /privacy
+/privacy-policy.html     /privacy
 /masked.webp         /posts/2023/frequently-asked-questions-about-the-match-quality-index-mqi/masked.webp
 /posts/2023-04-01-the-ultimate-guide-to-trying-out-for-wwes-performance-center   /posts/2023/the-ultimate-guide-to-try-out-for-wwe-performance-center
+/posts/the-ultimate-guide-to-trying-out-for-wwes-performance-center     /posts/2023/the-ultimate-guide-to-try-out-for-wwe-performance-center
 /posts/2023-04-06-blackxbrave     /posts/2023/black-x-brave-wrestling-academy-training-with-seth-rollins-in-davenport-iowa
-/posts/2023-04-10-pro-wrestling-training-to-main-roster-austin-theory-from-the-wwe     /posts/2023/pro-wrestling-training-to-main-roster-austin-theory-from-the-wwe/
-
-
+/posts/black-x-brave-wrestling-academy-training-with-seth-rollins-in-davenport-iowa     /posts/2023/black-x-brave-wrestling-academy-training-with-seth-rollins-in-davenport-iowa
+/posts/2023-04-10-pro-wrestling-training-to-main-roster-austin-theory-from-the-wwe     /posts/2023/pro-wrestling-training-to-main-roster-austin-theory-from-the-wwe
+/posts/pro-wrestling-training-to-main-roster-austin-theory-from-the-wwe     /posts/2023/pro-wrestling-training-to-main-roster-austin-theory-from-the-wwe
+/posts/2023-04-12-take-your-wrestling-career-to-the-next-level-at-the-nywc-training-academy     /posts/2023/take-your-wrestling-career-to-the-next-level-at-the-nywc-training-academy
+/posts/take-your-wrestling-career-to-the-next-level-at-the-nywc-training-academy     /posts/2023/take-your-wrestling-career-to-the-next-level-at-the-nywc-training-academy
+/posts/2023-04-02-the-world-famous-monster-factory-developing-talent-since-1983     /posts/2023/the-world-famous-monster-factory-developing-pro-wrestling-talent-since-1983
+/posts/the-world-famous-monster-factory-developing-talent-since-1983     /posts/2023/the-world-famous-monster-factory-developing-pro-wrestling-talent-since-1983
+/posts/2023-11-04-wwe-crown-jewel-2023     /posts/2023/wwe-crown-jewel-2023-a-comprehensive-review-of-all-the-matches
+/posts/2023-11-10-faq     /posts/2023/frequently-asked-questions-about-the-match-quality-index-mqi
+/tags/how-to-choose-a-pro-wrestling-school     /posts/2023/how-to-choose-the-right-pro-wrestling-school-for-you
+/posts/2023-11-03-how-to-choose-the-right-pro-wrestling-school-for-you     /posts/2023/how-to-choose-the-right-pro-wrestling-school-for-you
+/posts/how-to-choose-the-right-pro-wrestling-school-for-you     /posts/2023/how-to-choose-the-right-pro-wrestling-school-for-you
+/posts/2023-01-28-wwe-royal-rumble-2023     /posts/2023/wwe-royal-rumble-2023-the-good-the-bad-and-the-ugly
+/posts/2015-wwe-performance-center-trainees-where-are-they-now     /posts/2023/2015-wwe-performance-center-trainees-where-are-they-now
+/tags/watch     /tags
+/tags/booking     /tags
+/tags/returns     /tags
+/tags/worst     /tags
+/tags/matches     /tags
+/tags/pro-wrestling-ratings     /tags
