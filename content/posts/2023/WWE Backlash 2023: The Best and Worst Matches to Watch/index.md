@@ -5,7 +5,7 @@ lastmod:
 # weight: 1
 # aliases: ["/first"]
 tags: ["WWE", "Hell in a Cell", "2023", "ratings", "MQI", "match quality index", "Bianca Belair", "Iyo Sky", "Seth Rollins", "Omos", "MVP", "Austin Theory", "Bobby Lashley", "Bronson Reed", "Rhea Ripley", "Zelina Vega", "Damian Priest", "Solo Sikoa", "Jey Uso", "Jimmy Uso", "Matt Riddle", "Kevin Owens", "Sami Zayn", "Cody Rhodes", "Brock Lesnar"]
-categories: [WWE Watch Guide]
+categories: [WWE Match Reviews & Viewing Guide]
 author: "AI Styles"
 # author: ["Me", "You"] # multiple authors
 showToc: true

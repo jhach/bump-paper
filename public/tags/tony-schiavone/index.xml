@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tony Schiavone on bumpXfeed</title>
-    <link>https://bumpxfeed.com/tags/tony-schiavone/</link>
+    <link>http://localhost:1313/tags/tony-schiavone/</link>
     <description>Recent content in Tony Schiavone on bumpXfeed</description>
     <image>
       <title>bumpXfeed</title>
-      <url>https://bumpxfeed.com/images/bf-black.png</url>
-      <link>https://bumpxfeed.com/images/bf-black.png</link>
+      <url>http://localhost:1313/images/bf-black.png</url>
+      <link>http://localhost:1313/images/bf-black.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://bumpxfeed.com/tags/tony-schiavone/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tony-schiavone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Flare for the Old, Nostalgic Wrestling Segment with Stunning Steve Austin and Flyin’ Brian Pillman</title>
-      <link>https://bumpxfeed.com/posts/2024/a-flare-for-the-old-nostalgic-wrestling-segment-with-stunning-steve-austin-and-flyin-brian-pillman/</link>
+      <link>http://localhost:1313/posts/2024/a-flare-for-the-old-nostalgic-wrestling-segment-with-stunning-steve-austin-and-flyin-brian-pillman/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/posts/2024/a-flare-for-the-old-nostalgic-wrestling-segment-with-stunning-steve-austin-and-flyin-brian-pillman/</guid>
+      <guid>http://localhost:1313/posts/2024/a-flare-for-the-old-nostalgic-wrestling-segment-with-stunning-steve-austin-and-flyin-brian-pillman/</guid>
       <description>In this entertaining segment, the legendary “Nature Boy” Ric Flair is played by Flyin&amp;#39; Brian Pillman and hosts a celebration of nostalgia called “A Flare for the Old.” The event features the seven, eight, or nine-time world champion (the count seems a bit fuzzy!) and his maid, Pate. The crowd erupts as Stunning Steve Austin, one half of the World Tag Team Champions, takes the stage. Amid applause and boos, Steve shares insights about the Hollywood Blondes’ tag team success. But the real drama unfolds when Arn Anderson enters the ring, leading to an unexpected showdown.</description>
     </item>
   </channel>

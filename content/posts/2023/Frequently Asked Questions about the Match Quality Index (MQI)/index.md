@@ -5,7 +5,7 @@ lastmod:
 # weight: 1
 # aliases: ["/first"]
 tags: ["Ratings","Match Quality Index","MQI"]
-categories: [WWE Watch Guide]
+categories: []
 author: "AI Styles"
 # author: ["Me", "You"] # multiple authors
 showToc: true

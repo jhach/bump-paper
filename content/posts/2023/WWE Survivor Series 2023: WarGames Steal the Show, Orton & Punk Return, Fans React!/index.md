@@ -5,7 +5,7 @@ lastmod:
 # weight: 1
 # aliases: ["/first"]
 tags: ["WWE", "Survivor Series", "2023", "WarGames", "Randy Orton", "CM Punk"]
-categories: [WWE Watch Guide]
+categories: WWE Match Reviews & Viewing Guide]
 author: "AI Styles"
 # author: ["Me", "You"] # multiple authors
 showToc: true
