@@ -2,673 +2,673 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on bumpXfeed</title>
-    <link>https://bumpxfeed.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on bumpXfeed</description>
     <image>
       <title>bumpXfeed</title>
-      <url>https://bumpxfeed.com/images/bf-black.png</url>
-      <link>https://bumpxfeed.com/images/bf-black.png</link>
+      <url>http://localhost:1313/images/bf-black.png</url>
+      <link>http://localhost:1313/images/bf-black.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Sep 2024 11:18:31 +1000</lastBuildDate>
-    <atom:link href="https://bumpxfeed.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arn Anderson</title>
-      <link>https://bumpxfeed.com/tags/arn-anderson/</link>
+      <link>http://localhost:1313/tags/arn-anderson/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/arn-anderson/</guid>
+      <guid>http://localhost:1313/tags/arn-anderson/</guid>
       <description></description>
     </item>
     <item>
       <title>Brian Pillman</title>
-      <link>https://bumpxfeed.com/tags/brian-pillman/</link>
+      <link>http://localhost:1313/tags/brian-pillman/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/brian-pillman/</guid>
+      <guid>http://localhost:1313/tags/brian-pillman/</guid>
       <description></description>
     </item>
     <item>
       <title>Larry Zbyszko</title>
-      <link>https://bumpxfeed.com/tags/larry-zbyszko/</link>
+      <link>http://localhost:1313/tags/larry-zbyszko/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/larry-zbyszko/</guid>
+      <guid>http://localhost:1313/tags/larry-zbyszko/</guid>
       <description></description>
     </item>
     <item>
       <title>Ric Flair</title>
-      <link>https://bumpxfeed.com/tags/ric-flair/</link>
+      <link>http://localhost:1313/tags/ric-flair/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/ric-flair/</guid>
+      <guid>http://localhost:1313/tags/ric-flair/</guid>
       <description></description>
     </item>
     <item>
       <title>Skit</title>
-      <link>https://bumpxfeed.com/tags/skit/</link>
+      <link>http://localhost:1313/tags/skit/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/skit/</guid>
+      <guid>http://localhost:1313/tags/skit/</guid>
       <description></description>
     </item>
     <item>
       <title>Steve Austin</title>
-      <link>https://bumpxfeed.com/tags/steve-austin/</link>
+      <link>http://localhost:1313/tags/steve-austin/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/steve-austin/</guid>
+      <guid>http://localhost:1313/tags/steve-austin/</guid>
       <description></description>
     </item>
     <item>
       <title>Tony Schiavone</title>
-      <link>https://bumpxfeed.com/tags/tony-schiavone/</link>
+      <link>http://localhost:1313/tags/tony-schiavone/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/tony-schiavone/</guid>
+      <guid>http://localhost:1313/tags/tony-schiavone/</guid>
       <description></description>
     </item>
     <item>
       <title>WCW</title>
-      <link>https://bumpxfeed.com/tags/wcw/</link>
+      <link>http://localhost:1313/tags/wcw/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/wcw/</guid>
+      <guid>http://localhost:1313/tags/wcw/</guid>
       <description></description>
     </item>
     <item>
       <title>WCW Saturday Night</title>
-      <link>https://bumpxfeed.com/tags/wcw-saturday-night/</link>
+      <link>http://localhost:1313/tags/wcw-saturday-night/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/wcw-saturday-night/</guid>
+      <guid>http://localhost:1313/tags/wcw-saturday-night/</guid>
       <description></description>
     </item>
     <item>
       <title>WWE</title>
-      <link>https://bumpxfeed.com/tags/wwe/</link>
+      <link>http://localhost:1313/tags/wwe/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/wwe/</guid>
+      <guid>http://localhost:1313/tags/wwe/</guid>
       <description></description>
     </item>
     <item>
       <title>BULLET CLUB</title>
-      <link>https://bumpxfeed.com/tags/bullet-club/</link>
+      <link>http://localhost:1313/tags/bullet-club/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/bullet-club/</guid>
+      <guid>http://localhost:1313/tags/bullet-club/</guid>
       <description></description>
     </item>
     <item>
       <title>Florida</title>
-      <link>https://bumpxfeed.com/tags/florida/</link>
+      <link>http://localhost:1313/tags/florida/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/florida/</guid>
+      <guid>http://localhost:1313/tags/florida/</guid>
       <description></description>
     </item>
     <item>
       <title>Guerrillas of Dynasty</title>
-      <link>https://bumpxfeed.com/tags/guerrillas-of-dynasty/</link>
+      <link>http://localhost:1313/tags/guerrillas-of-dynasty/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/guerrillas-of-dynasty/</guid>
+      <guid>http://localhost:1313/tags/guerrillas-of-dynasty/</guid>
       <description></description>
     </item>
     <item>
       <title>New Japan Pro Wrestling</title>
-      <link>https://bumpxfeed.com/tags/new-japan-pro-wrestling/</link>
+      <link>http://localhost:1313/tags/new-japan-pro-wrestling/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/new-japan-pro-wrestling/</guid>
+      <guid>http://localhost:1313/tags/new-japan-pro-wrestling/</guid>
       <description></description>
     </item>
     <item>
       <title>Smackdown</title>
-      <link>https://bumpxfeed.com/tags/smackdown/</link>
+      <link>http://localhost:1313/tags/smackdown/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/smackdown/</guid>
+      <guid>http://localhost:1313/tags/smackdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Tama Tonga</title>
-      <link>https://bumpxfeed.com/tags/tama-tonga/</link>
+      <link>http://localhost:1313/tags/tama-tonga/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/tama-tonga/</guid>
+      <guid>http://localhost:1313/tags/tama-tonga/</guid>
       <description></description>
     </item>
     <item>
       <title>The Bloodline</title>
-      <link>https://bumpxfeed.com/tags/the-bloodline/</link>
+      <link>http://localhost:1313/tags/the-bloodline/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/the-bloodline/</guid>
+      <guid>http://localhost:1313/tags/the-bloodline/</guid>
       <description></description>
     </item>
     <item>
       <title>All Japan Pro Wrestling</title>
-      <link>https://bumpxfeed.com/tags/all-japan-pro-wrestling/</link>
+      <link>http://localhost:1313/tags/all-japan-pro-wrestling/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/all-japan-pro-wrestling/</guid>
+      <guid>http://localhost:1313/tags/all-japan-pro-wrestling/</guid>
       <description></description>
     </item>
     <item>
       <title>Kuroshio</title>
-      <link>https://bumpxfeed.com/tags/kuroshio/</link>
+      <link>http://localhost:1313/tags/kuroshio/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/kuroshio/</guid>
+      <guid>http://localhost:1313/tags/kuroshio/</guid>
       <description></description>
     </item>
     <item>
       <title>Lash Legend</title>
-      <link>https://bumpxfeed.com/tags/lash-legend/</link>
+      <link>http://localhost:1313/tags/lash-legend/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/lash-legend/</guid>
+      <guid>http://localhost:1313/tags/lash-legend/</guid>
       <description></description>
     </item>
     <item>
       <title>NXT</title>
-      <link>https://bumpxfeed.com/tags/nxt/</link>
+      <link>http://localhost:1313/tags/nxt/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/nxt/</guid>
+      <guid>http://localhost:1313/tags/nxt/</guid>
       <description></description>
     </item>
     <item>
       <title>Sponsorship</title>
-      <link>https://bumpxfeed.com/tags/sponsorship/</link>
+      <link>http://localhost:1313/tags/sponsorship/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/sponsorship/</guid>
+      <guid>http://localhost:1313/tags/sponsorship/</guid>
       <description></description>
     </item>
     <item>
       <title>Taco Bell</title>
-      <link>https://bumpxfeed.com/tags/taco-bell/</link>
+      <link>http://localhost:1313/tags/taco-bell/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/taco-bell/</guid>
+      <guid>http://localhost:1313/tags/taco-bell/</guid>
       <description></description>
     </item>
     <item>
       <title>TNA</title>
-      <link>https://bumpxfeed.com/tags/tna/</link>
+      <link>http://localhost:1313/tags/tna/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/tna/</guid>
+      <guid>http://localhost:1313/tags/tna/</guid>
       <description></description>
     </item>
     <item>
       <title>Wes Lee</title>
-      <link>https://bumpxfeed.com/tags/wes-lee/</link>
+      <link>http://localhost:1313/tags/wes-lee/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/wes-lee/</guid>
+      <guid>http://localhost:1313/tags/wes-lee/</guid>
       <description></description>
     </item>
     <item>
       <title>WWE Performance Center</title>
-      <link>https://bumpxfeed.com/tags/wwe-performance-center/</link>
+      <link>http://localhost:1313/tags/wwe-performance-center/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/wwe-performance-center/</guid>
+      <guid>http://localhost:1313/tags/wwe-performance-center/</guid>
       <description></description>
     </item>
     <item>
       <title>Zachary Wentz</title>
-      <link>https://bumpxfeed.com/tags/zachary-wentz/</link>
+      <link>http://localhost:1313/tags/zachary-wentz/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/zachary-wentz/</guid>
+      <guid>http://localhost:1313/tags/zachary-wentz/</guid>
       <description></description>
     </item>
     <item>
       <title>CM Punk</title>
-      <link>https://bumpxfeed.com/tags/cm-punk/</link>
+      <link>http://localhost:1313/tags/cm-punk/</link>
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/cm-punk/</guid>
+      <guid>http://localhost:1313/tags/cm-punk/</guid>
       <description></description>
     </item>
     <item>
       <title>Randy Orton</title>
-      <link>https://bumpxfeed.com/tags/randy-orton/</link>
+      <link>http://localhost:1313/tags/randy-orton/</link>
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/randy-orton/</guid>
+      <guid>http://localhost:1313/tags/randy-orton/</guid>
       <description></description>
     </item>
     <item>
       <title>Survivor Series</title>
-      <link>https://bumpxfeed.com/tags/survivor-series/</link>
+      <link>http://localhost:1313/tags/survivor-series/</link>
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/survivor-series/</guid>
+      <guid>http://localhost:1313/tags/survivor-series/</guid>
       <description></description>
     </item>
     <item>
       <title>WarGames</title>
-      <link>https://bumpxfeed.com/tags/wargames/</link>
+      <link>http://localhost:1313/tags/wargames/</link>
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/wargames/</guid>
+      <guid>http://localhost:1313/tags/wargames/</guid>
       <description></description>
     </item>
     <item>
       <title>Cody Rhodes</title>
-      <link>https://bumpxfeed.com/tags/cody-rhodes/</link>
+      <link>http://localhost:1313/tags/cody-rhodes/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/cody-rhodes/</guid>
+      <guid>http://localhost:1313/tags/cody-rhodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Damian Priest</title>
-      <link>https://bumpxfeed.com/tags/damian-priest/</link>
+      <link>http://localhost:1313/tags/damian-priest/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/damian-priest/</guid>
+      <guid>http://localhost:1313/tags/damian-priest/</guid>
       <description></description>
     </item>
     <item>
       <title>Drew McIntyre</title>
-      <link>https://bumpxfeed.com/tags/drew-mcintyre/</link>
+      <link>http://localhost:1313/tags/drew-mcintyre/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/drew-mcintyre/</guid>
+      <guid>http://localhost:1313/tags/drew-mcintyre/</guid>
       <description></description>
     </item>
     <item>
       <title>IYO SKY</title>
-      <link>https://bumpxfeed.com/tags/iyo-sky/</link>
+      <link>http://localhost:1313/tags/iyo-sky/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/iyo-sky/</guid>
+      <guid>http://localhost:1313/tags/iyo-sky/</guid>
       <description></description>
     </item>
     <item>
       <title>LA Knight</title>
-      <link>https://bumpxfeed.com/tags/la-knight/</link>
+      <link>http://localhost:1313/tags/la-knight/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/la-knight/</guid>
+      <guid>http://localhost:1313/tags/la-knight/</guid>
       <description></description>
     </item>
     <item>
       <title>Logan Paul</title>
-      <link>https://bumpxfeed.com/tags/logan-paul/</link>
+      <link>http://localhost:1313/tags/logan-paul/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/logan-paul/</guid>
+      <guid>http://localhost:1313/tags/logan-paul/</guid>
       <description></description>
     </item>
     <item>
       <title>Match Quality Index</title>
-      <link>https://bumpxfeed.com/tags/match-quality-index/</link>
+      <link>http://localhost:1313/tags/match-quality-index/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/match-quality-index/</guid>
+      <guid>http://localhost:1313/tags/match-quality-index/</guid>
       <description></description>
     </item>
     <item>
       <title>MQI</title>
-      <link>https://bumpxfeed.com/tags/mqi/</link>
+      <link>http://localhost:1313/tags/mqi/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/mqi/</guid>
+      <guid>http://localhost:1313/tags/mqi/</guid>
       <description></description>
     </item>
     <item>
       <title>Nia Jax</title>
-      <link>https://bumpxfeed.com/tags/nia-jax/</link>
+      <link>http://localhost:1313/tags/nia-jax/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/nia-jax/</guid>
+      <guid>http://localhost:1313/tags/nia-jax/</guid>
       <description></description>
     </item>
     <item>
       <title>Paul Heyman</title>
-      <link>https://bumpxfeed.com/tags/paul-heyman/</link>
+      <link>http://localhost:1313/tags/paul-heyman/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/paul-heyman/</guid>
+      <guid>http://localhost:1313/tags/paul-heyman/</guid>
       <description></description>
     </item>
     <item>
       <title>Raquel Rodriguez</title>
-      <link>https://bumpxfeed.com/tags/raquel-rodriguez/</link>
+      <link>http://localhost:1313/tags/raquel-rodriguez/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/raquel-rodriguez/</guid>
+      <guid>http://localhost:1313/tags/raquel-rodriguez/</guid>
       <description></description>
     </item>
     <item>
       <title>Ratings</title>
-      <link>https://bumpxfeed.com/tags/ratings/</link>
+      <link>http://localhost:1313/tags/ratings/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/ratings/</guid>
+      <guid>http://localhost:1313/tags/ratings/</guid>
       <description></description>
     </item>
     <item>
       <title>Rey Mysterio</title>
-      <link>https://bumpxfeed.com/tags/rey-mysterio/</link>
+      <link>http://localhost:1313/tags/rey-mysterio/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/rey-mysterio/</guid>
+      <guid>http://localhost:1313/tags/rey-mysterio/</guid>
       <description></description>
     </item>
     <item>
       <title>Rhea Ripley</title>
-      <link>https://bumpxfeed.com/tags/rhea-ripley/</link>
+      <link>http://localhost:1313/tags/rhea-ripley/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/rhea-ripley/</guid>
+      <guid>http://localhost:1313/tags/rhea-ripley/</guid>
       <description></description>
     </item>
     <item>
       <title>Roman Reigns</title>
-      <link>https://bumpxfeed.com/tags/roman-reigns/</link>
+      <link>http://localhost:1313/tags/roman-reigns/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/roman-reigns/</guid>
+      <guid>http://localhost:1313/tags/roman-reigns/</guid>
       <description></description>
     </item>
     <item>
       <title>Royal Rumble</title>
-      <link>https://bumpxfeed.com/tags/royal-rumble/</link>
+      <link>http://localhost:1313/tags/royal-rumble/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/royal-rumble/</guid>
+      <guid>http://localhost:1313/tags/royal-rumble/</guid>
       <description></description>
     </item>
     <item>
       <title>Sami Zayn</title>
-      <link>https://bumpxfeed.com/tags/sami-zayn/</link>
+      <link>http://localhost:1313/tags/sami-zayn/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/sami-zayn/</guid>
+      <guid>http://localhost:1313/tags/sami-zayn/</guid>
       <description></description>
     </item>
     <item>
       <title>Shayna Baszler</title>
-      <link>https://bumpxfeed.com/tags/shayna-baszler/</link>
+      <link>http://localhost:1313/tags/shayna-baszler/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/shayna-baszler/</guid>
+      <guid>http://localhost:1313/tags/shayna-baszler/</guid>
       <description></description>
     </item>
     <item>
       <title>Solo Sikoa</title>
-      <link>https://bumpxfeed.com/tags/solo-sikoa/</link>
+      <link>http://localhost:1313/tags/solo-sikoa/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/solo-sikoa/</guid>
+      <guid>http://localhost:1313/tags/solo-sikoa/</guid>
       <description></description>
     </item>
     <item>
       <title>Brock Lesnar</title>
-      <link>https://bumpxfeed.com/tags/brock-lesnar/</link>
+      <link>http://localhost:1313/tags/brock-lesnar/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/brock-lesnar/</guid>
+      <guid>http://localhost:1313/tags/brock-lesnar/</guid>
       <description></description>
     </item>
     <item>
       <title>Bronson Reed</title>
-      <link>https://bumpxfeed.com/tags/bronson-reed/</link>
+      <link>http://localhost:1313/tags/bronson-reed/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/bronson-reed/</guid>
+      <guid>http://localhost:1313/tags/bronson-reed/</guid>
       <description></description>
     </item>
     <item>
       <title>Hell in a Cell</title>
-      <link>https://bumpxfeed.com/tags/hell-in-a-cell/</link>
+      <link>http://localhost:1313/tags/hell-in-a-cell/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/hell-in-a-cell/</guid>
+      <guid>http://localhost:1313/tags/hell-in-a-cell/</guid>
       <description></description>
     </item>
     <item>
       <title>Jey Uso</title>
-      <link>https://bumpxfeed.com/tags/jey-uso/</link>
+      <link>http://localhost:1313/tags/jey-uso/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/jey-uso/</guid>
+      <guid>http://localhost:1313/tags/jey-uso/</guid>
       <description></description>
     </item>
     <item>
       <title>Jimmy Uso</title>
-      <link>https://bumpxfeed.com/tags/jimmy-uso/</link>
+      <link>http://localhost:1313/tags/jimmy-uso/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/jimmy-uso/</guid>
+      <guid>http://localhost:1313/tags/jimmy-uso/</guid>
       <description></description>
     </item>
     <item>
       <title>Matt Riddle</title>
-      <link>https://bumpxfeed.com/tags/matt-riddle/</link>
+      <link>http://localhost:1313/tags/matt-riddle/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/matt-riddle/</guid>
+      <guid>http://localhost:1313/tags/matt-riddle/</guid>
       <description></description>
     </item>
     <item>
       <title>MVP</title>
-      <link>https://bumpxfeed.com/tags/mvp/</link>
+      <link>http://localhost:1313/tags/mvp/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/mvp/</guid>
+      <guid>http://localhost:1313/tags/mvp/</guid>
       <description></description>
     </item>
     <item>
       <title>Omos</title>
-      <link>https://bumpxfeed.com/tags/omos/</link>
+      <link>http://localhost:1313/tags/omos/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/omos/</guid>
+      <guid>http://localhost:1313/tags/omos/</guid>
       <description></description>
     </item>
     <item>
       <title>Zelina Vega</title>
-      <link>https://bumpxfeed.com/tags/zelina-vega/</link>
+      <link>http://localhost:1313/tags/zelina-vega/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/zelina-vega/</guid>
+      <guid>http://localhost:1313/tags/zelina-vega/</guid>
       <description></description>
     </item>
     <item>
       <title>Crown Jewel</title>
-      <link>https://bumpxfeed.com/tags/crown-jewel/</link>
+      <link>http://localhost:1313/tags/crown-jewel/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/crown-jewel/</guid>
+      <guid>http://localhost:1313/tags/crown-jewel/</guid>
       <description></description>
     </item>
     <item>
       <title>John Cena</title>
-      <link>https://bumpxfeed.com/tags/john-cena/</link>
+      <link>http://localhost:1313/tags/john-cena/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/john-cena/</guid>
+      <guid>http://localhost:1313/tags/john-cena/</guid>
       <description></description>
     </item>
     <item>
       <title>Zoey Stark</title>
-      <link>https://bumpxfeed.com/tags/zoey-stark/</link>
+      <link>http://localhost:1313/tags/zoey-stark/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/zoey-stark/</guid>
+      <guid>http://localhost:1313/tags/zoey-stark/</guid>
       <description></description>
     </item>
     <item>
       <title>Backlash</title>
-      <link>https://bumpxfeed.com/tags/backlash/</link>
+      <link>http://localhost:1313/tags/backlash/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/backlash/</guid>
+      <guid>http://localhost:1313/tags/backlash/</guid>
       <description></description>
     </item>
     <item>
       <title>Bad Bunny</title>
-      <link>https://bumpxfeed.com/tags/bad-bunny/</link>
+      <link>http://localhost:1313/tags/bad-bunny/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/bad-bunny/</guid>
+      <guid>http://localhost:1313/tags/bad-bunny/</guid>
       <description></description>
     </item>
     <item>
       <title>Basketball</title>
-      <link>https://bumpxfeed.com/tags/basketball/</link>
+      <link>http://localhost:1313/tags/basketball/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/basketball/</guid>
+      <guid>http://localhost:1313/tags/basketball/</guid>
       <description></description>
     </item>
     <item>
       <title>Football</title>
-      <link>https://bumpxfeed.com/tags/football/</link>
+      <link>http://localhost:1313/tags/football/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/football/</guid>
+      <guid>http://localhost:1313/tags/football/</guid>
       <description></description>
     </item>
     <item>
       <title>Puerto Rico</title>
-      <link>https://bumpxfeed.com/tags/puerto-rico/</link>
+      <link>http://localhost:1313/tags/puerto-rico/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/puerto-rico/</guid>
+      <guid>http://localhost:1313/tags/puerto-rico/</guid>
       <description></description>
     </item>
     <item>
       <title>Track and Field</title>
-      <link>https://bumpxfeed.com/tags/track-and-field/</link>
+      <link>http://localhost:1313/tags/track-and-field/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/track-and-field/</guid>
+      <guid>http://localhost:1313/tags/track-and-field/</guid>
       <description></description>
     </item>
     <item>
       <title>Wrestling</title>
-      <link>https://bumpxfeed.com/tags/wrestling/</link>
+      <link>http://localhost:1313/tags/wrestling/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/wrestling/</guid>
+      <guid>http://localhost:1313/tags/wrestling/</guid>
       <description></description>
     </item>
     <item>
       <title>Alexander Wolfe</title>
-      <link>https://bumpxfeed.com/tags/alexander-wolfe/</link>
+      <link>http://localhost:1313/tags/alexander-wolfe/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/alexander-wolfe/</guid>
+      <guid>http://localhost:1313/tags/alexander-wolfe/</guid>
       <description></description>
     </item>
     <item>
       <title>Aliyah</title>
-      <link>https://bumpxfeed.com/tags/aliyah/</link>
+      <link>http://localhost:1313/tags/aliyah/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/aliyah/</guid>
+      <guid>http://localhost:1313/tags/aliyah/</guid>
       <description></description>
     </item>
     <item>
       <title>Apollo Crews</title>
-      <link>https://bumpxfeed.com/tags/apollo-crews/</link>
+      <link>http://localhost:1313/tags/apollo-crews/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/apollo-crews/</guid>
+      <guid>http://localhost:1313/tags/apollo-crews/</guid>
       <description></description>
     </item>
     <item>
       <title>Billie Kay</title>
-      <link>https://bumpxfeed.com/tags/billie-kay/</link>
+      <link>http://localhost:1313/tags/billie-kay/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/billie-kay/</guid>
+      <guid>http://localhost:1313/tags/billie-kay/</guid>
       <description></description>
     </item>
     <item>
       <title>Magno</title>
-      <link>https://bumpxfeed.com/tags/magno/</link>
+      <link>http://localhost:1313/tags/magno/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/magno/</guid>
+      <guid>http://localhost:1313/tags/magno/</guid>
       <description></description>
     </item>
     <item>
       <title>Montez Ford</title>
-      <link>https://bumpxfeed.com/tags/montez-ford/</link>
+      <link>http://localhost:1313/tags/montez-ford/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/montez-ford/</guid>
+      <guid>http://localhost:1313/tags/montez-ford/</guid>
       <description></description>
     </item>
     <item>
       <title>No Way Jose</title>
-      <link>https://bumpxfeed.com/tags/no-way-jose/</link>
+      <link>http://localhost:1313/tags/no-way-jose/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/no-way-jose/</guid>
+      <guid>http://localhost:1313/tags/no-way-jose/</guid>
       <description></description>
     </item>
     <item>
       <title>Peter Howard</title>
-      <link>https://bumpxfeed.com/tags/peter-howard/</link>
+      <link>http://localhost:1313/tags/peter-howard/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/peter-howard/</guid>
+      <guid>http://localhost:1313/tags/peter-howard/</guid>
       <description></description>
     </item>
     <item>
       <title>Peyton Royce</title>
-      <link>https://bumpxfeed.com/tags/peyton-royce/</link>
+      <link>http://localhost:1313/tags/peyton-royce/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/peyton-royce/</guid>
+      <guid>http://localhost:1313/tags/peyton-royce/</guid>
       <description></description>
     </item>
     <item>
       <title>Radomir Petkovic</title>
-      <link>https://bumpxfeed.com/tags/radomir-petkovic/</link>
+      <link>http://localhost:1313/tags/radomir-petkovic/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/radomir-petkovic/</guid>
+      <guid>http://localhost:1313/tags/radomir-petkovic/</guid>
       <description></description>
     </item>
     <item>
       <title>Thomas Kingdon</title>
-      <link>https://bumpxfeed.com/tags/thomas-kingdon/</link>
+      <link>http://localhost:1313/tags/thomas-kingdon/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/thomas-kingdon/</guid>
+      <guid>http://localhost:1313/tags/thomas-kingdon/</guid>
       <description></description>
     </item>
     <item>
       <title>New York</title>
-      <link>https://bumpxfeed.com/tags/new-york/</link>
+      <link>http://localhost:1313/tags/new-york/</link>
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/new-york/</guid>
+      <guid>http://localhost:1313/tags/new-york/</guid>
       <description></description>
     </item>
     <item>
       <title>NYWC</title>
-      <link>https://bumpxfeed.com/tags/nywc/</link>
+      <link>http://localhost:1313/tags/nywc/</link>
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/nywc/</guid>
+      <guid>http://localhost:1313/tags/nywc/</guid>
       <description></description>
     </item>
     <item>
       <title>Bodybuilding</title>
-      <link>https://bumpxfeed.com/tags/bodybuilding/</link>
+      <link>http://localhost:1313/tags/bodybuilding/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/bodybuilding/</guid>
+      <guid>http://localhost:1313/tags/bodybuilding/</guid>
       <description></description>
     </item>
     <item>
       <title>WWA4</title>
-      <link>https://bumpxfeed.com/tags/wwa4/</link>
+      <link>http://localhost:1313/tags/wwa4/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/wwa4/</guid>
+      <guid>http://localhost:1313/tags/wwa4/</guid>
       <description></description>
     </item>
     <item>
       <title>Monster Factory</title>
-      <link>https://bumpxfeed.com/tags/monster-factory/</link>
+      <link>http://localhost:1313/tags/monster-factory/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/monster-factory/</guid>
+      <guid>http://localhost:1313/tags/monster-factory/</guid>
       <description></description>
     </item>
     <item>
       <title>New Jersey</title>
-      <link>https://bumpxfeed.com/tags/new-jersey/</link>
+      <link>http://localhost:1313/tags/new-jersey/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/new-jersey/</guid>
+      <guid>http://localhost:1313/tags/new-jersey/</guid>
       <description></description>
     </item>
     <item>
       <title>2023 Pro Wrestling Events</title>
-      <link>https://bumpxfeed.com/tags/2023/</link>
+      <link>http://localhost:1313/tags/2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/2023/</guid>
+      <guid>http://localhost:1313/tags/2023/</guid>
       <description>Explore the most thrilling moments of WWE in 2023 with in-depth analyses and reviews on bumpxfeed.com. From the electrifying WarGames matches at WWE Survivor Series 2023, which saw the return of Randy Orton and CM Punk, to the data-driven insights using the Match Quality Index (MQI) at WWE Royal Rumble, Backlash, and Crown Jewel, dive into the best and worst matches of the year. Discover how fan reactions, storytelling, and performance metrics define the standout events of WWE’s latest chapters.</description>
     </item>
     <item>
       <title>Austin Theory</title>
-      <link>https://bumpxfeed.com/tags/austin-theory/</link>
+      <link>http://localhost:1313/tags/austin-theory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/austin-theory/</guid>
+      <guid>http://localhost:1313/tags/austin-theory/</guid>
       <description>Dive into the meteoric rise of WWE’s newest sensation, Austin Theory, on bumpxfeed.com. From his days as a bodybuilder to becoming WWE United States Champion, explore how this prodigy is shaking up the wrestling world. Get the inside scoop on his standout matches, including his performance at WWE Backlash 2023, where the Match Quality Index (MQI) highlights the highs and lows of the event. Whether you&amp;#39;re curious about his athletic prowess, his WWE journey, or his future in the squared circle, bumpxfeed.com has all the insights you need on Austin Theory.</description>
     </item>
     <item>
       <title>Black X Brave Wrestling Academy</title>
-      <link>https://bumpxfeed.com/tags/black-x-brave-wrestling-academy/</link>
+      <link>http://localhost:1313/tags/black-x-brave-wrestling-academy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/black-x-brave-wrestling-academy/</guid>
+      <guid>http://localhost:1313/tags/black-x-brave-wrestling-academy/</guid>
       <description>There is 1 blog post about the Black X Brave Wrestling Academy on bumpxfeed.com. Click below to read more.</description>
     </item>
     <item>
       <title>Bobby Lashley</title>
-      <link>https://bumpxfeed.com/tags/bobby-lashley/</link>
+      <link>http://localhost:1313/tags/bobby-lashley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/bobby-lashley/</guid>
+      <guid>http://localhost:1313/tags/bobby-lashley/</guid>
       <description>Explore the dynamic career of Bobby Lashley, a dominant force in WWE and former MMA fighter. From his championship reigns to his storied matches, discover the latest blog posts, match analyses, and career highlights on bumpxfeed.com. Stay updated with Bobby Lashley&amp;#39;s journey and his impact on the world of professional wrestling.</description>
     </item>
     <item>
       <title>Iowa</title>
-      <link>https://bumpxfeed.com/tags/iowa/</link>
+      <link>http://localhost:1313/tags/iowa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/iowa/</guid>
+      <guid>http://localhost:1313/tags/iowa/</guid>
       <description>Explore the blog post dedicated to Iowa on bumpxfeed.com, featuring an in-depth look at Seth Rollins’ pro wrestling school, the Black x Brave Wrestling Academy. Dive into the details of this renowned training facility and discover why it’s a top choice for aspiring wrestlers. Click below to learn more.</description>
     </item>
     <item>
       <title>Kevin Owens</title>
-      <link>https://bumpxfeed.com/tags/kevin-owens/</link>
+      <link>http://localhost:1313/tags/kevin-owens/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/kevin-owens/</guid>
+      <guid>http://localhost:1313/tags/kevin-owens/</guid>
       <description>On bumpxfeed.com, the Kevin Owens tag page is your go-to hub for everything related to one of WWE&amp;#39;s most dynamic and hard-hitting superstars, Kevin Owens. Here, you&amp;#39;ll find a collection of blog posts that dive deep into his career highlights, memorable matches, and behind the scenes stories. Whether you&amp;#39;re a die-hard KO fan or new to his journey, this page offers a curated selection of content that showcases his impact on the world of professional wrestling. Explore detailed match reviews, event recaps, and insights into what makes Kevin Owens a standout performer in the WWE universe. Keep checking back for the latest updates on KO and his relentless pursuit of greatness.</description>
     </item>
     <item>
       <title>Seth Rollins</title>
-      <link>https://bumpxfeed.com/tags/seth-rollins/</link>
+      <link>http://localhost:1313/tags/seth-rollins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/seth-rollins/</guid>
+      <guid>http://localhost:1313/tags/seth-rollins/</guid>
       <description>Seth Rollins has solidified his reputation as one of WWE’s most dynamic and versatile superstars, consistently delivering high-caliber performances that resonate with both fans and critics. From headlining marquee events like WWE Crown Jewel 2023 where his clash with Drew McIntyre was hailed as the best match of the night, to influencing the next generation of wrestlers through his Black x Brave Wrestling Academy in Davenport, Iowa, Rollins’ impact on the wrestling world is undeniable. His matches, often analyzed using the innovative Match Quality Index (MQI), showcase his ability to blend athleticism with storytelling, making him a standout in any event he participates in. Explore more about Rollins in the 5 in-depth blog posts featured here on bumpxfeed.com, where his journey and contributions are chronicled in detail.</description>
     </item>
     <item>
       <title>The Unstoppable Force of Bianca Belair</title>
-      <link>https://bumpxfeed.com/tags/bianca-belair/</link>
+      <link>http://localhost:1313/tags/bianca-belair/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bumpxfeed.com/tags/bianca-belair/</guid>
+      <guid>http://localhost:1313/tags/bianca-belair/</guid>
       <description>Dive deep into the journey of Bianca Belair, the EST of WWE, on bumpxfeed.com. From her record-breaking title defenses to her unforgettable performances at events like WWE Backlash 2023, Royal Rumble, and Crown Jewel, explore how Bianca continues to dominate the WWE landscape. With the Match Quality Index (MQI) providing detailed analysis, discover the highs, the lows, and everything in between of her iconic matches. This comprehensive look at Bianca Belair offers fans and critics a detailed insight into her rise as one of WWE’s most formidable superstars.</description>
     </item>
   </channel>
