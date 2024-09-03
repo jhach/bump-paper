@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on bumpXfeed</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://bumpxfeed.com/categories/</link>
     <description>Recent content in Categories on bumpXfeed</description>
     <image>
       <title>bumpXfeed</title>
-      <url>http://localhost:1313/images/bf-black.png</url>
-      <link>http://localhost:1313/images/bf-black.png</link>
+      <url>https://bumpxfeed.com/images/bf-black.png</url>
+      <link>https://bumpxfeed.com/images/bf-black.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Sep 2024 11:18:31 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bumpxfeed.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Promo</title>
-      <link>http://localhost:1313/categories/promo/</link>
+      <link>https://bumpxfeed.com/categories/promo/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/promo/</guid>
+      <guid>https://bumpxfeed.com/categories/promo/</guid>
       <description></description>
     </item>
     <item>
       <title>Superstar Spotlight</title>
-      <link>http://localhost:1313/categories/superstar-spotlight/</link>
+      <link>https://bumpxfeed.com/categories/superstar-spotlight/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/superstar-spotlight/</guid>
+      <guid>https://bumpxfeed.com/categories/superstar-spotlight/</guid>
       <description></description>
     </item>
     <item>
       <title>Superstars Background Breakdown</title>
-      <link>http://localhost:1313/categories/superstars-background-breakdown/</link>
+      <link>https://bumpxfeed.com/categories/superstars-background-breakdown/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/superstars-background-breakdown/</guid>
+      <guid>https://bumpxfeed.com/categories/superstars-background-breakdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Pro Wrestling School</title>
-      <link>http://localhost:1313/categories/pro-wrestling-school/</link>
+      <link>https://bumpxfeed.com/categories/pro-wrestling-school/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/pro-wrestling-school/</guid>
+      <guid>https://bumpxfeed.com/categories/pro-wrestling-school/</guid>
       <description>Discover the best pro wrestling schools across the world, including the United States, with our comprehensive directory. Find top wrestling training centers and academies in your state, including information on programs, coaches, and how to start your professional wrestling journey.</description>
     </item>
     <item>
       <title>WWE Match Reviews &amp; Viewing Guide</title>
-      <link>http://localhost:1313/categories/wwe-match-reviews--viewing-guide/</link>
+      <link>https://bumpxfeed.com/categories/wwe-match-reviews--viewing-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/wwe-match-reviews--viewing-guide/</guid>
+      <guid>https://bumpxfeed.com/categories/wwe-match-reviews--viewing-guide/</guid>
       <description>Discover in-depth reviews, ratings, and analysis of WWE matches and events. Our WWE Match Reviews &amp;amp; Viewing Guide offers fans a comprehensive look at the best (and worst) matches, along with tips on what to watch and what to skip.</description>
     </item>
   </channel>
