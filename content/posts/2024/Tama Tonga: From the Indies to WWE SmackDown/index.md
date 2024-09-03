@@ -4,7 +4,7 @@ date: 2024-05-10
 lastmod:
 # weight: 1
 # aliases: ["/first"]
-tags: ["WWE","Smackdown","Tama Tonga","Florida", "New Japan Pro Wrestling", "BULLET CLUB", "The Bloodline", "Guerrillas of Dynasty"]
+tags: ["WWE","Smackdown","Tama Tonga","Florida", "New Japan Pro Wrestling", "BULLET CLUB", "The Bloodline"]
 categories: ["Superstar Spotlight"]
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors

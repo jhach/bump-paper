@@ -4,7 +4,7 @@ date: 2023-05-26
 lastmod:
 # weight: 1
 # aliases: ["/first"]
-tags: ["Backlash","WWE","Puerto Rico", "Bad Bunny","Track and Field", "Basketball","Football", "Wrestling", "Bianca Belair", "Iyo Sky", "Seth Rollins", "Omos", "MVP", "Austin Theory", "Bobby Lashley", "Bronson Reed", "Rhea Ripley", "Zelina Vega", "Damian Priest", "Solo Sikoa", "Jey Uso", "Jimmy Uso", "Matt Riddle", "Kevin Owens", "Sami Zayn", "Cody Rhodes", "Brock Lesnar"]
+tags: ["Backlash","WWE","Puerto Rico", "Bad Bunny","Track and Field", "Basketball","Football", "Bianca Belair", "Iyo Sky", "Seth Rollins", "Omos", "MVP", "Austin Theory", "Bobby Lashley", "Bronson Reed", "Rhea Ripley", "Zelina Vega", "Damian Priest", "Solo Sikoa", "Jey Uso", "Jimmy Uso", "Matt Riddle", "Kevin Owens", "Sami Zayn", "Cody Rhodes", "Brock Lesnar"]
 categories: ["Superstars Background Breakdown"]
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors

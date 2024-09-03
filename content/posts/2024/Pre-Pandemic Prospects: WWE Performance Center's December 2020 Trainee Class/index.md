@@ -4,7 +4,7 @@ date: 2024-05-06
 lastmod:
 # weight: 1
 # aliases: ["/first"]
-tags: ["WWE","WWE Performance Center","Florida", "Wes Lee", "NXT", "Lash Legend", "Zachary Wentz", "Kuroshio", "Sponsorship", "Taco Bell", "TNA", "All Japan Pro Wrestling"]
+tags: ["WWE","WWE Performance Center","Florida", "Wes Lee", "NXT", "Lash Legend", "Zachary Wentz", "Sponsorship", "Taco Bell", "TNA", "All Japan Pro Wrestling"]
 categories: ["Pro Wrestling School"]
 author: "Jalen Wu"
 # author: ["Me", "You"] # multiple authors
